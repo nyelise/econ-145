@@ -1,0 +1,1001 @@
+X,visits,days_attend,hours_attend,gender,age,zip,extend,length,spend_food_drink,spend_private,spend_clothes,spend_transportation,spend_donations,spend_other,spend_food_drink_total,spend_entertainment_total,spend_shopping_total,spend_travel_total,length_boulder,lodging,lodging_cost
+223,1-2 times,1-2 days,5,Female,65-74,93113,No,A few hours,$50-$99,0,$1 - $20,0,0,$21-$49,"$2,000-$4,999",$200-$499,0,$1 - $20,Local,Hotel or motel,200
+52,5-6 times,0,0,Male,65-74,80309,NA,2 days,0,0,0,0,0,0,NA,$50-$99,$1 - $20,$200-$499,NA,"Friends, family or no expense",NA
+78,1-2 times,3-4 days,4,Male,55-64,80304,NA,Home is here,$1 - $20,0,0,0,0,0,NA,NA,$500-$999,$200-$499,Resident,Boulder Resident,NA
+206,20,5-6 days,2,Female,Prefer not to say,80309,NA,A few hours,$50-$99,NA,$1 - $20,$1 - $20,"$1,000-$1,499",$21-$49,$20-$49,$1 - $20,$500-$999,$50-$99,Day trip,"Friends, family or no expense",240
+20,20,0,0,Female,25-34,80303,Yes,Zero,0,0,0,$1 - $20,0,0,"$1,000-$1,999",0,$50-$99,$20-$49,Three nights,"Friends, family or no expense",0
+64,20,1-2 days,5,Female,75-84,80303,No,Live in area,$1 - $20,0,$1 - $20,0,0,0,"$1,000-$1,999",$500-$999,0,$50-$99,Two nights,"Friends, family or no expense",280
+71,20,3-4 days,3,Female,55-64,80304,No,Didn't extend stay,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$100-$199,$100-$199,$1 - $20,$50-$99,$500-$999,Four nights,"Friends, family or no expense",175
+150,20,1-2 days,3,Female,65-74,80302,No,Home is here,$21-$49,0,0,$1 - $20,0,$21-$49,0,NA,$50-$99,0,Four nights,NA,200
+282,1-2 times,1-2 days,3,Female,55-64,80302,Yes,NA,"$1,000.00",$500-$999,"$1,000-$1,499",$50-$99,$21-$49,0,$1 - $20,0,0,0,Two nights,Hotel or motel,175
+105,20,3-4 days,2,Male,65-74,80309,NA,1 day,$100-$199,"$2,000-$3,000",$50-$99,$1 - $20,$21-$49,"$3,000-$4,000",$20-$49,0,0,$20-$49,Resident,"Friends, family or no expense",200
+104,20,3-4 days,3,Female,45-54,80303,Yes,0,$100-$199,0,$50-$99,$1 - $20,$1 - $20,$50-$99,$1 - $20,$200-$499,$200-$499,$1 - $20,Local,NA,N/A
+169,1-2 times,1-2 days,8,Male,18-24,80303,Yes,1 day,$21-$49,$21-$49,$21-$49,$21-$49,$21-$49,$21-$49,$1 - $20,$1 - $20,$1 - $20,$1 - $20,Day trip,NA,N/A
+183,3-4 times,1-2 days,4,Female,25-34,80306,NA,A few hours,$21-$49,$100-$199,"$1,000-$1,499",NA,$100-$199,$1 - $20,$1 - $20,0,$500-$999,$500-$999,Live in Boulder,NA,125
+246,1,12,5,Female,18-24,12345,NA,A few hours,$100-$199,0,$200-$499,0,$21-$49,$500-$999,NA,$500-$999,$100-$199,NA,One night,Hotel or motel,500
+229,3-4 times,3-4 days,4,Female,55-64,80306,Yes,0,$50-$99,$200-$499,$21-$49,$1 - $20,$21-$49,0,0,$50-$99,NA,$500-$999,I live here,Hotel or motel,240
+6,20,1-2 days,1,Male,45-54,80305,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",0,0,0,0,0,0,$200-$499,$100-$199,$100-$199,$50-$99,Four nights,Boulder Resident,125
+97,5-6 times,1-2 days,3,Female,55-64,80306,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$1 - $20,0,0,$1 - $20,0,$1 - $20,$1 - $20,$50-$99,NA,$500-$999,I live here,NA,3
+217,20,3-4 days,2,Female,45-54,93111,No,A few hours,$50-$99,0,$21-$49,$21-$49,$1 - $20,0,$20-$49,$500-$999,NA,0,Resident,NA,125
+262,20,5-6 days,5,Male,35-44,80305,NA,I live here,$200-$499,$50-$99,NA,"$2,000-$3,000",0,$1 - $20,$50-$99,$50-$99,$50-$99,$20-$49,I live here,Home,N/A
+154,20,3-4 days,2,Female,75-84,80304,Yes,2 days,$21-$49,0,$100-$199,$1 - $20,0,0,NA,0,0,NA,Day trip,"Friends, family or no expense",125
+234,5-6 times,1-2 days,2,Female,45-54,80303,Yes,I live here,$50-$99,0,0,0,0,0,$1 - $20,$200-$499,$200-$499,$500-$999,Local,Boulder Resident,N/A
+201,20,5-6 days,6,Female,25-34,80305,No,Live in area,$50-$99,$50-$99,$1 - $20,$21-$49,$500-$999,$500-$999,$1 - $20,$1 - $20,$20-$49,$1 - $20,Live in Boulder,Hotel or motel,500
+47,5-6 times,0,4,Female,45-54,80309,No,Live in area,0,0,0,0,0,0,$1 - $20,$1 - $20,NA,$200-$499,NA,NA,3
+29,1-2 times,0,2,Female,55-64,80303,Yes,NA,0,0,0,0,0,0,$50-$99,0,$500-$999,$1 - $20,Four nights,NA,240
+283,1-2 times,1-2 days,6,Male,35-44,91792,Yes,Zero,$1 - $20,0,"$1,000-$1,499",0,"$1,000-$1,499","$5,000.00",$100-$199,NA,$1 - $20,$200-$499,Two nights,Home,175
+93,5-6 times,1-2 days,4,Female,25-34,80306,NA,Zero,$1 - $20,0,0,0,0,0,$100-$199,$200-$499,$500-$999,$200-$499,NA,Hotel or motel,NA
+89,3-4 times,1-2 days,1,Female,25-34,80303,Yes,2 days,$1 - $20,$100-$199,"$1,000.00",$21-$49,$500-$999,0,$1 - $20,$200-$499,$1 - $20,$50-$99,Local,NA,200
+8,20,0,0,Female,25-34,80306,Yes,-,0,0,0,0,0,0,"$1,000-$1,999",$1 - $20,$1 - $20,$50-$99,Four nights,Home,125
+134,1-2 times,3-4 days,2,Male,45-54,89135,No,NA,$200-$499,$200-$499,$100-$199,$100-$199,NA,"$5,000.00",0,$500-$999,NA,$20-$49,Day trip,Home,N/A
+4,1,1-2 days,3,Female,35-44,80306,NA,Live in area,0,$500-$999,0,0,NA,$100-$199,"$2,000-$4,999",NA,$200-$499,$50-$99,Three nights,Boulder Resident,240
+167,25,3-4 days,3,Female,65-74,80303,No,Live in area,$21-$49,0,0,0,0,$21-$49,$20-$49,0,0,$50-$99,One night,"Friends, family or no expense",NA
+187,5-6 times,1-2 days,2,Female,55-64,80309,NA,-,$21-$49,0,0,0,0,0,"$1,000-$1,999",NA,$200-$499,$500-$999,One night,NA,NA
+207,20,3-4 days,2,Female,65-74,80309,No,Zero,$50-$99,0,$21-$49,$1 - $20,0,0,$50-$99,$200-$499,$1 - $20,$200-$499,Three nights,Hotel or motel,280
+79,1-2 times,1-2 days,0.5,Male,18-24,80306,No,Live in area,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$50-$99,$1 - $20,$100-$199,$50-$99,Multiple day trips,NA,200
+52,5-6 times,0,0,Male,65-74,80309,NA,2 days,0,0,0,0,0,0,NA,$50-$99,$1 - $20,$200-$499,NA,"Friends, family or no expense",NA
+56,20,1-2 days,2,Female,55-64,93111,No,Live in area,$1 - $20,0,0,0,0,$50-$99,$100-$199,NA,0,$50-$99,Local,Boulder Resident,125
+155,20,3-4 days,2,Female,55-64,80306,No,1 day,$21-$49,0,$50-$99,$1 - $20,0,0,$100-$199,$100-$199,$50-$99,$50-$99,Two nights,Home,200
+263,20,1-2 days,2,Female,35-44,80305,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$100-$199,$1 - $20,$200-$499,"$2,000-$3,000","$1,000-$1,499",0,$20-$49,0,$50-$99,0,Live in Boulder,Home,0
+90,5-6 times,3-4 days,2,Female,45-54,93111,Yes,Home is here,$1 - $20,0,$1 - $20,0,$1 - $20,0,$1 - $20,0,$1 - $20,0,Local,Home,0
+230,3-4 times,1-2 days,4,Male,45-54,80304,Yes,0,$50-$99,$50-$99,$50-$99,$50-$99,$1 - $20,0,$50-$99,NA,$200-$499,0,Resident,Hotel or motel,3
+138,1,3-4 days,4,Female,45-54,80303,No,NA,$21-$49,$1 - $20,0,0,0,$1 - $20,"$2,000-$4,999",0,$100-$199,$500-$999,Multiple day trips,"Friends, family or no expense",240
+25,1-2 times,0,0,Female,45-54,80303,Yes,Didn't extend stay,0,0,0,0,0,0,$1 - $20,0,$20-$49,NA,Four nights,NA,125
+173,1-2 times,3-4 days,3,Female,25-34,80303,NA,0,$21-$49,0,$21-$49,$21-$49,0,"$5,000.00",NA,$20-$49,$20-$49,$20-$49,Live in Boulder,"Friends, family or no expense",280
+141,10,3-4 days,3,Female,35-44,80305,NA,2 days,$21-$49,0,$1 - $20,$1 - $20,$1 - $20,0,$20-$49,$200-$499,$50-$99,$200-$499,I live here,Hotel or motel,240
+141,10,3-4 days,3,Female,35-44,80305,NA,2 days,$21-$49,0,$1 - $20,$1 - $20,$1 - $20,0,$20-$49,$200-$499,$50-$99,$200-$499,I live here,Hotel or motel,240
+107,20,3-4 days,4,Female,55-64,80303,Yes,Live in area,$100-$199,$100-$199,$200-$499,$21-$49,$100-$199,$21-$49,$200-$499,$100-$199,$1 - $20,$1 - $20,Local resident,Home,500
+172,1-2 times,1-2 days,3,Female,25-34,80309,NA,A few hours,$21-$49,0,0,$1 - $20,0,0,"$2,000-$4,999",0,0,NA,Local resident,Home,240
+30,1-2 times,0,0,Male,65-74,80303,No,1 day,0,0,0,0,0,0,$100-$199,$20-$49,0,NA,Two nights,NA,200
+216,20,5-6 days,5,Female,45-54,80303,No,Home is here,$50-$99,$100-$199,$100-$199,$21-$49,0,$500-$999,$100-$199,$500-$999,$50-$99,NA,One night,Home,3
+206,20,5-6 days,2,Female,Prefer not to say,80309,NA,A few hours,$50-$99,NA,$1 - $20,$1 - $20,"$1,000-$1,499",$21-$49,$20-$49,$1 - $20,$500-$999,$50-$99,Day trip,"Friends, family or no expense",240
+168,47,3-4 days,3,Female,45-54,80306,No,2 days,$21-$49,0,$21-$49,$1 - $20,0,0,"$1,000-$1,999",$200-$499,$1 - $20,$1 - $20,NA,Boulder Resident,500
+35,1-2 times,0,0,Female,Prefer not to say,80304,Yes,Didn't extend stay,0,0,0,0,0,0,$100-$199,0,$200-$499,$1 - $20,Three nights,"Friends, family or no expense",NA
+125,20,7-8 days,3,Female,35-44,80309,No,NA,$200-$499,0,$21-$49,$21-$49,0,$200-$499,$20-$49,NA,$500-$999,$50-$99,One night,"Friends, family or no expense",NA
+80,1-2 times,3-4 days,2,Male,65-74,80309,Yes,Zero,$1 - $20,$1 - $20,$50-$99,$1 - $20,$1 - $20,$500-$999,$200-$499,$200-$499,$1 - $20,$50-$99,Local resident,Hotel or motel,500
+223,1-2 times,1-2 days,5,Female,65-74,93113,No,A few hours,$50-$99,0,$1 - $20,0,0,$21-$49,"$2,000-$4,999",$200-$499,0,$1 - $20,Local,Hotel or motel,200
+29,1-2 times,0,2,Female,55-64,80303,Yes,NA,0,0,0,0,0,0,$50-$99,0,$500-$999,$1 - $20,Four nights,NA,240
+155,20,3-4 days,2,Female,55-64,80306,No,1 day,$21-$49,0,$50-$99,$1 - $20,0,0,$100-$199,$100-$199,$50-$99,$50-$99,Two nights,Home,200
+287,5-6 times,1-2 days,4,Female,45-54,91320,NA,Home is here,0,$200-$499,$100-$199,$500-$999,$21-$49,"$5,000.00",$20-$49,$50-$99,$200-$499,$200-$499,Day trip,Hotel or motel,240
+220,20,1-2 days,2,Female,45-54,80309,No,I live here,$50-$99,0,0,$50-$99,0,0,$20-$49,$1 - $20,$1 - $20,$1 - $20,Three nights,Home,240
+214,20,3-4 days,6,Female,25-34,80306,Yes,I live here,$50-$99,$100-$199,$1 - $20,$21-$49,NA,"$3,000-$4,000",$20-$49,$50-$99,NA,$50-$99,NA,Home,N/A
+199,20,1-2 days,2,Male,55-64,93013,No,2 days,$50-$99,$500-$999,$21-$49,$100-$199,$21-$49,$1 - $20,$100-$199,NA,0,0,NA,Home,500
+46,5-6 times,0,3,Female,45-54,80309,NA,0,0,0,0,0,0,0,$1 - $20,$1 - $20,$20-$49,$50-$99,Day trip,NA,3
+55,1,1-2 days,2,Female,25-34,80305,No,-,$1 - $20,0,0,0,0,0,"$1,000-$1,999",$500-$999,NA,$500-$999,Local,"Friends, family or no expense",N/A
+275,20,1-2 days,3,Female,65-74,80304,No,Live in area,"$1,000.00",$21-$49,$1 - $20,NA,$500-$999,NA,$50-$99,$500-$999,$20-$49,$20-$49,I live here,"Friends, family or no expense",NA
+77,1-2 times,1-2 days,1,Female,35-44,93111,No,Didn't extend stay,$1 - $20,0,0,0,0,0,"$2,000-$4,999",NA,NA,NA,NA,Home,N/A
+64,20,1-2 days,5,Female,75-84,80303,No,Live in area,$1 - $20,0,$1 - $20,0,0,0,"$1,000-$1,999",$500-$999,0,$50-$99,Two nights,"Friends, family or no expense",280
+64,20,1-2 days,5,Female,75-84,80303,No,Live in area,$1 - $20,0,$1 - $20,0,0,0,"$1,000-$1,999",$500-$999,0,$50-$99,Two nights,"Friends, family or no expense",280
+133,35,3-4 days,5,Female,35-44,80303,No,NA,$200-$499,"$2,000-$3,000",$50-$99,$1 - $20,$500-$999,$500-$999,$20-$49,0,$1 - $20,$500-$999,Live in Boulder,NA,280
+56,20,1-2 days,2,Female,55-64,93111,No,Live in area,$1 - $20,0,0,0,0,$50-$99,$100-$199,NA,0,$50-$99,Local,Boulder Resident,125
+74,20,1-2 days,8,Female,35-44,80302,No,Zero,$1 - $20,$500-$999,$21-$49,$1 - $20,$1 - $20,$500-$999,"$2,000-$4,999",0,$500-$999,$200-$499,Two nights,Hotel or motel,240
+270,20,1-2 days,3,Male,35-44,93111,No,Didn't extend stay,$500-$999,$50-$99,$50-$99,$1 - $20,"$1,000-$1,499","$5,000.00",0,$20-$49,$50-$99,NA,Live in Boulder,Home,175
+2,1,7-8 days,4,Prefer not to say,35-44,80309,NA,-,0,0,0,0,0,0,$100-$199,$100-$199,$1 - $20,$50-$99,Three nights,Home,125
+256,20,3-4 days,3,Female,45-54,80305,NA,Zero,0,0,$500-$999,$100-$199,$21-$49,$100-$199,$50-$99,0,$20-$49,$20-$49,Day trip,Home,200
+194,5-6 times,5-6 days,1,Female,45-54,93067,Yes,Home is here,$21-$49,0,$21-$49,$21-$49,0,0,$20-$49,$500-$999,0,$50-$99,Day trip,"Friends, family or no expense",240
+87,3-4 times,5-6 days,5,Female,55-64,80309,No,NA,$1 - $20,0,$100-$199,$1 - $20,$21-$49,0,$20-$49,$1 - $20,$500-$999,$500-$999,Four nights,"Friends, family or no expense",175
+246,1,12,5,Female,18-24,12345,NA,A few hours,$100-$199,0,$200-$499,0,$21-$49,$500-$999,NA,$500-$999,$100-$199,NA,One night,Hotel or motel,500
+95,5-6 times,1-2 days,3,Female,55-64,80303,No,2 days,$1 - $20,0,0,0,0,0,$200-$499,0,NA,$50-$99,Live in Boulder,"Friends, family or no expense",NA
+268,20,3-4 days,4,Female,35-44,80305,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$21-$49,"$1,000-$1,499","$1,000-$1,499",$21-$49,$1 - $20,$1 - $20,$50-$99,$50-$99,$20-$49,$20-$49,Two nights,"Friends, family or no expense",240
+204,20,1-2 days,5,Female,18-24,80303,No,2 days,$50-$99,0,0,$1 - $20,0,$200-$499,$200-$499,$200-$499,$1 - $20,$500-$999,Three nights,Boulder Resident,500
+124,20,7-8 days,3,Female,35-44,80309,No,Zero,$200-$499,0,$21-$49,$21-$49,0,$1 - $20,"$1,000-$1,999",$500-$999,0,$1 - $20,One night,Boulder Resident,200
+42,5-6 times,0,0.5,Male,25-34,80309,No,Home is here,0,0,0,0,0,0,$20-$49,$20-$49,$100-$199,$1 - $20,Multiple day trips,Boulder Resident,200
+241,20,7-8 days,10,Male,35-44,80309,Yes,I live here,$500-$999,"$2,000-$3,000",$1 - $20,$100-$199,"$1,000-$1,499","$3,000-$4,000",$1 - $20,$200-$499,$1 - $20,$1 - $20,Three nights,NA,N/A
+222,45,12,3,Female,65-74,80309,No,-,$50-$99,$21-$49,0,$21-$49,$100-$199,$1 - $20,0,$1 - $20,$20-$49,0,Three nights,NA,NA
+91,5-6 times,1-2 days,2,Female,35-44,93111,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$1 - $20,0,0,0,0,0,$1 - $20,$200-$499,$50-$99,0,Three nights,Home,125
+27,1-2 times,1-2 days,1,Female,45-54,80309,No,I live here,0,0,0,0,0,0,$20-$49,$1 - $20,$200-$499,$500-$999,Four nights,Hotel or motel,NA
+24,1-2 times,0,0,Female,35-44,80303,No,1 day,0,0,0,0,0,0,$50-$99,$100-$199,$20-$49,$20-$49,Local,NA,N/A
+27,1-2 times,1-2 days,1,Female,45-54,80309,No,I live here,0,0,0,0,0,0,$20-$49,$1 - $20,$200-$499,$500-$999,Four nights,Hotel or motel,NA
+123,20,3-4 days,5,Female,25-34,80309,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$200-$499,$100-$199,$1 - $20,$21-$49,$1 - $20,0,$100-$199,NA,$100-$199,0,Live in Boulder,Hotel or motel,280
+36,3-4 times,0,0,Female,45-54,80303,NA,I live here,0,0,0,0,0,0,"$1,000-$1,999",$200-$499,$100-$199,$20-$49,One night,"Friends, family or no expense",240
+266,20,3-4 days,3,Male,35-44,93013,Yes,Home is here,$200-$499,"$1,000-$1,499",$500-$999,NA,$100-$199,$500-$999,$50-$99,$100-$199,$20-$49,0,Multiple day trips,Home,0
+71,20,3-4 days,3,Female,55-64,80304,No,Didn't extend stay,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$100-$199,$100-$199,$1 - $20,$50-$99,$500-$999,Four nights,"Friends, family or no expense",175
+179,3-4 times,3-4 days,4,Female,65-74,80309,NA,1 day,$21-$49,0,0,$21-$49,$200-$499,$21-$49,$50-$99,$500-$999,$20-$49,$20-$49,One night,Hotel or motel,240
+78,1-2 times,3-4 days,4,Male,55-64,80304,NA,Home is here,$1 - $20,0,0,0,0,0,NA,NA,$500-$999,$200-$499,Resident,Boulder Resident,NA
+28,1-2 times,0,0,Female,55-64,80309,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",0,0,0,0,0,0,$200-$499,$100-$199,0,$20-$49,Two nights,Hotel or motel,240
+33,1-2 times,0,3,Female,65-74,80309,Yes,-,0,0,0,0,0,"$3,000-$4,000",$100-$199,$200-$499,NA,$1 - $20,Multiple day trips,"Friends, family or no expense",NA
+180,3-4 times,3-4 days,4,Female,25-34,80306,Yes,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$21-$49,$50-$99,0,$21-$49,$1 - $20,0,"$1,000-$1,999",0,NA,NA,Live in Boulder,Boulder Resident,N/A
+224,1-2 times,1-2 days,6,Female,18-24,80304,Yes,Home is here,$50-$99,$50-$99,$1 - $20,$50-$99,$100-$199,0,"$1,000-$1,999",0,0,NA,Multiple day trips,Home,280
+67,20,3-4 days,2,Male,55-64,80306,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$1 - $20,0,$21-$49,0,0,0,$20-$49,NA,$100-$199,$1 - $20,Four nights,"Friends, family or no expense",175
+152,20,1-2 days,2.5,Female,25-34,80304,No,2 days,$21-$49,0,$1 - $20,$1 - $20,0,$21-$49,"$2,000-$4,999",0,$20-$49,$200-$499,Live in Boulder,"Friends, family or no expense",280
+6,20,1-2 days,1,Male,45-54,80305,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",0,0,0,0,0,0,$200-$499,$100-$199,$100-$199,$50-$99,Four nights,Boulder Resident,125
+253,20,1-2 days,2,Male,25-34,93107,NA,1 day,0,$1 - $20,"$1,000-$1,499",$1 - $20,0,$50-$99,$1 - $20,0,$1 - $20,0,Day trip,Boulder Resident,3
+219,20,1-2 days,6,Female,45-54,80306,Yes,A few hours,$50-$99,$100-$199,$200-$499,$21-$49,$500-$999,0,$20-$49,$50-$99,$200-$499,$200-$499,Four nights,Home,NA
+255,20,1-2 days,4,Male,55-64,93111,NA,I live here,0,$50-$99,$1 - $20,$21-$49,0,$1 - $20,$100-$199,$100-$199,$20-$49,$20-$49,Day trip,Home,280
+110,20,5-6 days,3,Female,55-64,80304,Yes,A few hours,$100-$199,$200-$499,$21-$49,NA,$50-$99,"$5,000.00",$1 - $20,$100-$199,$1 - $20,$500-$999,Local,NA,N/A
+217,20,3-4 days,2,Female,45-54,93111,No,A few hours,$50-$99,0,$21-$49,$21-$49,$1 - $20,0,$20-$49,$500-$999,NA,0,Resident,NA,125
+57,20,0,0,Male,25-34,80306,NA,Home is here,$1 - $20,0,0,0,0,0,$20-$49,$1 - $20,$20-$49,NA,Local resident,Home,NA
+235,5-6 times,1-2 days,8,Male,35-44,80309,Yes,Didn't extend stay,$50-$99,0,$50-$99,$1 - $20,$21-$49,0,"$1,000-$1,999",$50-$99,$50-$99,$1 - $20,Live in Boulder,Home,0
+254,20,1-2 days,11,Female,55-64,93454,Yes,-,$200-$499,$500-$999,$100-$199,$21-$49,$500-$999,$21-$49,$50-$99,0,0,$20-$49,Day trip,"Friends, family or no expense",280
+156,20,1-2 days,4,Female,35-44,80309,Yes,1 day,$21-$49,$200-$499,NA,$1 - $20,$200-$499,$200-$499,$20-$49,$50-$99,$500-$999,$50-$99,Three nights,Boulder Resident,125
+194,5-6 times,5-6 days,1,Female,45-54,93067,Yes,Home is here,$21-$49,0,$21-$49,$21-$49,0,0,$20-$49,$500-$999,0,$50-$99,Day trip,"Friends, family or no expense",240
+210,20,3-4 days,3,Female,25-34,80306,NA,Zero,$50-$99,$1 - $20,0,$21-$49,$1 - $20,0,0,NA,NA,0,Four nights,Hotel or motel,240
+23,20,3-4 days,3,Male,25-34,80309,Yes,0,0,"$1,000-$1,499","$1,000.00",$50-$99,$1 - $20,0,$200-$499,NA,$50-$99,$50-$99,NA,NA,240
+193,5-6 times,5-6 days,1,Male,55-64,80306,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$21-$49,$1 - $20,$1 - $20,$21-$49,$1 - $20,$50-$99,$50-$99,0,$1 - $20,$500-$999,Resident,NA,280
+185,5-6 times,1-2 days,1,Female,25-34,93013,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$21-$49,0,0,0,0,0,"$2,000-$4,999",$500-$999,$500-$999,$20-$49,One night,Hotel or motel,N/A
+88,3-4 times,3-4 days,3,Female,25-34,80303,Yes,I live here,$1 - $20,$500-$999,$21-$49,$1 - $20,$1 - $20,"$3,000-$4,000",NA,$200-$499,$1 - $20,$50-$99,Four nights,Home,280
+135,1-2 times,1-2 days,4,Male,18-24,80306,Yes,0,$200-$499,0,$200-$499,$21-$49,0,0,0,$50-$99,$100-$199,$200-$499,Resident,Boulder Resident,240
+110,20,5-6 days,3,Female,55-64,80304,Yes,A few hours,$100-$199,$200-$499,$21-$49,NA,$50-$99,"$5,000.00",$1 - $20,$100-$199,$1 - $20,$500-$999,Local,NA,N/A
+125,20,7-8 days,3,Female,35-44,80309,No,NA,$200-$499,0,$21-$49,$21-$49,0,$200-$499,$20-$49,NA,$500-$999,$50-$99,One night,"Friends, family or no expense",NA
+99,12,1-2 days,3,Female,55-64,80305,No,2 days,$1 - $20,$1 - $20,$1 - $20,$1 - $20,0,0,0,$100-$199,$1 - $20,$500-$999,Live in Boulder,"Friends, family or no expense",240
+243,3-4 times,3-4 days,10,Male,55-64,80303,NA,-,$500-$999,0,0,$1 - $20,$100-$199,$21-$49,$20-$49,$20-$49,$1 - $20,$50-$99,Four nights,Boulder Resident,500
+222,45,12,3,Female,65-74,80309,No,-,$50-$99,$21-$49,0,$21-$49,$100-$199,$1 - $20,0,$1 - $20,$20-$49,0,Three nights,NA,NA
+102,20,3-4 days,8,Female,35-44,80303,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$100-$199,$100-$199,$1 - $20,$1 - $20,0,"$3,000-$4,000",$200-$499,$100-$199,$100-$199,$1 - $20,Three nights,NA,500
+203,20,1-2 days,1,Female,55-64,80303,Yes,Home is here,$50-$99,0,0,0,0,0,$100-$199,NA,$1 - $20,$200-$499,Day trip,NA,NA
+268,20,3-4 days,4,Female,35-44,80305,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$21-$49,"$1,000-$1,499","$1,000-$1,499",$21-$49,$1 - $20,$1 - $20,$50-$99,$50-$99,$20-$49,$20-$49,Two nights,"Friends, family or no expense",240
+214,20,3-4 days,6,Female,25-34,80306,Yes,I live here,$50-$99,$100-$199,$1 - $20,$21-$49,NA,"$3,000-$4,000",$20-$49,$50-$99,NA,$50-$99,NA,Home,N/A
+278,35,3-4 days,4,Female,85,80305,Yes,NA,$1 - $20,0,NA,$500-$999,$200-$499,"$5,000.00",$200-$499,$100-$199,$100-$199,$20-$49,Day trip,"Friends, family or no expense",240
+212,20,3-4 days,4,Female,35-44,80304,Yes,A few hours,$50-$99,0,$1 - $20,$21-$49,0,0,$50-$99,$20-$49,0,$20-$49,I live here,Hotel or motel,NA
+52,5-6 times,0,0,Male,65-74,80309,NA,2 days,0,0,0,0,0,0,NA,$50-$99,$1 - $20,$200-$499,NA,"Friends, family or no expense",NA
+132,20,7-8 days,9,Female,55-64,80309,Yes,2 days,$200-$499,$100-$199,$500-$999,$50-$99,$100-$199,$200-$499,$50-$99,$100-$199,$20-$49,$500-$999,Three nights,Home,0
+143,12,2,2,Male,55-64,80303,NA,2 days,$21-$49,0,0,$1 - $20,0,"$5,000.00",0,$200-$499,$1 - $20,$500-$999,Day trip,Boulder Resident,175
+107,20,3-4 days,4,Female,55-64,80303,Yes,Live in area,$100-$199,$100-$199,$200-$499,$21-$49,$100-$199,$21-$49,$200-$499,$100-$199,$1 - $20,$1 - $20,Local resident,Home,500
+42,5-6 times,0,0.5,Male,25-34,80309,No,Home is here,0,0,0,0,0,0,$20-$49,$20-$49,$100-$199,$1 - $20,Multiple day trips,Boulder Resident,200
+252,20,5-6 days,10,Male,45-54,80305,NA,I live here,$50-$99,$500-$999,"$1,000-$1,499",$100-$199,$200-$499,NA,0,0,0,0,Day trip,Boulder Resident,N/A
+54,4,10,5,Female,45-54,80309,Yes,I live here,"$1,000.00",$100-$199,$500-$999,$50-$99,"$1,000-$1,499","$5,000.00",$1 - $20,$20-$49,$1 - $20,$50-$99,I live here,Hotel or motel,500
+81,1-2 times,3-4 days,10,Female,35-44,80304,Yes,A few hours,$1 - $20,$1 - $20,$1 - $20,$100-$199,$21-$49,$200-$499,$50-$99,$500-$999,$200-$499,$50-$99,NA,Home,125
+255,20,1-2 days,4,Male,55-64,93111,NA,I live here,0,$50-$99,$1 - $20,$21-$49,0,$1 - $20,$100-$199,$100-$199,$20-$49,$20-$49,Day trip,Home,280
+8,20,0,0,Female,25-34,80306,Yes,-,0,0,0,0,0,0,"$1,000-$1,999",$1 - $20,$1 - $20,$50-$99,Four nights,Home,125
+253,20,1-2 days,2,Male,25-34,93107,NA,1 day,0,$1 - $20,"$1,000-$1,499",$1 - $20,0,$50-$99,$1 - $20,0,$1 - $20,0,Day trip,Boulder Resident,3
+124,20,7-8 days,3,Female,35-44,80309,No,Zero,$200-$499,0,$21-$49,$21-$49,0,$1 - $20,"$1,000-$1,999",$500-$999,0,$1 - $20,One night,Boulder Resident,200
+53,12,1-2 days,2,Female,65-74,80309,Yes,NA,0,0,0,0,0,0,$50-$99,$500-$999,$200-$499,$200-$499,NA,Home,175
+265,20,3-4 days,2,Female,55-64,80305,No,Live in area,$50-$99,$21-$49,$200-$499,$200-$499,0,$100-$199,$1 - $20,$20-$49,$20-$49,$20-$49,Local resident,Home,N/A
+83,3-4 times,1-2 days,3,Female,35-44,80303,Yes,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$1 - $20,0,0,0,0,$1 - $20,$20-$49,$500-$999,$100-$199,NA,Multiple day trips,"Friends, family or no expense",280
+131,20,3-4 days,3,Male,45-54,80303,NA,2 days,$200-$499,"$1,000-$1,499",$21-$49,$50-$99,$1 - $20,$200-$499,"$1,000-$1,999",$50-$99,$20-$49,$1 - $20,Three nights,"Friends, family or no expense",500
+72,20,5-6 days,6,Male,65-74,80304,NA,2 days,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$200-$499,$500-$999,$50-$99,$50-$99,$1 - $20,$20-$49,I live here,Boulder Resident,0
+33,1-2 times,0,3,Female,65-74,80309,Yes,-,0,0,0,0,0,"$3,000-$4,000",$100-$199,$200-$499,NA,$1 - $20,Multiple day trips,"Friends, family or no expense",NA
+58,20,1-2 days,1,Male,45-54,80309,No,2 days,$1 - $20,0,0,0,0,0,"$1,000-$1,999",$1 - $20,$200-$499,$200-$499,Four nights,Home,200
+231,3-4 times,3-4 days,3,Female,65-74,80304,NA,0,$50-$99,$100-$199,$1 - $20,NA,$50-$99,$50-$99,$50-$99,$1 - $20,$50-$99,$20-$49,I live here,Boulder Resident,NA
+39,3-4 times,1-2 days,2,Female,75-84,80306,Yes,1 day,0,0,0,0,0,0,0,$50-$99,$20-$49,$200-$499,NA,Home,280
+68,20,0,1,Male,55-64,80306,Yes,-,$1 - $20,0,0,$1 - $20,0,0,NA,$1 - $20,$1 - $20,$1 - $20,Resident,Boulder Resident,125
+283,1-2 times,1-2 days,6,Male,35-44,91792,Yes,Zero,$1 - $20,0,"$1,000-$1,499",0,"$1,000-$1,499","$5,000.00",$100-$199,NA,$1 - $20,$200-$499,Two nights,Home,175
+105,20,3-4 days,2,Male,65-74,80309,NA,1 day,$100-$199,"$2,000-$3,000",$50-$99,$1 - $20,$21-$49,"$3,000-$4,000",$20-$49,0,0,$20-$49,Resident,"Friends, family or no expense",200
+239,0,3,5,Female,35-44,93111,No,Home is here,$50-$99,0,$1 - $20,$1 - $20,0,0,$200-$499,0,$100-$199,$1 - $20,Local,Home,3
+149,20,1-2 days,2,Female,35-44,80303,Yes,NA,$21-$49,0,$21-$49,0,0,0,$1 - $20,$1 - $20,NA,$1 - $20,I live here,Boulder Resident,500
+268,20,3-4 days,4,Female,35-44,80305,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$21-$49,"$1,000-$1,499","$1,000-$1,499",$21-$49,$1 - $20,$1 - $20,$50-$99,$50-$99,$20-$49,$20-$49,Two nights,"Friends, family or no expense",240
+7,20,0,3,Male,45-54,80302,No,Zero,0,0,0,0,0,0,"$2,000-$4,999",$1 - $20,$100-$199,$20-$49,Three nights,Boulder Resident,NA
+32,1-2 times,0,0,Female,65-74,80303,No,1 day,0,0,0,0,0,0,$1 - $20,$50-$99,$20-$49,0,I live here,Home,175
+210,20,3-4 days,3,Female,25-34,80306,NA,Zero,$50-$99,$1 - $20,0,$21-$49,$1 - $20,0,0,NA,NA,0,Four nights,Hotel or motel,240
+48,5-6 times,0,0,Male,55-64,80306,NA,Live in area,0,0,0,0,0,0,$20-$49,$50-$99,0,$200-$499,One night,Hotel or motel,240
+151,20,3-4 days,4,Female,25-34,80303,No,Home is here,$21-$49,0,0,$1 - $20,0,0,"$2,000-$4,999",$1 - $20,$200-$499,NA,Multiple day trips,NA,200
+188,5-6 times,1-2 days,3,Female,35-44,80309,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$21-$49,0,0,$1 - $20,0,0,$1 - $20,$100-$199,$200-$499,$20-$49,Day trip,"Friends, family or no expense",N/A
+114,1-2 times,1-2 days,5,Female,25-34,80304,Yes,0,$100-$199,0,0,$21-$49,0,0,NA,NA,NA,NA,I live here,Home,175
+94,5-6 times,1-2 days,2,Female,35-44,80309,Yes,1 day,$1 - $20,0,0,0,0,$21-$49,"$2,000-$4,999",NA,$100-$199,$500-$999,Local,Hotel or motel,240
+189,5-6 times,1-2 days,0.5,Female,55-64,93108,Yes,Live in area,$21-$49,0,0,$1 - $20,0,$50-$99,$20-$49,$50-$99,$1 - $20,$50-$99,Local resident,Home,200
+162,20,3-4 days,9,Male,35-44,80305,No,NA,$21-$49,$21-$49,$21-$49,$21-$49,$21-$49,$21-$49,$200-$499,0,$1 - $20,$500-$999,Local,Home,0
+119,25,5-6 days,4,Female,45-54,93035,No,NA,$100-$199,0,$100-$199,$50-$99,0,$21-$49,"$1,000-$1,999",$100-$199,$500-$999,$20-$49,One night,"Friends, family or no expense",125
+138,1,3-4 days,4,Female,45-54,80303,No,NA,$21-$49,$1 - $20,0,0,0,$1 - $20,"$2,000-$4,999",0,$100-$199,$500-$999,Multiple day trips,"Friends, family or no expense",240
+276,20,1-2 days,6,Male,55-64,80305,Yes,2 days,"$1,000.00",NA,$50-$99,0,"$1,000-$1,499",$500-$999,$100-$199,$20-$49,$50-$99,NA,Day trip,NA,500
+57,20,0,0,Male,25-34,80306,NA,Home is here,$1 - $20,0,0,0,0,0,$20-$49,$1 - $20,$20-$49,NA,Local resident,Home,NA
+283,1-2 times,1-2 days,6,Male,35-44,91792,Yes,Zero,$1 - $20,0,"$1,000-$1,499",0,"$1,000-$1,499","$5,000.00",$100-$199,NA,$1 - $20,$200-$499,Two nights,Home,175
+248,1,3-4 days,4,Female,35-44,93611,NA,A few hours,$1 - $20,$21-$49,$100-$199,$1 - $20,NA,$21-$49,"$1,000-$1,999",0,$50-$99,$200-$499,Three nights,Hotel or motel,500
+96,5-6 times,1-2 days,2,Female,45-54,80306,Yes,Didn't extend stay,$1 - $20,"$1,000-$1,499",0,0,0,0,$200-$499,$1 - $20,$20-$49,$500-$999,Day trip,NA,240
+277,20,0,0,Female,55-64,80303,No,Home is here,0,$200-$499,"$1,000-$1,499","$2,000-$3,000",NA,0,$200-$499,$200-$499,$100-$199,$1 - $20,Day trip,NA,500
+249,1,1-2 days,5,Female,25-34,93464,No,Home is here,"$1,000.00","$2,000-$3,000",$500-$999,$1 - $20,$1 - $20,$100-$199,$50-$99,$50-$99,$100-$199,$20-$49,Three nights,Home,3
+70,20,5-6 days,3,Female,18-24,80309,No,Zero,$1 - $20,0,$1 - $20,$1 - $20,0,0,$20-$49,$200-$499,$200-$499,$20-$49,Local resident,Boulder Resident,240
+41,5-6 times,1-2 days,2,Female,45-54,96161,No,A few hours,0,0,0,0,0,$1 - $20,"$2,000-$4,999",$20-$49,$100-$199,$200-$499,I live here,Hotel or motel,240
+173,1-2 times,3-4 days,3,Female,25-34,80303,NA,0,$21-$49,0,$21-$49,$21-$49,0,"$5,000.00",NA,$20-$49,$20-$49,$20-$49,Live in Boulder,"Friends, family or no expense",280
+115,3-4 times,1-2 days,3,Female,25-34,80303,Yes,2 days,$100-$199,0,0,$1 - $20,0,0,$100-$199,$500-$999,$200-$499,$200-$499,Four nights,"Friends, family or no expense",0
+262,20,5-6 days,5,Male,35-44,80305,NA,I live here,$200-$499,$50-$99,NA,"$2,000-$3,000",0,$1 - $20,$50-$99,$50-$99,$50-$99,$20-$49,I live here,Home,N/A
+248,1,3-4 days,4,Female,35-44,93611,NA,A few hours,$1 - $20,$21-$49,$100-$199,$1 - $20,NA,$21-$49,"$1,000-$1,999",0,$50-$99,$200-$499,Three nights,Hotel or motel,500
+90,5-6 times,3-4 days,2,Female,45-54,93111,Yes,Home is here,$1 - $20,0,$1 - $20,0,$1 - $20,0,$1 - $20,0,$1 - $20,0,Local,Home,0
+122,20,5-6 days,3,Male,65-74,80309,Yes,A few hours,$200-$499,$21-$49,$1 - $20,0,$50-$99,$21-$49,"$2,000-$4,999",$50-$99,$1 - $20,0,Two nights,"Friends, family or no expense",280
+185,5-6 times,1-2 days,1,Female,25-34,93013,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$21-$49,0,0,0,0,0,"$2,000-$4,999",$500-$999,$500-$999,$20-$49,One night,Hotel or motel,N/A
+283,1-2 times,1-2 days,6,Male,35-44,91792,Yes,Zero,$1 - $20,0,"$1,000-$1,499",0,"$1,000-$1,499","$5,000.00",$100-$199,NA,$1 - $20,$200-$499,Two nights,Home,175
+253,20,1-2 days,2,Male,25-34,93107,NA,1 day,0,$1 - $20,"$1,000-$1,499",$1 - $20,0,$50-$99,$1 - $20,0,$1 - $20,0,Day trip,Boulder Resident,3
+244,5-6 times,3-4 days,8,Male,45-54,80302,NA,I live here,$500-$999,0,$200-$499,"$2,000-$3,000",$500-$999,0,$1 - $20,$20-$49,$200-$499,NA,Day trip,"Friends, family or no expense",500
+234,5-6 times,1-2 days,2,Female,45-54,80303,Yes,I live here,$50-$99,0,0,0,0,0,$1 - $20,$200-$499,$200-$499,$500-$999,Local,Boulder Resident,N/A
+195,5-6 times,3-4 days,5,Male,18-24,80306,Yes,Home is here,$21-$49,$50-$99,$21-$49,$50-$99,$21-$49,$50-$99,NA,$50-$99,$500-$999,0,Resident,Boulder Resident,200
+141,10,3-4 days,3,Female,35-44,80305,NA,2 days,$21-$49,0,$1 - $20,$1 - $20,$1 - $20,0,$20-$49,$200-$499,$50-$99,$200-$499,I live here,Hotel or motel,240
+143,12,2,2,Male,55-64,80303,NA,2 days,$21-$49,0,0,$1 - $20,0,"$5,000.00",0,$200-$499,$1 - $20,$500-$999,Day trip,Boulder Resident,175
+205,20,3-4 days,3,Female,35-44,80309,Yes,NA,$50-$99,0,$1 - $20,$1 - $20,0,$1 - $20,"$2,000-$4,999",$200-$499,0,$1 - $20,Live in Boulder,Home,3
+127,20,7-8 days,3,Female,35-44,80309,Yes,-,$200-$499,0,$21-$49,$21-$49,0,NA,"$2,000-$4,999",$500-$999,$100-$199,$20-$49,I live here,Home,500
+214,20,3-4 days,6,Female,25-34,80306,Yes,I live here,$50-$99,$100-$199,$1 - $20,$21-$49,NA,"$3,000-$4,000",$20-$49,$50-$99,NA,$50-$99,NA,Home,N/A
+231,3-4 times,3-4 days,3,Female,65-74,80304,NA,0,$50-$99,$100-$199,$1 - $20,NA,$50-$99,$50-$99,$50-$99,$1 - $20,$50-$99,$20-$49,I live here,Boulder Resident,NA
+87,3-4 times,5-6 days,5,Female,55-64,80309,No,NA,$1 - $20,0,$100-$199,$1 - $20,$21-$49,0,$20-$49,$1 - $20,$500-$999,$500-$999,Four nights,"Friends, family or no expense",175
+129,20,7-8 days,3,Female,35-44,80309,Yes,I live here,$200-$499,0,$21-$49,$21-$49,0,$100-$199,NA,$500-$999,$500-$999,$1 - $20,Three nights,Home,240
+181,3-4 times,5-6 days,5,Female,25-34,80303,Yes,Didn't extend stay,$21-$49,$50-$99,$50-$99,$50-$99,0,$1 - $20,$200-$499,NA,$50-$99,$20-$49,Local resident,"Friends, family or no expense",500
+178,3-4 times,3-4 days,2,Female,25-34,80304,Yes,NA,$21-$49,0,0,$1 - $20,$200-$499,$21-$49,NA,0,$500-$999,$500-$999,Local,Home,NA
+73,20,5-6 days,5,Female,65-74,80306,No,NA,$1 - $20,$500-$999,$1 - $20,$1 - $20,$200-$499,$50-$99,"$2,000-$4,999",$50-$99,NA,$1 - $20,Local,"Friends, family or no expense",500
+58,20,1-2 days,1,Male,45-54,80309,No,2 days,$1 - $20,0,0,0,0,0,"$1,000-$1,999",$1 - $20,$200-$499,$200-$499,Four nights,Home,200
+168,47,3-4 days,3,Female,45-54,80306,No,2 days,$21-$49,0,$21-$49,$1 - $20,0,0,"$1,000-$1,999",$200-$499,$1 - $20,$1 - $20,NA,Boulder Resident,500
+224,1-2 times,1-2 days,6,Female,18-24,80304,Yes,Home is here,$50-$99,$50-$99,$1 - $20,$50-$99,$100-$199,0,"$1,000-$1,999",0,0,NA,Multiple day trips,Home,280
+234,5-6 times,1-2 days,2,Female,45-54,80303,Yes,I live here,$50-$99,0,0,0,0,0,$1 - $20,$200-$499,$200-$499,$500-$999,Local,Boulder Resident,N/A
+287,5-6 times,1-2 days,4,Female,45-54,91320,NA,Home is here,0,$200-$499,$100-$199,$500-$999,$21-$49,"$5,000.00",$20-$49,$50-$99,$200-$499,$200-$499,Day trip,Hotel or motel,240
+70,20,5-6 days,3,Female,18-24,80309,No,Zero,$1 - $20,0,$1 - $20,$1 - $20,0,0,$20-$49,$200-$499,$200-$499,$20-$49,Local resident,Boulder Resident,240
+194,5-6 times,5-6 days,1,Female,45-54,93067,Yes,Home is here,$21-$49,0,$21-$49,$21-$49,0,0,$20-$49,$500-$999,0,$50-$99,Day trip,"Friends, family or no expense",240
+238,5-6 times,7-8 days,4,Male,65-74,80306,No,NA,$50-$99,$50-$99,$50-$99,$50-$99,$50-$99,NA,$200-$499,$50-$99,$50-$99,$500-$999,I live here,Hotel or motel,NA
+20,20,0,0,Female,25-34,80303,Yes,Zero,0,0,0,$1 - $20,0,0,"$1,000-$1,999",0,$50-$99,$20-$49,Three nights,"Friends, family or no expense",0
+139,1,1-2 days,1,Female,25-34,80306,No,2 days,$21-$49,0,0,$1 - $20,0,0,$50-$99,$20-$49,$20-$49,$500-$999,Three nights,Boulder Resident,280
+172,1-2 times,1-2 days,3,Female,25-34,80309,NA,A few hours,$21-$49,0,0,$1 - $20,0,0,"$2,000-$4,999",0,0,NA,Local resident,Home,240
+293,29,0,2,Male,55-64,80303,Yes,Home is here,0,$500-$999,$500-$999,$50-$99,$500-$999,$500-$999,"$1,000-$1,999",$50-$99,$200-$499,$200-$499,Resident,Home,NA
+45,5-6 times,1-2 days,1,Female,35-44,80303,NA,0,0,0,0,0,0,0,"$1,000-$1,999",$50-$99,$1 - $20,NA,NA,"Friends, family or no expense",0
+96,5-6 times,1-2 days,2,Female,45-54,80306,Yes,Didn't extend stay,$1 - $20,"$1,000-$1,499",0,0,0,0,$200-$499,$1 - $20,$20-$49,$500-$999,Day trip,NA,240
+88,3-4 times,3-4 days,3,Female,25-34,80303,Yes,I live here,$1 - $20,$500-$999,$21-$49,$1 - $20,$1 - $20,"$3,000-$4,000",NA,$200-$499,$1 - $20,$50-$99,Four nights,Home,280
+232,40,3-4 days,8,Male,35-44,80306,Yes,Home is here,$50-$99,$1 - $20,$21-$49,0,$1 - $20,$1 - $20,"$2,000-$4,999",$500-$999,$100-$199,0,Local,NA,500
+237,5-6 times,3-4 days,2.5,Female,25-34,80302,No,1 day,$50-$99,0,0,$21-$49,$1 - $20,0,$20-$49,$500-$999,$200-$499,NA,Resident,Hotel or motel,280
+26,1-2 times,0,0,Female,45-54,80303,Yes,Zero,0,0,0,0,0,0,$20-$49,$20-$49,NA,$500-$999,Resident,Hotel or motel,280
+127,20,7-8 days,3,Female,35-44,80309,Yes,-,$200-$499,0,$21-$49,$21-$49,0,NA,"$2,000-$4,999",$500-$999,$100-$199,$20-$49,I live here,Home,500
+57,20,0,0,Male,25-34,80306,NA,Home is here,$1 - $20,0,0,0,0,0,$20-$49,$1 - $20,$20-$49,NA,Local resident,Home,NA
+74,20,1-2 days,8,Female,35-44,80302,No,Zero,$1 - $20,$500-$999,$21-$49,$1 - $20,$1 - $20,$500-$999,"$2,000-$4,999",0,$500-$999,$200-$499,Two nights,Hotel or motel,240
+263,20,1-2 days,2,Female,35-44,80305,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$100-$199,$1 - $20,$200-$499,"$2,000-$3,000","$1,000-$1,499",0,$20-$49,0,$50-$99,0,Live in Boulder,Home,0
+23,20,3-4 days,3,Male,25-34,80309,Yes,0,0,"$1,000-$1,499","$1,000.00",$50-$99,$1 - $20,0,$200-$499,NA,$50-$99,$50-$99,NA,NA,240
+28,1-2 times,0,0,Female,55-64,80309,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",0,0,0,0,0,0,$200-$499,$100-$199,0,$20-$49,Two nights,Hotel or motel,240
+122,20,5-6 days,3,Male,65-74,80309,Yes,A few hours,$200-$499,$21-$49,$1 - $20,0,$50-$99,$21-$49,"$2,000-$4,999",$50-$99,$1 - $20,0,Two nights,"Friends, family or no expense",280
+37,3-4 times,0,1,Male,45-54,93003,No,A few hours,0,0,0,0,0,0,$20-$49,$50-$99,$500-$999,$20-$49,Two nights,NA,280
+145,20,1-2 days,5,Female,35-44,80309,NA,2 days,$21-$49,0,0,0,0,$100-$199,$20-$49,$100-$199,$500-$999,$200-$499,Local resident,Boulder Resident,280
+13,20,0,2,Female,55-64,80303,NA,1 day,0,0,0,0,0,0,"$1,000-$1,999",$200-$499,$100-$199,$20-$49,Day trip,"Friends, family or no expense",125
+88,3-4 times,3-4 days,3,Female,25-34,80303,Yes,I live here,$1 - $20,$500-$999,$21-$49,$1 - $20,$1 - $20,"$3,000-$4,000",NA,$200-$499,$1 - $20,$50-$99,Four nights,Home,280
+117,3-4 times,3-4 days,4,Female,65-74,80309,Yes,NA,$100-$199,0,0,$21-$49,0,$1 - $20,"$2,000-$4,999",$1 - $20,$200-$499,NA,Two nights,"Friends, family or no expense",500
+176,1-2 times,1-2 days,2,Male,35-44,80304,No,I live here,$21-$49,$21-$49,$21-$49,"$2,000-$3,000",$200-$499,$500-$999,"$1,000-$1,999",$200-$499,$50-$99,$20-$49,Live in Boulder,NA,200
+194,5-6 times,5-6 days,1,Female,45-54,93067,Yes,Home is here,$21-$49,0,$21-$49,$21-$49,0,0,$20-$49,$500-$999,0,$50-$99,Day trip,"Friends, family or no expense",240
+97,5-6 times,1-2 days,3,Female,55-64,80306,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$1 - $20,0,0,$1 - $20,0,$1 - $20,$1 - $20,$50-$99,NA,$500-$999,I live here,NA,3
+178,3-4 times,3-4 days,2,Female,25-34,80304,Yes,NA,$21-$49,0,0,$1 - $20,$200-$499,$21-$49,NA,0,$500-$999,$500-$999,Local,Home,NA
+163,20,1-2 days,3,Male,25-34,80303,NA,0,$21-$49,$21-$49,$21-$49,$21-$49,$21-$49,$21-$49,$50-$99,$1 - $20,$1 - $20,0,NA,Boulder Resident,175
+106,20,1-2 days,6,Female,55-64,80304,No,Zero,$100-$199,0,0,$21-$49,$1 - $20,NA,"$1,000-$1,999",$20-$49,0,$200-$499,Multiple day trips,NA,200
+143,12,2,2,Male,55-64,80303,NA,2 days,$21-$49,0,0,$1 - $20,0,"$5,000.00",0,$200-$499,$1 - $20,$500-$999,Day trip,Boulder Resident,175
+189,5-6 times,1-2 days,0.5,Female,55-64,93108,Yes,Live in area,$21-$49,0,0,$1 - $20,0,$50-$99,$20-$49,$50-$99,$1 - $20,$50-$99,Local resident,Home,200
+231,3-4 times,3-4 days,3,Female,65-74,80304,NA,0,$50-$99,$100-$199,$1 - $20,NA,$50-$99,$50-$99,$50-$99,$1 - $20,$50-$99,$20-$49,I live here,Boulder Resident,NA
+107,20,3-4 days,4,Female,55-64,80303,Yes,Live in area,$100-$199,$100-$199,$200-$499,$21-$49,$100-$199,$21-$49,$200-$499,$100-$199,$1 - $20,$1 - $20,Local resident,Home,500
+21,20,1-2 days,3,Female,55-64,80309,No,I live here,0,0,0,$1 - $20,0,0,$20-$49,NA,0,NA,Three nights,"Friends, family or no expense",200
+64,20,1-2 days,5,Female,75-84,80303,No,Live in area,$1 - $20,0,$1 - $20,0,0,0,"$1,000-$1,999",$500-$999,0,$50-$99,Two nights,"Friends, family or no expense",280
+150,20,1-2 days,3,Female,65-74,80302,No,Home is here,$21-$49,0,0,$1 - $20,0,$21-$49,0,NA,$50-$99,0,Four nights,NA,200
+67,20,3-4 days,2,Male,55-64,80306,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$1 - $20,0,$21-$49,0,0,0,$20-$49,NA,$100-$199,$1 - $20,Four nights,"Friends, family or no expense",175
+289,5-6 times,0,8,Female,35-44,95833,NA,I live here,$1 - $20,$200-$499,$1 - $20,0,"$1,000-$1,499",$200-$499,$20-$49,$1 - $20,$1 - $20,$1 - $20,Two nights,"Friends, family or no expense",175
+205,20,3-4 days,3,Female,35-44,80309,Yes,NA,$50-$99,0,$1 - $20,$1 - $20,0,$1 - $20,"$2,000-$4,999",$200-$499,0,$1 - $20,Live in Boulder,Home,3
+129,20,7-8 days,3,Female,35-44,80309,Yes,I live here,$200-$499,0,$21-$49,$21-$49,0,$100-$199,NA,$500-$999,$500-$999,$1 - $20,Three nights,Home,240
+34,1-2 times,1-2 days,1,Male,75-84,80306,No,-,0,0,0,0,0,0,0,$100-$199,NA,0,Four nights,Home,240
+245,1,1-2 days,2,Male,45-54,91320,Yes,A few hours,$200-$499,$1 - $20,$1 - $20,0,$1 - $20,$500-$999,$50-$99,$50-$99,$50-$99,$50-$99,One night,Hotel or motel,125
+81,1-2 times,3-4 days,10,Female,35-44,80304,Yes,A few hours,$1 - $20,$1 - $20,$1 - $20,$100-$199,$21-$49,$200-$499,$50-$99,$500-$999,$200-$499,$50-$99,NA,Home,125
+120,7,5-6 days,2,Male,45-54,80304,NA,Didn't extend stay,$100-$199,0,$21-$49,0,$21-$49,0,0,$200-$499,NA,$200-$499,Live in Boulder,Boulder Resident,175
+263,20,1-2 days,2,Female,35-44,80305,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$100-$199,$1 - $20,$200-$499,"$2,000-$3,000","$1,000-$1,499",0,$20-$49,0,$50-$99,0,Live in Boulder,Home,0
+210,20,3-4 days,3,Female,25-34,80306,NA,Zero,$50-$99,$1 - $20,0,$21-$49,$1 - $20,0,0,NA,NA,0,Four nights,Hotel or motel,240
+244,5-6 times,3-4 days,8,Male,45-54,80302,NA,I live here,$500-$999,0,$200-$499,"$2,000-$3,000",$500-$999,0,$1 - $20,$20-$49,$200-$499,NA,Day trip,"Friends, family or no expense",500
+95,5-6 times,1-2 days,3,Female,55-64,80303,No,2 days,$1 - $20,0,0,0,0,0,$200-$499,0,NA,$50-$99,Live in Boulder,"Friends, family or no expense",NA
+146,20,1-2 days,5,Female,45-54,80303,Yes,A few hours,$21-$49,0,0,0,0,0,$20-$49,$1 - $20,$1 - $20,$200-$499,Local,Hotel or motel,175
+1,0,0,8,Male,55-64,80309,NA,I live here,0,0,0,0,0,0,0,$1 - $20,$200-$499,$500-$999,One night,Home,NA
+11,20,0,0,Female,45-54,80309,NA,Home is here,0,0,0,0,0,0,0,$500-$999,NA,$1 - $20,Multiple day trips,NA,280
+143,12,2,2,Male,55-64,80303,NA,2 days,$21-$49,0,0,$1 - $20,0,"$5,000.00",0,$200-$499,$1 - $20,$500-$999,Day trip,Boulder Resident,175
+262,20,5-6 days,5,Male,35-44,80305,NA,I live here,$200-$499,$50-$99,NA,"$2,000-$3,000",0,$1 - $20,$50-$99,$50-$99,$50-$99,$20-$49,I live here,Home,N/A
+142,10,3-4 days,20,Female,45-54,80305,Yes,0,$21-$49,0,$21-$49,$1 - $20,0,0,$200-$499,$200-$499,$100-$199,$20-$49,Local,NA,175
+191,5-6 times,1-2 days,4,Female,35-44,80309,Yes,Zero,$21-$49,$200-$499,$1 - $20,$1 - $20,$50-$99,$200-$499,"$2,000-$4,999",0,$500-$999,$200-$499,NA,Boulder Resident,0
+189,5-6 times,1-2 days,0.5,Female,55-64,93108,Yes,Live in area,$21-$49,0,0,$1 - $20,0,$50-$99,$20-$49,$50-$99,$1 - $20,$50-$99,Local resident,Home,200
+164,20,1-2 days,3,Female,55-64,80306,NA,I live here,$21-$49,"$2,000-$3,000",$21-$49,"$2,000-$3,000",$1 - $20,"$5,000.00",$1 - $20,$1 - $20,$20-$49,$200-$499,NA,Home,240
+273,20,3-4 days,6,Male,25-34,80305,Yes,0,"$1,000.00",0,$100-$199,$21-$49,$50-$99,$500-$999,$100-$199,$20-$49,$50-$99,$50-$99,Resident,Boulder Resident,240
+153,20,5-6 days,4,Female,35-44,80306,No,Didn't extend stay,$21-$49,$21-$49,$1 - $20,$1 - $20,"$1,000-$1,499",$1 - $20,"$2,000-$4,999",0,$200-$499,$50-$99,Resident,Home,125
+132,20,7-8 days,9,Female,55-64,80309,Yes,2 days,$200-$499,$100-$199,$500-$999,$50-$99,$100-$199,$200-$499,$50-$99,$100-$199,$20-$49,$500-$999,Three nights,Home,0
+223,1-2 times,1-2 days,5,Female,65-74,93113,No,A few hours,$50-$99,0,$1 - $20,0,0,$21-$49,"$2,000-$4,999",$200-$499,0,$1 - $20,Local,Hotel or motel,200
+11,20,0,0,Female,45-54,80309,NA,Home is here,0,0,0,0,0,0,0,$500-$999,NA,$1 - $20,Multiple day trips,NA,280
+275,20,1-2 days,3,Female,65-74,80304,No,Live in area,"$1,000.00",$21-$49,$1 - $20,NA,$500-$999,NA,$50-$99,$500-$999,$20-$49,$20-$49,I live here,"Friends, family or no expense",NA
+79,1-2 times,1-2 days,0.5,Male,18-24,80306,No,Live in area,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$50-$99,$1 - $20,$100-$199,$50-$99,Multiple day trips,NA,200
+286,5-6 times,1-2 days,4,Female,25-34,93013,NA,Zero,$500-$999,$200-$499,$100-$199,0,$21-$49,$200-$499,$50-$99,$1 - $20,$1 - $20,$1 - $20,Day trip,Boulder Resident,280
+140,1,3-4 days,4,Female,55-64,93460,Yes,NA,$21-$49,$1 - $20,$21-$49,$50-$99,0,$21-$49,"$1,000-$1,999",$1 - $20,$200-$499,$1 - $20,Four nights,NA,280
+133,35,3-4 days,5,Female,35-44,80303,No,NA,$200-$499,"$2,000-$3,000",$50-$99,$1 - $20,$500-$999,$500-$999,$20-$49,0,$1 - $20,$500-$999,Live in Boulder,NA,280
+150,20,1-2 days,3,Female,65-74,80302,No,Home is here,$21-$49,0,0,$1 - $20,0,$21-$49,0,NA,$50-$99,0,Four nights,NA,200
+179,3-4 times,3-4 days,4,Female,65-74,80309,NA,1 day,$21-$49,0,0,$21-$49,$200-$499,$21-$49,$50-$99,$500-$999,$20-$49,$20-$49,One night,Hotel or motel,240
+177,3-4 times,0,2,Female,35-44,80303,Yes,I live here,$21-$49,0,0,0,0,0,$50-$99,$20-$49,$20-$49,$50-$99,Local,"Friends, family or no expense",NA
+176,1-2 times,1-2 days,2,Male,35-44,80304,No,I live here,$21-$49,$21-$49,$21-$49,"$2,000-$3,000",$200-$499,$500-$999,"$1,000-$1,999",$200-$499,$50-$99,$20-$49,Live in Boulder,NA,200
+81,1-2 times,3-4 days,10,Female,35-44,80304,Yes,A few hours,$1 - $20,$1 - $20,$1 - $20,$100-$199,$21-$49,$200-$499,$50-$99,$500-$999,$200-$499,$50-$99,NA,Home,125
+285,3-4 times,1-2 days,3,Female,85,80309,No,1 day,$500-$999,$21-$49,0,$50-$99,"$1,000-$1,499",$500-$999,$20-$49,$500-$999,$1 - $20,0,I live here,Hotel or motel,125
+183,3-4 times,1-2 days,4,Female,25-34,80306,NA,A few hours,$21-$49,$100-$199,"$1,000-$1,499",NA,$100-$199,$1 - $20,$1 - $20,0,$500-$999,$500-$999,Live in Boulder,NA,125
+193,5-6 times,5-6 days,1,Male,55-64,80306,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$21-$49,$1 - $20,$1 - $20,$21-$49,$1 - $20,$50-$99,$50-$99,0,$1 - $20,$500-$999,Resident,NA,280
+278,35,3-4 days,4,Female,85,80305,Yes,NA,$1 - $20,0,NA,$500-$999,$200-$499,"$5,000.00",$200-$499,$100-$199,$100-$199,$20-$49,Day trip,"Friends, family or no expense",240
+70,20,5-6 days,3,Female,18-24,80309,No,Zero,$1 - $20,0,$1 - $20,$1 - $20,0,0,$20-$49,$200-$499,$200-$499,$20-$49,Local resident,Boulder Resident,240
+216,20,5-6 days,5,Female,45-54,80303,No,Home is here,$50-$99,$100-$199,$100-$199,$21-$49,0,$500-$999,$100-$199,$500-$999,$50-$99,NA,One night,Home,3
+173,1-2 times,3-4 days,3,Female,25-34,80303,NA,0,$21-$49,0,$21-$49,$21-$49,0,"$5,000.00",NA,$20-$49,$20-$49,$20-$49,Live in Boulder,"Friends, family or no expense",280
+190,5-6 times,3-4 days,3,Female,25-34,80303,No,Live in area,$21-$49,0,$1 - $20,$1 - $20,0,"$3,000-$4,000",$200-$499,$1 - $20,$20-$49,$200-$499,Live in Boulder,Home,175
+286,5-6 times,1-2 days,4,Female,25-34,93013,NA,Zero,$500-$999,$200-$499,$100-$199,0,$21-$49,$200-$499,$50-$99,$1 - $20,$1 - $20,$1 - $20,Day trip,Boulder Resident,280
+38,3-4 times,0,0,Male,65-74,93108,No,2 days,0,0,0,0,0,0,$1 - $20,$100-$199,NA,$20-$49,Resident,Boulder Resident,3
+20,20,0,0,Female,25-34,80303,Yes,Zero,0,0,0,$1 - $20,0,0,"$1,000-$1,999",0,$50-$99,$20-$49,Three nights,"Friends, family or no expense",0
+225,3-4 times,1-2 days,4,Male,25-34,80303,NA,I live here,$50-$99,0,0,0,0,$1 - $20,"$1,000-$1,999",$200-$499,0,$50-$99,Four nights,Boulder Resident,280
+173,1-2 times,3-4 days,3,Female,25-34,80303,NA,0,$21-$49,0,$21-$49,$21-$49,0,"$5,000.00",NA,$20-$49,$20-$49,$20-$49,Live in Boulder,"Friends, family or no expense",280
+76,1-2 times,1-2 days,1,Female,18-24,91104,Yes,A few hours,$1 - $20,0,0,0,0,0,$200-$499,$20-$49,NA,$20-$49,Day trip,Home,280
+106,20,1-2 days,6,Female,55-64,80304,No,Zero,$100-$199,0,0,$21-$49,$1 - $20,NA,"$1,000-$1,999",$20-$49,0,$200-$499,Multiple day trips,NA,200
+9,20,1-2 days,2,Male,35-44,80309,No,1 day,0,0,0,0,0,0,$100-$199,$200-$499,$20-$49,$1 - $20,I live here,NA,3
+255,20,1-2 days,4,Male,55-64,93111,NA,I live here,0,$50-$99,$1 - $20,$21-$49,0,$1 - $20,$100-$199,$100-$199,$20-$49,$20-$49,Day trip,Home,280
+211,20,3-4 days,4,Male,35-44,80303,No,Didn't extend stay,$50-$99,$50-$99,0,$21-$49,0,0,$20-$49,$200-$499,$20-$49,$50-$99,Four nights,"Friends, family or no expense",125
+154,20,3-4 days,2,Female,75-84,80304,Yes,2 days,$21-$49,0,$100-$199,$1 - $20,0,0,NA,0,0,NA,Day trip,"Friends, family or no expense",125
+83,3-4 times,1-2 days,3,Female,35-44,80303,Yes,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$1 - $20,0,0,0,0,$1 - $20,$20-$49,$500-$999,$100-$199,NA,Multiple day trips,"Friends, family or no expense",280
+91,5-6 times,1-2 days,2,Female,35-44,93111,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$1 - $20,0,0,0,0,0,$1 - $20,$200-$499,$50-$99,0,Three nights,Home,125
+205,20,3-4 days,3,Female,35-44,80309,Yes,NA,$50-$99,0,$1 - $20,$1 - $20,0,$1 - $20,"$2,000-$4,999",$200-$499,0,$1 - $20,Live in Boulder,Home,3
+135,1-2 times,1-2 days,4,Male,18-24,80306,Yes,0,$200-$499,0,$200-$499,$21-$49,0,0,0,$50-$99,$100-$199,$200-$499,Resident,Boulder Resident,240
+116,3-4 times,7-8 days,5,Female,45-54,93463,No,Zero,$100-$199,$200-$499,"$1,000-$1,499",$200-$499,$500-$999,$200-$499,$100-$199,$200-$499,$50-$99,NA,Multiple day trips,NA,240
+76,1-2 times,1-2 days,1,Female,18-24,91104,Yes,A few hours,$1 - $20,0,0,0,0,0,$200-$499,$20-$49,NA,$20-$49,Day trip,Home,280
+35,1-2 times,0,0,Female,Prefer not to say,80304,Yes,Didn't extend stay,0,0,0,0,0,0,$100-$199,0,$200-$499,$1 - $20,Three nights,"Friends, family or no expense",NA
+242,20,5-6 days,6,Male,45-54,80303,NA,Live in area,$500-$999,$500-$999,$50-$99,$100-$199,0,0,NA,$1 - $20,NA,0,One night,NA,280
+156,20,1-2 days,4,Female,35-44,80309,Yes,1 day,$21-$49,$200-$499,NA,$1 - $20,$200-$499,$200-$499,$20-$49,$50-$99,$500-$999,$50-$99,Three nights,Boulder Resident,125
+68,20,0,1,Male,55-64,80306,Yes,-,$1 - $20,0,0,$1 - $20,0,0,NA,$1 - $20,$1 - $20,$1 - $20,Resident,Boulder Resident,125
+71,20,3-4 days,3,Female,55-64,80304,No,Didn't extend stay,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$100-$199,$100-$199,$1 - $20,$50-$99,$500-$999,Four nights,"Friends, family or no expense",175
+54,4,10,5,Female,45-54,80309,Yes,I live here,"$1,000.00",$100-$199,$500-$999,$50-$99,"$1,000-$1,499","$5,000.00",$1 - $20,$20-$49,$1 - $20,$50-$99,I live here,Hotel or motel,500
+174,1-2 times,3-4 days,5,Female,25-34,80309,Yes,2 days,$21-$49,0,$21-$49,$21-$49,0,0,"$2,000-$4,999",0,$1 - $20,$50-$99,NA,"Friends, family or no expense",N/A
+234,5-6 times,1-2 days,2,Female,45-54,80303,Yes,I live here,$50-$99,0,0,0,0,0,$1 - $20,$200-$499,$200-$499,$500-$999,Local,Boulder Resident,N/A
+26,1-2 times,0,0,Female,45-54,80303,Yes,Zero,0,0,0,0,0,0,$20-$49,$20-$49,NA,$500-$999,Resident,Hotel or motel,280
+269,20,5-6 days,6,Female,65-74,80302,Yes,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",NA,$100-$199,$500-$999,$500-$999,NA,0,$20-$49,$20-$49,$20-$49,$20-$49,Two nights,Hotel or motel,200
+257,20,3-4 days,5,Female,18-24,93013,No,0,$200-$499,$200-$499,$200-$499,$100-$199,$100-$199,"$5,000.00",$20-$49,$200-$499,$100-$199,$50-$99,Day trip,Boulder Resident,125
+91,5-6 times,1-2 days,2,Female,35-44,93111,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$1 - $20,0,0,0,0,0,$1 - $20,$200-$499,$50-$99,0,Three nights,Home,125
+35,1-2 times,0,0,Female,Prefer not to say,80304,Yes,Didn't extend stay,0,0,0,0,0,0,$100-$199,0,$200-$499,$1 - $20,Three nights,"Friends, family or no expense",NA
+189,5-6 times,1-2 days,0.5,Female,55-64,93108,Yes,Live in area,$21-$49,0,0,$1 - $20,0,$50-$99,$20-$49,$50-$99,$1 - $20,$50-$99,Local resident,Home,200
+168,47,3-4 days,3,Female,45-54,80306,No,2 days,$21-$49,0,$21-$49,$1 - $20,0,0,"$1,000-$1,999",$200-$499,$1 - $20,$1 - $20,NA,Boulder Resident,500
+38,3-4 times,0,0,Male,65-74,93108,No,2 days,0,0,0,0,0,0,$1 - $20,$100-$199,NA,$20-$49,Resident,Boulder Resident,3
+130,20,7-8 days,3,Female,35-44,80309,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$200-$499,0,$21-$49,$21-$49,0,$1 - $20,NA,0,$100-$199,$50-$99,NA,Boulder Resident,N/A
+223,1-2 times,1-2 days,5,Female,65-74,93113,No,A few hours,$50-$99,0,$1 - $20,0,0,$21-$49,"$2,000-$4,999",$200-$499,0,$1 - $20,Local,Hotel or motel,200
+225,3-4 times,1-2 days,4,Male,25-34,80303,NA,I live here,$50-$99,0,0,0,0,$1 - $20,"$1,000-$1,999",$200-$499,0,$50-$99,Four nights,Boulder Resident,280
+105,20,3-4 days,2,Male,65-74,80309,NA,1 day,$100-$199,"$2,000-$3,000",$50-$99,$1 - $20,$21-$49,"$3,000-$4,000",$20-$49,0,0,$20-$49,Resident,"Friends, family or no expense",200
+85,3-4 times,1-2 days,2,Female,18-24,80303,No,I live here,$1 - $20,$500-$999,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$200-$499,$500-$999,0,$50-$99,Local,Hotel or motel,280
+63,20,3-4 days,2,Female,55-64,80306,NA,-,$1 - $20,0,$1 - $20,0,0,0,$1 - $20,$1 - $20,NA,0,Local,Home,175
+102,20,3-4 days,8,Female,35-44,80303,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$100-$199,$100-$199,$1 - $20,$1 - $20,0,"$3,000-$4,000",$200-$499,$100-$199,$100-$199,$1 - $20,Three nights,NA,500
+72,20,5-6 days,6,Male,65-74,80304,NA,2 days,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$200-$499,$500-$999,$50-$99,$50-$99,$1 - $20,$20-$49,I live here,Boulder Resident,0
+183,3-4 times,1-2 days,4,Female,25-34,80306,NA,A few hours,$21-$49,$100-$199,"$1,000-$1,499",NA,$100-$199,$1 - $20,$1 - $20,0,$500-$999,$500-$999,Live in Boulder,NA,125
+87,3-4 times,5-6 days,5,Female,55-64,80309,No,NA,$1 - $20,0,$100-$199,$1 - $20,$21-$49,0,$20-$49,$1 - $20,$500-$999,$500-$999,Four nights,"Friends, family or no expense",175
+46,5-6 times,0,3,Female,45-54,80309,NA,0,0,0,0,0,0,0,$1 - $20,$1 - $20,$20-$49,$50-$99,Day trip,NA,3
+97,5-6 times,1-2 days,3,Female,55-64,80306,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$1 - $20,0,0,$1 - $20,0,$1 - $20,$1 - $20,$50-$99,NA,$500-$999,I live here,NA,3
+248,1,3-4 days,4,Female,35-44,93611,NA,A few hours,$1 - $20,$21-$49,$100-$199,$1 - $20,NA,$21-$49,"$1,000-$1,999",0,$50-$99,$200-$499,Three nights,Hotel or motel,500
+178,3-4 times,3-4 days,2,Female,25-34,80304,Yes,NA,$21-$49,0,0,$1 - $20,$200-$499,$21-$49,NA,0,$500-$999,$500-$999,Local,Home,NA
+187,5-6 times,1-2 days,2,Female,55-64,80309,NA,-,$21-$49,0,0,0,0,0,"$1,000-$1,999",NA,$200-$499,$500-$999,One night,NA,NA
+239,0,3,5,Female,35-44,93111,No,Home is here,$50-$99,0,$1 - $20,$1 - $20,0,0,$200-$499,0,$100-$199,$1 - $20,Local,Home,3
+65,20,3-4 days,3,Female,45-54,80309,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$1 - $20,$1 - $20,$1 - $20,0,$1 - $20,$1 - $20,$1 - $20,NA,$50-$99,$50-$99,Resident,Home,200
+271,20,7-8 days,2,Female,45-54,80305,Yes,Live in area,$1 - $20,"$1,000-$1,499","$1,000-$1,499",0,"$1,000-$1,499","$5,000.00",$100-$199,$20-$49,$200-$499,$1 - $20,Local,Boulder Resident,500
+266,20,3-4 days,3,Male,35-44,93013,Yes,Home is here,$200-$499,"$1,000-$1,499",$500-$999,NA,$100-$199,$500-$999,$50-$99,$100-$199,$20-$49,0,Multiple day trips,Home,0
+221,29,3-4 days,4,Female,45-54,93013,Yes,-,$50-$99,$100-$199,$21-$49,$100-$199,0,$50-$99,0,NA,0,NA,Day trip,Home,280
+285,3-4 times,1-2 days,3,Female,85,80309,No,1 day,$500-$999,$21-$49,0,$50-$99,"$1,000-$1,499",$500-$999,$20-$49,$500-$999,$1 - $20,0,I live here,Hotel or motel,125
+123,20,3-4 days,5,Female,25-34,80309,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$200-$499,$100-$199,$1 - $20,$21-$49,$1 - $20,0,$100-$199,NA,$100-$199,0,Live in Boulder,Hotel or motel,280
+197,NA,6,4,Female,45-54,80303,NA,NA,$21-$49,$50-$99,$21-$49,$21-$49,$100-$199,$1 - $20,$100-$199,$20-$49,$500-$999,$50-$99,NA,Hotel or motel,125
+63,20,3-4 days,2,Female,55-64,80306,NA,-,$1 - $20,0,$1 - $20,0,0,0,$1 - $20,$1 - $20,NA,0,Local,Home,175
+70,20,5-6 days,3,Female,18-24,80309,No,Zero,$1 - $20,0,$1 - $20,$1 - $20,0,0,$20-$49,$200-$499,$200-$499,$20-$49,Local resident,Boulder Resident,240
+107,20,3-4 days,4,Female,55-64,80303,Yes,Live in area,$100-$199,$100-$199,$200-$499,$21-$49,$100-$199,$21-$49,$200-$499,$100-$199,$1 - $20,$1 - $20,Local resident,Home,500
+256,20,3-4 days,3,Female,45-54,80305,NA,Zero,0,0,$500-$999,$100-$199,$21-$49,$100-$199,$50-$99,0,$20-$49,$20-$49,Day trip,Home,200
+150,20,1-2 days,3,Female,65-74,80302,No,Home is here,$21-$49,0,0,$1 - $20,0,$21-$49,0,NA,$50-$99,0,Four nights,NA,200
+47,5-6 times,0,4,Female,45-54,80309,No,Live in area,0,0,0,0,0,0,$1 - $20,$1 - $20,NA,$200-$499,NA,NA,3
+23,20,3-4 days,3,Male,25-34,80309,Yes,0,0,"$1,000-$1,499","$1,000.00",$50-$99,$1 - $20,0,$200-$499,NA,$50-$99,$50-$99,NA,NA,240
+98,5-6 times,1-2 days,2,Male,25-34,80306,NA,2 days,$1 - $20,0,0,$21-$49,0,0,$1 - $20,$100-$199,0,$50-$99,One night,Boulder Resident,125
+177,3-4 times,0,2,Female,35-44,80303,Yes,I live here,$21-$49,0,0,0,0,0,$50-$99,$20-$49,$20-$49,$50-$99,Local,"Friends, family or no expense",NA
+243,3-4 times,3-4 days,10,Male,55-64,80303,NA,-,$500-$999,0,0,$1 - $20,$100-$199,$21-$49,$20-$49,$20-$49,$1 - $20,$50-$99,Four nights,Boulder Resident,500
+26,1-2 times,0,0,Female,45-54,80303,Yes,Zero,0,0,0,0,0,0,$20-$49,$20-$49,NA,$500-$999,Resident,Hotel or motel,280
+87,3-4 times,5-6 days,5,Female,55-64,80309,No,NA,$1 - $20,0,$100-$199,$1 - $20,$21-$49,0,$20-$49,$1 - $20,$500-$999,$500-$999,Four nights,"Friends, family or no expense",175
+20,20,0,0,Female,25-34,80303,Yes,Zero,0,0,0,$1 - $20,0,0,"$1,000-$1,999",0,$50-$99,$20-$49,Three nights,"Friends, family or no expense",0
+58,20,1-2 days,1,Male,45-54,80309,No,2 days,$1 - $20,0,0,0,0,0,"$1,000-$1,999",$1 - $20,$200-$499,$200-$499,Four nights,Home,200
+157,20,1-2 days,3,Female,55-64,80306,No,Live in area,$21-$49,$100-$199,$200-$499,$1 - $20,$50-$99,$500-$999,NA,$50-$99,$1 - $20,NA,Live in Boulder,Hotel or motel,NA
+237,5-6 times,3-4 days,2.5,Female,25-34,80302,No,1 day,$50-$99,0,0,$21-$49,$1 - $20,0,$20-$49,$500-$999,$200-$499,NA,Resident,Hotel or motel,280
+43,5-6 times,1-2 days,1,Female,25-34,93108,No,Zero,0,0,0,0,0,0,$200-$499,NA,$200-$499,$20-$49,I live here,Boulder Resident,NA
+91,5-6 times,1-2 days,2,Female,35-44,93111,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$1 - $20,0,0,0,0,0,$1 - $20,$200-$499,$50-$99,0,Three nights,Home,125
+84,3-4 times,1-2 days,2,Female,18-24,80306,Yes,Live in area,$1 - $20,0,0,$1 - $20,0,0,$100-$199,$50-$99,NA,$500-$999,Resident,Boulder Resident,200
+188,5-6 times,1-2 days,3,Female,35-44,80309,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$21-$49,0,0,$1 - $20,0,0,$1 - $20,$100-$199,$200-$499,$20-$49,Day trip,"Friends, family or no expense",N/A
+213,20,3-4 days,5,Female,55-64,93108,NA,NA,$50-$99,0,$1 - $20,$21-$49,$1 - $20,$1 - $20,0,$50-$99,$200-$499,$200-$499,Live in Boulder,"Friends, family or no expense",500
+270,20,1-2 days,3,Male,35-44,93111,No,Didn't extend stay,$500-$999,$50-$99,$50-$99,$1 - $20,"$1,000-$1,499","$5,000.00",0,$20-$49,$50-$99,NA,Live in Boulder,Home,175
+12,20,0,0,Female,55-64,80309,Yes,2 days,0,0,0,0,0,0,NA,0,$1 - $20,$200-$499,Live in Boulder,NA,175
+62,20,1-2 days,3,Female,65-74,80304,Yes,Zero,$1 - $20,$50-$99,0,0,0,$21-$49,$100-$199,$500-$999,$100-$199,$20-$49,I live here,Hotel or motel,500
+283,1-2 times,1-2 days,6,Male,35-44,91792,Yes,Zero,$1 - $20,0,"$1,000-$1,499",0,"$1,000-$1,499","$5,000.00",$100-$199,NA,$1 - $20,$200-$499,Two nights,Home,175
+179,3-4 times,3-4 days,4,Female,65-74,80309,NA,1 day,$21-$49,0,0,$21-$49,$200-$499,$21-$49,$50-$99,$500-$999,$20-$49,$20-$49,One night,Hotel or motel,240
+216,20,5-6 days,5,Female,45-54,80303,No,Home is here,$50-$99,$100-$199,$100-$199,$21-$49,0,$500-$999,$100-$199,$500-$999,$50-$99,NA,One night,Home,3
+69,20,1-2 days,3,Female,55-64,80306,NA,Live in area,$1 - $20,0,0,$1 - $20,$1 - $20,"$5,000.00",$200-$499,$500-$999,$500-$999,$500-$999,Local resident,"Friends, family or no expense",0
+180,3-4 times,3-4 days,4,Female,25-34,80306,Yes,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$21-$49,$50-$99,0,$21-$49,$1 - $20,0,"$1,000-$1,999",0,NA,NA,Live in Boulder,Boulder Resident,N/A
+239,0,3,5,Female,35-44,93111,No,Home is here,$50-$99,0,$1 - $20,$1 - $20,0,0,$200-$499,0,$100-$199,$1 - $20,Local,Home,3
+275,20,1-2 days,3,Female,65-74,80304,No,Live in area,"$1,000.00",$21-$49,$1 - $20,NA,$500-$999,NA,$50-$99,$500-$999,$20-$49,$20-$49,I live here,"Friends, family or no expense",NA
+59,20,3-4 days,7,Male,45-54,80303,No,I live here,$1 - $20,0,0,0,0,$1 - $20,"$1,000-$1,999",$200-$499,0,$50-$99,NA,"Friends, family or no expense",200
+70,20,5-6 days,3,Female,18-24,80309,No,Zero,$1 - $20,0,$1 - $20,$1 - $20,0,0,$20-$49,$200-$499,$200-$499,$20-$49,Local resident,Boulder Resident,240
+265,20,3-4 days,2,Female,55-64,80305,No,Live in area,$50-$99,$21-$49,$200-$499,$200-$499,0,$100-$199,$1 - $20,$20-$49,$20-$49,$20-$49,Local resident,Home,N/A
+181,3-4 times,5-6 days,5,Female,25-34,80303,Yes,Didn't extend stay,$21-$49,$50-$99,$50-$99,$50-$99,0,$1 - $20,$200-$499,NA,$50-$99,$20-$49,Local resident,"Friends, family or no expense",500
+248,1,3-4 days,4,Female,35-44,93611,NA,A few hours,$1 - $20,$21-$49,$100-$199,$1 - $20,NA,$21-$49,"$1,000-$1,999",0,$50-$99,$200-$499,Three nights,Hotel or motel,500
+200,20,1-2 days,4,Female,55-64,93003,Yes,A few hours,$50-$99,0,$1 - $20,$21-$49,0,0,$100-$199,$50-$99,$50-$99,$500-$999,Day trip,Boulder Resident,175
+263,20,1-2 days,2,Female,35-44,80305,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$100-$199,$1 - $20,$200-$499,"$2,000-$3,000","$1,000-$1,499",0,$20-$49,0,$50-$99,0,Live in Boulder,Home,0
+129,20,7-8 days,3,Female,35-44,80309,Yes,I live here,$200-$499,0,$21-$49,$21-$49,0,$100-$199,NA,$500-$999,$500-$999,$1 - $20,Three nights,Home,240
+192,5-6 times,3-4 days,3,Male,45-54,80306,Yes,Live in area,$21-$49,"$1,000-$1,499",$21-$49,$1 - $20,"$1,000-$1,499",$21-$49,NA,$200-$499,$500-$999,$20-$49,Local,Boulder Resident,175
+279,1-2 times,1-2 days,4,Female,45-54,93111,No,I live here,NA,$21-$49,$500-$999,$500-$999,$500-$999,$100-$199,NA,$1 - $20,$1 - $20,$20-$49,Four nights,Boulder Resident,125
+13,20,0,2,Female,55-64,80303,NA,1 day,0,0,0,0,0,0,"$1,000-$1,999",$200-$499,$100-$199,$20-$49,Day trip,"Friends, family or no expense",125
+234,5-6 times,1-2 days,2,Female,45-54,80303,Yes,I live here,$50-$99,0,0,0,0,0,$1 - $20,$200-$499,$200-$499,$500-$999,Local,Boulder Resident,N/A
+276,20,1-2 days,6,Male,55-64,80305,Yes,2 days,"$1,000.00",NA,$50-$99,0,"$1,000-$1,499",$500-$999,$100-$199,$20-$49,$50-$99,NA,Day trip,NA,500
+188,5-6 times,1-2 days,3,Female,35-44,80309,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$21-$49,0,0,$1 - $20,0,0,$1 - $20,$100-$199,$200-$499,$20-$49,Day trip,"Friends, family or no expense",N/A
+188,5-6 times,1-2 days,3,Female,35-44,80309,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$21-$49,0,0,$1 - $20,0,0,$1 - $20,$100-$199,$200-$499,$20-$49,Day trip,"Friends, family or no expense",N/A
+69,20,1-2 days,3,Female,55-64,80306,NA,Live in area,$1 - $20,0,0,$1 - $20,$1 - $20,"$5,000.00",$200-$499,$500-$999,$500-$999,$500-$999,Local resident,"Friends, family or no expense",0
+225,3-4 times,1-2 days,4,Male,25-34,80303,NA,I live here,$50-$99,0,0,0,0,$1 - $20,"$1,000-$1,999",$200-$499,0,$50-$99,Four nights,Boulder Resident,280
+291,5-6 times,7-8 days,3,Female,45-54,80306,NA,Didn't extend stay,$21-$49,$50-$99,$1 - $20,$1 - $20,$21-$49,$1 - $20,0,NA,$50-$99,$50-$99,Resident,NA,500
+42,5-6 times,0,0.5,Male,25-34,80309,No,Home is here,0,0,0,0,0,0,$20-$49,$20-$49,$100-$199,$1 - $20,Multiple day trips,Boulder Resident,200
+79,1-2 times,1-2 days,0.5,Male,18-24,80306,No,Live in area,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$50-$99,$1 - $20,$100-$199,$50-$99,Multiple day trips,NA,200
+275,20,1-2 days,3,Female,65-74,80304,No,Live in area,"$1,000.00",$21-$49,$1 - $20,NA,$500-$999,NA,$50-$99,$500-$999,$20-$49,$20-$49,I live here,"Friends, family or no expense",NA
+97,5-6 times,1-2 days,3,Female,55-64,80306,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$1 - $20,0,0,$1 - $20,0,$1 - $20,$1 - $20,$50-$99,NA,$500-$999,I live here,NA,3
+69,20,1-2 days,3,Female,55-64,80306,NA,Live in area,$1 - $20,0,0,$1 - $20,$1 - $20,"$5,000.00",$200-$499,$500-$999,$500-$999,$500-$999,Local resident,"Friends, family or no expense",0
+175,1-2 times,7-8 days,3,Male,35-44,93437,NA,0,$21-$49,0,$50-$99,$21-$49,0,0,0,$1 - $20,$500-$999,NA,NA,"Friends, family or no expense",500
+174,1-2 times,3-4 days,5,Female,25-34,80309,Yes,2 days,$21-$49,0,$21-$49,$21-$49,0,0,"$2,000-$4,999",0,$1 - $20,$50-$99,NA,"Friends, family or no expense",N/A
+75,20,1-2 days,1,Female,65-74,80306,NA,I live here,$1 - $20,NA,NA,NA,$200-$499,"$3,000-$4,000",$200-$499,$20-$49,NA,$1 - $20,NA,Boulder Resident,175
+45,5-6 times,1-2 days,1,Female,35-44,80303,NA,0,0,0,0,0,0,0,"$1,000-$1,999",$50-$99,$1 - $20,NA,NA,"Friends, family or no expense",0
+157,20,1-2 days,3,Female,55-64,80306,No,Live in area,$21-$49,$100-$199,$200-$499,$1 - $20,$50-$99,$500-$999,NA,$50-$99,$1 - $20,NA,Live in Boulder,Hotel or motel,NA
+216,20,5-6 days,5,Female,45-54,80303,No,Home is here,$50-$99,$100-$199,$100-$199,$21-$49,0,$500-$999,$100-$199,$500-$999,$50-$99,NA,One night,Home,3
+118,5-6 times,7-8 days,5,Female,35-44,80304,No,Home is here,$100-$199,$100-$199,$50-$99,$1 - $20,$100-$199,"$3,000-$4,000","$1,000-$1,999",$1 - $20,NA,0,Local,NA,NA
+143,12,2,2,Male,55-64,80303,NA,2 days,$21-$49,0,0,$1 - $20,0,"$5,000.00",0,$200-$499,$1 - $20,$500-$999,Day trip,Boulder Resident,175
+209,20,20,4,Female,45-54,80303,Yes,Live in area,$50-$99,$200-$499,$100-$199,$200-$499,0,0,"$1,000-$1,999",$500-$999,NA,$200-$499,Four nights,"Friends, family or no expense",3
+83,3-4 times,1-2 days,3,Female,35-44,80303,Yes,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$1 - $20,0,0,0,0,$1 - $20,$20-$49,$500-$999,$100-$199,NA,Multiple day trips,"Friends, family or no expense",280
+263,20,1-2 days,2,Female,35-44,80305,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$100-$199,$1 - $20,$200-$499,"$2,000-$3,000","$1,000-$1,499",0,$20-$49,0,$50-$99,0,Live in Boulder,Home,0
+67,20,3-4 days,2,Male,55-64,80306,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$1 - $20,0,$21-$49,0,0,0,$20-$49,NA,$100-$199,$1 - $20,Four nights,"Friends, family or no expense",175
+195,5-6 times,3-4 days,5,Male,18-24,80306,Yes,Home is here,$21-$49,$50-$99,$21-$49,$50-$99,$21-$49,$50-$99,NA,$50-$99,$500-$999,0,Resident,Boulder Resident,200
+152,20,1-2 days,2.5,Female,25-34,80304,No,2 days,$21-$49,0,$1 - $20,$1 - $20,0,$21-$49,"$2,000-$4,999",0,$20-$49,$200-$499,Live in Boulder,"Friends, family or no expense",280
+171,1-2 times,1-2 days,4,Male,18-24,80304,No,Zero,$21-$49,0,0,$1 - $20,$100-$199,$21-$49,"$2,000-$4,999",$500-$999,$500-$999,$500-$999,Live in Boulder,NA,500
+171,1-2 times,1-2 days,4,Male,18-24,80304,No,Zero,$21-$49,0,0,$1 - $20,$100-$199,$21-$49,"$2,000-$4,999",$500-$999,$500-$999,$500-$999,Live in Boulder,NA,500
+288,5-6 times,1-2 days,5,Male,45-54,90245,No,Didn't extend stay,$1 - $20,$100-$199,$50-$99,$21-$49,$1 - $20,NA,$50-$99,$50-$99,$100-$199,$200-$499,One night,Hotel or motel,280
+233,5-6 times,7-8 days,5,Female,35-44,80303,NA,NA,$50-$99,$1 - $20,$500-$999,$21-$49,$1 - $20,$1 - $20,"$2,000-$4,999",$500-$999,$500-$999,$500-$999,Resident,"Friends, family or no expense",0
+154,20,3-4 days,2,Female,75-84,80304,Yes,2 days,$21-$49,0,$100-$199,$1 - $20,0,0,NA,0,0,NA,Day trip,"Friends, family or no expense",125
+14,20,0,8,Male,55-64,80309,Yes,A few hours,0,0,0,0,0,0,$50-$99,$500-$999,$20-$49,0,Resident,NA,0
+132,20,7-8 days,9,Female,55-64,80309,Yes,2 days,$200-$499,$100-$199,$500-$999,$50-$99,$100-$199,$200-$499,$50-$99,$100-$199,$20-$49,$500-$999,Three nights,Home,0
+101,20,1-2 days,1,Female,45-54,80304,No,Didn't extend stay,$100-$199,$21-$49,0,$1 - $20,0,$1 - $20,$20-$49,0,$200-$499,$500-$999,Live in Boulder,NA,175
+194,5-6 times,5-6 days,1,Female,45-54,93067,Yes,Home is here,$21-$49,0,$21-$49,$21-$49,0,0,$20-$49,$500-$999,0,$50-$99,Day trip,"Friends, family or no expense",240
+271,20,7-8 days,2,Female,45-54,80305,Yes,Live in area,$1 - $20,"$1,000-$1,499","$1,000-$1,499",0,"$1,000-$1,499","$5,000.00",$100-$199,$20-$49,$200-$499,$1 - $20,Local,Boulder Resident,500
+263,20,1-2 days,2,Female,35-44,80305,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$100-$199,$1 - $20,$200-$499,"$2,000-$3,000","$1,000-$1,499",0,$20-$49,0,$50-$99,0,Live in Boulder,Home,0
+263,20,1-2 days,2,Female,35-44,80305,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$100-$199,$1 - $20,$200-$499,"$2,000-$3,000","$1,000-$1,499",0,$20-$49,0,$50-$99,0,Live in Boulder,Home,0
+176,1-2 times,1-2 days,2,Male,35-44,80304,No,I live here,$21-$49,$21-$49,$21-$49,"$2,000-$3,000",$200-$499,$500-$999,"$1,000-$1,999",$200-$499,$50-$99,$20-$49,Live in Boulder,NA,200
+256,20,3-4 days,3,Female,45-54,80305,NA,Zero,0,0,$500-$999,$100-$199,$21-$49,$100-$199,$50-$99,0,$20-$49,$20-$49,Day trip,Home,200
+105,20,3-4 days,2,Male,65-74,80309,NA,1 day,$100-$199,"$2,000-$3,000",$50-$99,$1 - $20,$21-$49,"$3,000-$4,000",$20-$49,0,0,$20-$49,Resident,"Friends, family or no expense",200
+156,20,1-2 days,4,Female,35-44,80309,Yes,1 day,$21-$49,$200-$499,NA,$1 - $20,$200-$499,$200-$499,$20-$49,$50-$99,$500-$999,$50-$99,Three nights,Boulder Resident,125
+164,20,1-2 days,3,Female,55-64,80306,NA,I live here,$21-$49,"$2,000-$3,000",$21-$49,"$2,000-$3,000",$1 - $20,"$5,000.00",$1 - $20,$1 - $20,$20-$49,$200-$499,NA,Home,240
+147,20,1-2 days,1,Male,65-74,80306,Yes,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$21-$49,0,0,0,0,0,$100-$199,$20-$49,NA,NA,NA,"Friends, family or no expense",NA
+46,5-6 times,0,3,Female,45-54,80309,NA,0,0,0,0,0,0,0,$1 - $20,$1 - $20,$20-$49,$50-$99,Day trip,NA,3
+163,20,1-2 days,3,Male,25-34,80303,NA,0,$21-$49,$21-$49,$21-$49,$21-$49,$21-$49,$21-$49,$50-$99,$1 - $20,$1 - $20,0,NA,Boulder Resident,175
+292,5-6 times,0,1,Prefer not to say,18-24,91335,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$1 - $20,$50-$99,$100-$199,"$2,000-$3,000",$500-$999,NA,$100-$199,$100-$199,$20-$49,0,Two nights,Boulder Resident,280
+246,1,12,5,Female,18-24,12345,NA,A few hours,$100-$199,0,$200-$499,0,$21-$49,$500-$999,NA,$500-$999,$100-$199,NA,One night,Hotel or motel,500
+159,20,3-4 days,4,Female,55-64,93111,Yes,Didn't extend stay,$21-$49,0,0,$21-$49,0,0,0,$100-$199,$200-$499,$200-$499,Day trip,NA,240
+122,20,5-6 days,3,Male,65-74,80309,Yes,A few hours,$200-$499,$21-$49,$1 - $20,0,$50-$99,$21-$49,"$2,000-$4,999",$50-$99,$1 - $20,0,Two nights,"Friends, family or no expense",280
+127,20,7-8 days,3,Female,35-44,80309,Yes,-,$200-$499,0,$21-$49,$21-$49,0,NA,"$2,000-$4,999",$500-$999,$100-$199,$20-$49,I live here,Home,500
+61,20,0,2,Female,75-84,80309,No,Live in area,$1 - $20,0,0,0,$21-$49,$100-$199,NA,$20-$49,NA,$20-$49,Local,Hotel or motel,NA
+195,5-6 times,3-4 days,5,Male,18-24,80306,Yes,Home is here,$21-$49,$50-$99,$21-$49,$50-$99,$21-$49,$50-$99,NA,$50-$99,$500-$999,0,Resident,Boulder Resident,200
+104,20,3-4 days,3,Female,45-54,80303,Yes,0,$100-$199,0,$50-$99,$1 - $20,$1 - $20,$50-$99,$1 - $20,$200-$499,$200-$499,$1 - $20,Local,NA,N/A
+25,1-2 times,0,0,Female,45-54,80303,Yes,Didn't extend stay,0,0,0,0,0,0,$1 - $20,0,$20-$49,NA,Four nights,NA,125
+231,3-4 times,3-4 days,3,Female,65-74,80304,NA,0,$50-$99,$100-$199,$1 - $20,NA,$50-$99,$50-$99,$50-$99,$1 - $20,$50-$99,$20-$49,I live here,Boulder Resident,NA
+279,1-2 times,1-2 days,4,Female,45-54,93111,No,I live here,NA,$21-$49,$500-$999,$500-$999,$500-$999,$100-$199,NA,$1 - $20,$1 - $20,$20-$49,Four nights,Boulder Resident,125
+148,20,3-4 days,3,Female,35-44,80306,Yes,2 days,$21-$49,0,$1 - $20,0,$1 - $20,$100-$199,NA,$50-$99,$100-$199,$1 - $20,Three nights,Hotel or motel,500
+173,1-2 times,3-4 days,3,Female,25-34,80303,NA,0,$21-$49,0,$21-$49,$21-$49,0,"$5,000.00",NA,$20-$49,$20-$49,$20-$49,Live in Boulder,"Friends, family or no expense",280
+85,3-4 times,1-2 days,2,Female,18-24,80303,No,I live here,$1 - $20,$500-$999,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$200-$499,$500-$999,0,$50-$99,Local,Hotel or motel,280
+159,20,3-4 days,4,Female,55-64,93111,Yes,Didn't extend stay,$21-$49,0,0,$21-$49,0,0,0,$100-$199,$200-$499,$200-$499,Day trip,NA,240
+180,3-4 times,3-4 days,4,Female,25-34,80306,Yes,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$21-$49,$50-$99,0,$21-$49,$1 - $20,0,"$1,000-$1,999",0,NA,NA,Live in Boulder,Boulder Resident,N/A
+276,20,1-2 days,6,Male,55-64,80305,Yes,2 days,"$1,000.00",NA,$50-$99,0,"$1,000-$1,499",$500-$999,$100-$199,$20-$49,$50-$99,NA,Day trip,NA,500
+229,3-4 times,3-4 days,4,Female,55-64,80306,Yes,0,$50-$99,$200-$499,$21-$49,$1 - $20,$21-$49,0,0,$50-$99,NA,$500-$999,I live here,Hotel or motel,240
+61,20,0,2,Female,75-84,80309,No,Live in area,$1 - $20,0,0,0,$21-$49,$100-$199,NA,$20-$49,NA,$20-$49,Local,Hotel or motel,NA
+104,20,3-4 days,3,Female,45-54,80303,Yes,0,$100-$199,0,$50-$99,$1 - $20,$1 - $20,$50-$99,$1 - $20,$200-$499,$200-$499,$1 - $20,Local,NA,N/A
+41,5-6 times,1-2 days,2,Female,45-54,96161,No,A few hours,0,0,0,0,0,$1 - $20,"$2,000-$4,999",$20-$49,$100-$199,$200-$499,I live here,Hotel or motel,240
+231,3-4 times,3-4 days,3,Female,65-74,80304,NA,0,$50-$99,$100-$199,$1 - $20,NA,$50-$99,$50-$99,$50-$99,$1 - $20,$50-$99,$20-$49,I live here,Boulder Resident,NA
+125,20,7-8 days,3,Female,35-44,80309,No,NA,$200-$499,0,$21-$49,$21-$49,0,$200-$499,$20-$49,NA,$500-$999,$50-$99,One night,"Friends, family or no expense",NA
+250,20,0,3,Female,55-64,92463,No,0,$1 - $20,$50-$99,$500-$999,NA,NA,"$5,000.00",$200-$499,$100-$199,$50-$99,NA,NA,"Friends, family or no expense",3
+272,20,1-2 days,4,Female,65-74,80305,Yes,1 day,$200-$499,$21-$49,$1 - $20,$50-$99,$100-$199,$50-$99,$50-$99,$50-$99,$20-$49,$50-$99,Live in Boulder,Boulder Resident,125
+81,1-2 times,3-4 days,10,Female,35-44,80304,Yes,A few hours,$1 - $20,$1 - $20,$1 - $20,$100-$199,$21-$49,$200-$499,$50-$99,$500-$999,$200-$499,$50-$99,NA,Home,125
+126,20,7-8 days,3,Female,35-44,80309,No,0,$200-$499,0,$21-$49,$21-$49,0,$500-$999,0,0,$1 - $20,0,Two nights,Boulder Resident,125
+273,20,3-4 days,6,Male,25-34,80305,Yes,0,"$1,000.00",0,$100-$199,$21-$49,$50-$99,$500-$999,$100-$199,$20-$49,$50-$99,$50-$99,Resident,Boulder Resident,240
+108,20,1-2 days,2,Male,45-54,80303,Yes,Home is here,$100-$199,"$2,000-$3,000",$200-$499,$21-$49,NA,$100-$199,0,0,$1 - $20,0,NA,Hotel or motel,280
+32,1-2 times,0,0,Female,65-74,80303,No,1 day,0,0,0,0,0,0,$1 - $20,$50-$99,$20-$49,0,I live here,Home,175
+159,20,3-4 days,4,Female,55-64,93111,Yes,Didn't extend stay,$21-$49,0,0,$21-$49,0,0,0,$100-$199,$200-$499,$200-$499,Day trip,NA,240
+24,1-2 times,0,0,Female,35-44,80303,No,1 day,0,0,0,0,0,0,$50-$99,$100-$199,$20-$49,$20-$49,Local,NA,N/A
+72,20,5-6 days,6,Male,65-74,80304,NA,2 days,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$200-$499,$500-$999,$50-$99,$50-$99,$1 - $20,$20-$49,I live here,Boulder Resident,0
+148,20,3-4 days,3,Female,35-44,80306,Yes,2 days,$21-$49,0,$1 - $20,0,$1 - $20,$100-$199,NA,$50-$99,$100-$199,$1 - $20,Three nights,Hotel or motel,500
+105,20,3-4 days,2,Male,65-74,80309,NA,1 day,$100-$199,"$2,000-$3,000",$50-$99,$1 - $20,$21-$49,"$3,000-$4,000",$20-$49,0,0,$20-$49,Resident,"Friends, family or no expense",200
+170,1-2 times,1-2 days,3,Female,25-34,93111,No,Zero,$21-$49,0,0,$1 - $20,0,0,"$1,000-$1,999",0,$500-$999,NA,Four nights,Hotel or motel,175
+216,20,5-6 days,5,Female,45-54,80303,No,Home is here,$50-$99,$100-$199,$100-$199,$21-$49,0,$500-$999,$100-$199,$500-$999,$50-$99,NA,One night,Home,3
+246,1,12,5,Female,18-24,12345,NA,A few hours,$100-$199,0,$200-$499,0,$21-$49,$500-$999,NA,$500-$999,$100-$199,NA,One night,Hotel or motel,500
+143,12,2,2,Male,55-64,80303,NA,2 days,$21-$49,0,0,$1 - $20,0,"$5,000.00",0,$200-$499,$1 - $20,$500-$999,Day trip,Boulder Resident,175
+107,20,3-4 days,4,Female,55-64,80303,Yes,Live in area,$100-$199,$100-$199,$200-$499,$21-$49,$100-$199,$21-$49,$200-$499,$100-$199,$1 - $20,$1 - $20,Local resident,Home,500
+291,5-6 times,7-8 days,3,Female,45-54,80306,NA,Didn't extend stay,$21-$49,$50-$99,$1 - $20,$1 - $20,$21-$49,$1 - $20,0,NA,$50-$99,$50-$99,Resident,NA,500
+279,1-2 times,1-2 days,4,Female,45-54,93111,No,I live here,NA,$21-$49,$500-$999,$500-$999,$500-$999,$100-$199,NA,$1 - $20,$1 - $20,$20-$49,Four nights,Boulder Resident,125
+239,0,3,5,Female,35-44,93111,No,Home is here,$50-$99,0,$1 - $20,$1 - $20,0,0,$200-$499,0,$100-$199,$1 - $20,Local,Home,3
+290,5-6 times,3-4 days,4,Female,55-64,80306,No,Didn't extend stay,$500-$999,$1 - $20,0,$500-$999,"$1,000-$1,499",$50-$99,$1 - $20,$20-$49,0,$20-$49,Live in Boulder,NA,240
+274,20,3-4 days,6,Female,55-64,80306,No,Home is here,NA,$1 - $20,$1 - $20,$100-$199,"$1,000-$1,499",$100-$199,$100-$199,NA,$200-$499,$1 - $20,One night,NA,0
+32,1-2 times,0,0,Female,65-74,80303,No,1 day,0,0,0,0,0,0,$1 - $20,$50-$99,$20-$49,0,I live here,Home,175
+25,1-2 times,0,0,Female,45-54,80303,Yes,Didn't extend stay,0,0,0,0,0,0,$1 - $20,0,$20-$49,NA,Four nights,NA,125
+167,25,3-4 days,3,Female,65-74,80303,No,Live in area,$21-$49,0,0,0,0,$21-$49,$20-$49,0,0,$50-$99,One night,"Friends, family or no expense",NA
+72,20,5-6 days,6,Male,65-74,80304,NA,2 days,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$200-$499,$500-$999,$50-$99,$50-$99,$1 - $20,$20-$49,I live here,Boulder Resident,0
+264,20,1-2 days,5,Female,35-44,80302,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$21-$49,"$1,000-$1,499",$100-$199,$50-$99,$50-$99,$21-$49,$50-$99,$50-$99,$200-$499,$20-$49,Live in Boulder,Home,200
+206,20,5-6 days,2,Female,Prefer not to say,80309,NA,A few hours,$50-$99,NA,$1 - $20,$1 - $20,"$1,000-$1,499",$21-$49,$20-$49,$1 - $20,$500-$999,$50-$99,Day trip,"Friends, family or no expense",240
+238,5-6 times,7-8 days,4,Male,65-74,80306,No,NA,$50-$99,$50-$99,$50-$99,$50-$99,$50-$99,NA,$200-$499,$50-$99,$50-$99,$500-$999,I live here,Hotel or motel,NA
+133,35,3-4 days,5,Female,35-44,80303,No,NA,$200-$499,"$2,000-$3,000",$50-$99,$1 - $20,$500-$999,$500-$999,$20-$49,0,$1 - $20,$500-$999,Live in Boulder,NA,280
+283,1-2 times,1-2 days,6,Male,35-44,91792,Yes,Zero,$1 - $20,0,"$1,000-$1,499",0,"$1,000-$1,499","$5,000.00",$100-$199,NA,$1 - $20,$200-$499,Two nights,Home,175
+278,35,3-4 days,4,Female,85,80305,Yes,NA,$1 - $20,0,NA,$500-$999,$200-$499,"$5,000.00",$200-$499,$100-$199,$100-$199,$20-$49,Day trip,"Friends, family or no expense",240
+173,1-2 times,3-4 days,3,Female,25-34,80303,NA,0,$21-$49,0,$21-$49,$21-$49,0,"$5,000.00",NA,$20-$49,$20-$49,$20-$49,Live in Boulder,"Friends, family or no expense",280
+187,5-6 times,1-2 days,2,Female,55-64,80309,NA,-,$21-$49,0,0,0,0,0,"$1,000-$1,999",NA,$200-$499,$500-$999,One night,NA,NA
+282,1-2 times,1-2 days,3,Female,55-64,80302,Yes,NA,"$1,000.00",$500-$999,"$1,000-$1,499",$50-$99,$21-$49,0,$1 - $20,0,0,0,Two nights,Hotel or motel,175
+166,20,1-2 days,2,Female,55-64,80306,NA,Didn't extend stay,$21-$49,$100-$199,$100-$199,$100-$199,$500-$999,$200-$499,0,$1 - $20,$200-$499,$500-$999,Local,Home,175
+258,20,1-2 days,1,Female,55-64,93440,No,Didn't extend stay,NA,0,NA,$500-$999,$100-$199,$21-$49,$50-$99,$50-$99,$50-$99,$50-$99,Day trip,Hotel or motel,125
+149,20,1-2 days,2,Female,35-44,80303,Yes,NA,$21-$49,0,$21-$49,0,0,0,$1 - $20,$1 - $20,NA,$1 - $20,I live here,Boulder Resident,500
+84,3-4 times,1-2 days,2,Female,18-24,80306,Yes,Live in area,$1 - $20,0,0,$1 - $20,0,0,$100-$199,$50-$99,NA,$500-$999,Resident,Boulder Resident,200
+57,20,0,0,Male,25-34,80306,NA,Home is here,$1 - $20,0,0,0,0,0,$20-$49,$1 - $20,$20-$49,NA,Local resident,Home,NA
+225,3-4 times,1-2 days,4,Male,25-34,80303,NA,I live here,$50-$99,0,0,0,0,$1 - $20,"$1,000-$1,999",$200-$499,0,$50-$99,Four nights,Boulder Resident,280
+175,1-2 times,7-8 days,3,Male,35-44,93437,NA,0,$21-$49,0,$50-$99,$21-$49,0,0,0,$1 - $20,$500-$999,NA,NA,"Friends, family or no expense",500
+63,20,3-4 days,2,Female,55-64,80306,NA,-,$1 - $20,0,$1 - $20,0,0,0,$1 - $20,$1 - $20,NA,0,Local,Home,175
+292,5-6 times,0,1,Prefer not to say,18-24,91335,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$1 - $20,$50-$99,$100-$199,"$2,000-$3,000",$500-$999,NA,$100-$199,$100-$199,$20-$49,0,Two nights,Boulder Resident,280
+227,3-4 times,1-2 days,4,Male,25-34,80303,NA,Home is here,$50-$99,$50-$99,0,$1 - $20,0,$200-$499,$100-$199,$1 - $20,$100-$199,$50-$99,Day trip,Boulder Resident,125
+285,3-4 times,1-2 days,3,Female,85,80309,No,1 day,$500-$999,$21-$49,0,$50-$99,"$1,000-$1,499",$500-$999,$20-$49,$500-$999,$1 - $20,0,I live here,Hotel or motel,125
+262,20,5-6 days,5,Male,35-44,80305,NA,I live here,$200-$499,$50-$99,NA,"$2,000-$3,000",0,$1 - $20,$50-$99,$50-$99,$50-$99,$20-$49,I live here,Home,N/A
+285,3-4 times,1-2 days,3,Female,85,80309,No,1 day,$500-$999,$21-$49,0,$50-$99,"$1,000-$1,499",$500-$999,$20-$49,$500-$999,$1 - $20,0,I live here,Hotel or motel,125
+159,20,3-4 days,4,Female,55-64,93111,Yes,Didn't extend stay,$21-$49,0,0,$21-$49,0,0,0,$100-$199,$200-$499,$200-$499,Day trip,NA,240
+262,20,5-6 days,5,Male,35-44,80305,NA,I live here,$200-$499,$50-$99,NA,"$2,000-$3,000",0,$1 - $20,$50-$99,$50-$99,$50-$99,$20-$49,I live here,Home,N/A
+272,20,1-2 days,4,Female,65-74,80305,Yes,1 day,$200-$499,$21-$49,$1 - $20,$50-$99,$100-$199,$50-$99,$50-$99,$50-$99,$20-$49,$50-$99,Live in Boulder,Boulder Resident,125
+219,20,1-2 days,6,Female,45-54,80306,Yes,A few hours,$50-$99,$100-$199,$200-$499,$21-$49,$500-$999,0,$20-$49,$50-$99,$200-$499,$200-$499,Four nights,Home,NA
+257,20,3-4 days,5,Female,18-24,93013,No,0,$200-$499,$200-$499,$200-$499,$100-$199,$100-$199,"$5,000.00",$20-$49,$200-$499,$100-$199,$50-$99,Day trip,Boulder Resident,125
+219,20,1-2 days,6,Female,45-54,80306,Yes,A few hours,$50-$99,$100-$199,$200-$499,$21-$49,$500-$999,0,$20-$49,$50-$99,$200-$499,$200-$499,Four nights,Home,NA
+182,3-4 times,1-2 days,4,Female,45-54,80304,No,A few hours,$21-$49,$50-$99,"$1,000.00",$50-$99,$1 - $20,"$5,000.00",$200-$499,$50-$99,$50-$99,$500-$999,Multiple day trips,Boulder Resident,0
+58,20,1-2 days,1,Male,45-54,80309,No,2 days,$1 - $20,0,0,0,0,0,"$1,000-$1,999",$1 - $20,$200-$499,$200-$499,Four nights,Home,200
+172,1-2 times,1-2 days,3,Female,25-34,80309,NA,A few hours,$21-$49,0,0,$1 - $20,0,0,"$2,000-$4,999",0,0,NA,Local resident,Home,240
+24,1-2 times,0,0,Female,35-44,80303,No,1 day,0,0,0,0,0,0,$50-$99,$100-$199,$20-$49,$20-$49,Local,NA,N/A
+248,1,3-4 days,4,Female,35-44,93611,NA,A few hours,$1 - $20,$21-$49,$100-$199,$1 - $20,NA,$21-$49,"$1,000-$1,999",0,$50-$99,$200-$499,Three nights,Hotel or motel,500
+284,3-4 times,1-2 days,4,Female,25-34,80305,NA,Live in area,"$1,000.00",$500-$999,$21-$49,$100-$199,$100-$199,NA,$20-$49,$1 - $20,0,0,Two nights,"Friends, family or no expense",240
+261,20,0,0,Male,35-44,80305,No,Home is here,$200-$499,"$1,000-$1,499",NA,"$2,000-$3,000","$1,000-$1,499","$5,000.00",0,0,0,$20-$49,I live here,"Friends, family or no expense",500
+93,5-6 times,1-2 days,4,Female,25-34,80306,NA,Zero,$1 - $20,0,0,0,0,0,$100-$199,$200-$499,$500-$999,$200-$499,NA,Hotel or motel,NA
+47,5-6 times,0,4,Female,45-54,80309,No,Live in area,0,0,0,0,0,0,$1 - $20,$1 - $20,NA,$200-$499,NA,NA,3
+293,29,0,2,Male,55-64,80303,Yes,Home is here,0,$500-$999,$500-$999,$50-$99,$500-$999,$500-$999,"$1,000-$1,999",$50-$99,$200-$499,$200-$499,Resident,Home,NA
+111,25,7-8 days,5,Female,35-44,93013,Yes,2 days,$100-$199,0,$50-$99,$50-$99,$50-$99,0,"$1,000-$1,999",$50-$99,$500-$999,0,One night,"Friends, family or no expense",125
+229,3-4 times,3-4 days,4,Female,55-64,80306,Yes,0,$50-$99,$200-$499,$21-$49,$1 - $20,$21-$49,0,0,$50-$99,NA,$500-$999,I live here,Hotel or motel,240
+198,1,1-2 days,4,Male,35-44,93454,NA,2 days,$50-$99,0,$21-$49,$21-$49,0,0,$1 - $20,0,$100-$199,$200-$499,Live in Boulder,NA,240
+71,20,3-4 days,3,Female,55-64,80304,No,Didn't extend stay,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$100-$199,$100-$199,$1 - $20,$50-$99,$500-$999,Four nights,"Friends, family or no expense",175
+167,25,3-4 days,3,Female,65-74,80303,No,Live in area,$21-$49,0,0,0,0,$21-$49,$20-$49,0,0,$50-$99,One night,"Friends, family or no expense",NA
+111,25,7-8 days,5,Female,35-44,93013,Yes,2 days,$100-$199,0,$50-$99,$50-$99,$50-$99,0,"$1,000-$1,999",$50-$99,$500-$999,0,One night,"Friends, family or no expense",125
+173,1-2 times,3-4 days,3,Female,25-34,80303,NA,0,$21-$49,0,$21-$49,$21-$49,0,"$5,000.00",NA,$20-$49,$20-$49,$20-$49,Live in Boulder,"Friends, family or no expense",280
+188,5-6 times,1-2 days,3,Female,35-44,80309,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$21-$49,0,0,$1 - $20,0,0,$1 - $20,$100-$199,$200-$499,$20-$49,Day trip,"Friends, family or no expense",N/A
+121,20,7-8 days,6,Female,55-64,80305,No,I live here,$200-$499,$200-$499,$200-$499,$200-$499,$500-$999,$200-$499,0,$1 - $20,$20-$49,0,I live here,Home,N/A
+115,3-4 times,1-2 days,3,Female,25-34,80303,Yes,2 days,$100-$199,0,0,$1 - $20,0,0,$100-$199,$500-$999,$200-$499,$200-$499,Four nights,"Friends, family or no expense",0
+280,1-2 times,0,4,Female,55-64,91335,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",NA,0,$100-$199,$100-$199,$21-$49,"$5,000.00",$50-$99,$1 - $20,$1 - $20,$50-$99,Day trip,"Friends, family or no expense",280
+139,1,1-2 days,1,Female,25-34,80306,No,2 days,$21-$49,0,0,$1 - $20,0,0,$50-$99,$20-$49,$20-$49,$500-$999,Three nights,Boulder Resident,280
+223,1-2 times,1-2 days,5,Female,65-74,93113,No,A few hours,$50-$99,0,$1 - $20,0,0,$21-$49,"$2,000-$4,999",$200-$499,0,$1 - $20,Local,Hotel or motel,200
+239,0,3,5,Female,35-44,93111,No,Home is here,$50-$99,0,$1 - $20,$1 - $20,0,0,$200-$499,0,$100-$199,$1 - $20,Local,Home,3
+109,20,5-6 days,8,Female,35-44,80306,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$100-$199,0,$50-$99,$21-$49,0,NA,NA,0,$50-$99,$200-$499,Day trip,Hotel or motel,0
+39,3-4 times,1-2 days,2,Female,75-84,80306,Yes,1 day,0,0,0,0,0,0,0,$50-$99,$20-$49,$200-$499,NA,Home,280
+162,20,3-4 days,9,Male,35-44,80305,No,NA,$21-$49,$21-$49,$21-$49,$21-$49,$21-$49,$21-$49,$200-$499,0,$1 - $20,$500-$999,Local,Home,0
+292,5-6 times,0,1,Prefer not to say,18-24,91335,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$1 - $20,$50-$99,$100-$199,"$2,000-$3,000",$500-$999,NA,$100-$199,$100-$199,$20-$49,0,Two nights,Boulder Resident,280
+17,20,0,0,Female,65-74,80309,No,NA,0,0,0,0,0,0,$200-$499,$200-$499,$500-$999,0,Resident,Hotel or motel,175
+35,1-2 times,0,0,Female,Prefer not to say,80304,Yes,Didn't extend stay,0,0,0,0,0,0,$100-$199,0,$200-$499,$1 - $20,Three nights,"Friends, family or no expense",NA
+293,29,0,2,Male,55-64,80303,Yes,Home is here,0,$500-$999,$500-$999,$50-$99,$500-$999,$500-$999,"$1,000-$1,999",$50-$99,$200-$499,$200-$499,Resident,Home,NA
+233,5-6 times,7-8 days,5,Female,35-44,80303,NA,NA,$50-$99,$1 - $20,$500-$999,$21-$49,$1 - $20,$1 - $20,"$2,000-$4,999",$500-$999,$500-$999,$500-$999,Resident,"Friends, family or no expense",0
+134,1-2 times,3-4 days,2,Male,45-54,89135,No,NA,$200-$499,$200-$499,$100-$199,$100-$199,NA,"$5,000.00",0,$500-$999,NA,$20-$49,Day trip,Home,N/A
+243,3-4 times,3-4 days,10,Male,55-64,80303,NA,-,$500-$999,0,0,$1 - $20,$100-$199,$21-$49,$20-$49,$20-$49,$1 - $20,$50-$99,Four nights,Boulder Resident,500
+60,20,1-2 days,2,Male,55-64,80309,No,Zero,$1 - $20,0,0,0,0,$50-$99,$1 - $20,$20-$49,$200-$499,$500-$999,One night,Home,0
+235,5-6 times,1-2 days,8,Male,35-44,80309,Yes,Didn't extend stay,$50-$99,0,$50-$99,$1 - $20,$21-$49,0,"$1,000-$1,999",$50-$99,$50-$99,$1 - $20,Live in Boulder,Home,0
+11,20,0,0,Female,45-54,80309,NA,Home is here,0,0,0,0,0,0,0,$500-$999,NA,$1 - $20,Multiple day trips,NA,280
+126,20,7-8 days,3,Female,35-44,80309,No,0,$200-$499,0,$21-$49,$21-$49,0,$500-$999,0,0,$1 - $20,0,Two nights,Boulder Resident,125
+106,20,1-2 days,6,Female,55-64,80304,No,Zero,$100-$199,0,0,$21-$49,$1 - $20,NA,"$1,000-$1,999",$20-$49,0,$200-$499,Multiple day trips,NA,200
+210,20,3-4 days,3,Female,25-34,80306,NA,Zero,$50-$99,$1 - $20,0,$21-$49,$1 - $20,0,0,NA,NA,0,Four nights,Hotel or motel,240
+142,10,3-4 days,20,Female,45-54,80305,Yes,0,$21-$49,0,$21-$49,$1 - $20,0,0,$200-$499,$200-$499,$100-$199,$20-$49,Local,NA,175
+265,20,3-4 days,2,Female,55-64,80305,No,Live in area,$50-$99,$21-$49,$200-$499,$200-$499,0,$100-$199,$1 - $20,$20-$49,$20-$49,$20-$49,Local resident,Home,N/A
+144,20,1-2 days,6,Female,55-64,80305,No,0,$21-$49,0,0,$1 - $20,0,0,"$1,000-$1,999",$20-$49,0,$500-$999,Local resident,NA,NA
+155,20,3-4 days,2,Female,55-64,80306,No,1 day,$21-$49,0,$50-$99,$1 - $20,0,0,$100-$199,$100-$199,$50-$99,$50-$99,Two nights,Home,200
+117,3-4 times,3-4 days,4,Female,65-74,80309,Yes,NA,$100-$199,0,0,$21-$49,0,$1 - $20,"$2,000-$4,999",$1 - $20,$200-$499,NA,Two nights,"Friends, family or no expense",500
+221,29,3-4 days,4,Female,45-54,93013,Yes,-,$50-$99,$100-$199,$21-$49,$100-$199,0,$50-$99,0,NA,0,NA,Day trip,Home,280
+244,5-6 times,3-4 days,8,Male,45-54,80302,NA,I live here,$500-$999,0,$200-$499,"$2,000-$3,000",$500-$999,0,$1 - $20,$20-$49,$200-$499,NA,Day trip,"Friends, family or no expense",500
+277,20,0,0,Female,55-64,80303,No,Home is here,0,$200-$499,"$1,000-$1,499","$2,000-$3,000",NA,0,$200-$499,$200-$499,$100-$199,$1 - $20,Day trip,NA,500
+261,20,0,0,Male,35-44,80305,No,Home is here,$200-$499,"$1,000-$1,499",NA,"$2,000-$3,000","$1,000-$1,499","$5,000.00",0,0,0,$20-$49,I live here,"Friends, family or no expense",500
+33,1-2 times,0,3,Female,65-74,80309,Yes,-,0,0,0,0,0,"$3,000-$4,000",$100-$199,$200-$499,NA,$1 - $20,Multiple day trips,"Friends, family or no expense",NA
+6,20,1-2 days,1,Male,45-54,80305,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",0,0,0,0,0,0,$200-$499,$100-$199,$100-$199,$50-$99,Four nights,Boulder Resident,125
+292,5-6 times,0,1,Prefer not to say,18-24,91335,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$1 - $20,$50-$99,$100-$199,"$2,000-$3,000",$500-$999,NA,$100-$199,$100-$199,$20-$49,0,Two nights,Boulder Resident,280
+162,20,3-4 days,9,Male,35-44,80305,No,NA,$21-$49,$21-$49,$21-$49,$21-$49,$21-$49,$21-$49,$200-$499,0,$1 - $20,$500-$999,Local,Home,0
+54,4,10,5,Female,45-54,80309,Yes,I live here,"$1,000.00",$100-$199,$500-$999,$50-$99,"$1,000-$1,499","$5,000.00",$1 - $20,$20-$49,$1 - $20,$50-$99,I live here,Hotel or motel,500
+260,20,3-4 days,20,Male,35-44,93111,No,1 day,$200-$499,NA,NA,0,$200-$499,$21-$49,$200-$499,$100-$199,$50-$99,$50-$99,Four nights,"Friends, family or no expense",NA
+46,5-6 times,0,3,Female,45-54,80309,NA,0,0,0,0,0,0,0,$1 - $20,$1 - $20,$20-$49,$50-$99,Day trip,NA,3
+180,3-4 times,3-4 days,4,Female,25-34,80306,Yes,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$21-$49,$50-$99,0,$21-$49,$1 - $20,0,"$1,000-$1,999",0,NA,NA,Live in Boulder,Boulder Resident,N/A
+214,20,3-4 days,6,Female,25-34,80306,Yes,I live here,$50-$99,$100-$199,$1 - $20,$21-$49,NA,"$3,000-$4,000",$20-$49,$50-$99,NA,$50-$99,NA,Home,N/A
+35,1-2 times,0,0,Female,Prefer not to say,80304,Yes,Didn't extend stay,0,0,0,0,0,0,$100-$199,0,$200-$499,$1 - $20,Three nights,"Friends, family or no expense",NA
+234,5-6 times,1-2 days,2,Female,45-54,80303,Yes,I live here,$50-$99,0,0,0,0,0,$1 - $20,$200-$499,$200-$499,$500-$999,Local,Boulder Resident,N/A
+171,1-2 times,1-2 days,4,Male,18-24,80304,No,Zero,$21-$49,0,0,$1 - $20,$100-$199,$21-$49,"$2,000-$4,999",$500-$999,$500-$999,$500-$999,Live in Boulder,NA,500
+125,20,7-8 days,3,Female,35-44,80309,No,NA,$200-$499,0,$21-$49,$21-$49,0,$200-$499,$20-$49,NA,$500-$999,$50-$99,One night,"Friends, family or no expense",NA
+50,5-6 times,3-4 days,4,Female,55-64,93108,Yes,0,0,$200-$499,0,0,$200-$499,$200-$499,"$2,000-$4,999",$1 - $20,$20-$49,$500-$999,Resident,NA,N/A
+135,1-2 times,1-2 days,4,Male,18-24,80306,Yes,0,$200-$499,0,$200-$499,$21-$49,0,0,0,$50-$99,$100-$199,$200-$499,Resident,Boulder Resident,240
+137,NA,4,8,Female,55-64,80305,No,Didn't extend stay,$200-$499,$200-$499,$100-$199,$100-$199,$200-$499,0,0,$500-$999,$50-$99,0,I live here,Home,0
+14,20,0,8,Male,55-64,80309,Yes,A few hours,0,0,0,0,0,0,$50-$99,$500-$999,$20-$49,0,Resident,NA,0
+179,3-4 times,3-4 days,4,Female,65-74,80309,NA,1 day,$21-$49,0,0,$21-$49,$200-$499,$21-$49,$50-$99,$500-$999,$20-$49,$20-$49,One night,Hotel or motel,240
+176,1-2 times,1-2 days,2,Male,35-44,80304,No,I live here,$21-$49,$21-$49,$21-$49,"$2,000-$3,000",$200-$499,$500-$999,"$1,000-$1,999",$200-$499,$50-$99,$20-$49,Live in Boulder,NA,200
+244,5-6 times,3-4 days,8,Male,45-54,80302,NA,I live here,$500-$999,0,$200-$499,"$2,000-$3,000",$500-$999,0,$1 - $20,$20-$49,$200-$499,NA,Day trip,"Friends, family or no expense",500
+38,3-4 times,0,0,Male,65-74,93108,No,2 days,0,0,0,0,0,0,$1 - $20,$100-$199,NA,$20-$49,Resident,Boulder Resident,3
+36,3-4 times,0,0,Female,45-54,80303,NA,I live here,0,0,0,0,0,0,"$1,000-$1,999",$200-$499,$100-$199,$20-$49,One night,"Friends, family or no expense",240
+2,1,7-8 days,4,Prefer not to say,35-44,80309,NA,-,0,0,0,0,0,0,$100-$199,$100-$199,$1 - $20,$50-$99,Three nights,Home,125
+254,20,1-2 days,11,Female,55-64,93454,Yes,-,$200-$499,$500-$999,$100-$199,$21-$49,$500-$999,$21-$49,$50-$99,0,0,$20-$49,Day trip,"Friends, family or no expense",280
+64,20,1-2 days,5,Female,75-84,80303,No,Live in area,$1 - $20,0,$1 - $20,0,0,0,"$1,000-$1,999",$500-$999,0,$50-$99,Two nights,"Friends, family or no expense",280
+160,20,1-2 days,5,Female,25-34,93113,No,I live here,$21-$49,$1 - $20,$1 - $20,$21-$49,$50-$99,0,"$1,000-$1,999",$50-$99,$200-$499,0,Local resident,Boulder Resident,280
+283,1-2 times,1-2 days,6,Male,35-44,91792,Yes,Zero,$1 - $20,0,"$1,000-$1,499",0,"$1,000-$1,499","$5,000.00",$100-$199,NA,$1 - $20,$200-$499,Two nights,Home,175
+45,5-6 times,1-2 days,1,Female,35-44,80303,NA,0,0,0,0,0,0,0,"$1,000-$1,999",$50-$99,$1 - $20,NA,NA,"Friends, family or no expense",0
+120,7,5-6 days,2,Male,45-54,80304,NA,Didn't extend stay,$100-$199,0,$21-$49,0,$21-$49,0,0,$200-$499,NA,$200-$499,Live in Boulder,Boulder Resident,175
+256,20,3-4 days,3,Female,45-54,80305,NA,Zero,0,0,$500-$999,$100-$199,$21-$49,$100-$199,$50-$99,0,$20-$49,$20-$49,Day trip,Home,200
+74,20,1-2 days,8,Female,35-44,80302,No,Zero,$1 - $20,$500-$999,$21-$49,$1 - $20,$1 - $20,$500-$999,"$2,000-$4,999",0,$500-$999,$200-$499,Two nights,Hotel or motel,240
+81,1-2 times,3-4 days,10,Female,35-44,80304,Yes,A few hours,$1 - $20,$1 - $20,$1 - $20,$100-$199,$21-$49,$200-$499,$50-$99,$500-$999,$200-$499,$50-$99,NA,Home,125
+240,1,12,4,Female,18-24,12345,Yes,-,$500-$999,"$2,000-$3,000",$100-$199,$500-$999,0,$500-$999,$1 - $20,$100-$199,$200-$499,$1 - $20,Day trip,Hotel or motel,3
+167,25,3-4 days,3,Female,65-74,80303,No,Live in area,$21-$49,0,0,0,0,$21-$49,$20-$49,0,0,$50-$99,One night,"Friends, family or no expense",NA
+95,5-6 times,1-2 days,3,Female,55-64,80303,No,2 days,$1 - $20,0,0,0,0,0,$200-$499,0,NA,$50-$99,Live in Boulder,"Friends, family or no expense",NA
+133,35,3-4 days,5,Female,35-44,80303,No,NA,$200-$499,"$2,000-$3,000",$50-$99,$1 - $20,$500-$999,$500-$999,$20-$49,0,$1 - $20,$500-$999,Live in Boulder,NA,280
+249,1,1-2 days,5,Female,25-34,93464,No,Home is here,"$1,000.00","$2,000-$3,000",$500-$999,$1 - $20,$1 - $20,$100-$199,$50-$99,$50-$99,$100-$199,$20-$49,Three nights,Home,3
+209,20,20,4,Female,45-54,80303,Yes,Live in area,$50-$99,$200-$499,$100-$199,$200-$499,0,0,"$1,000-$1,999",$500-$999,NA,$200-$499,Four nights,"Friends, family or no expense",3
+38,3-4 times,0,0,Male,65-74,93108,No,2 days,0,0,0,0,0,0,$1 - $20,$100-$199,NA,$20-$49,Resident,Boulder Resident,3
+37,3-4 times,0,1,Male,45-54,93003,No,A few hours,0,0,0,0,0,0,$20-$49,$50-$99,$500-$999,$20-$49,Two nights,NA,280
+280,1-2 times,0,4,Female,55-64,91335,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",NA,0,$100-$199,$100-$199,$21-$49,"$5,000.00",$50-$99,$1 - $20,$1 - $20,$50-$99,Day trip,"Friends, family or no expense",280
+287,5-6 times,1-2 days,4,Female,45-54,91320,NA,Home is here,0,$200-$499,$100-$199,$500-$999,$21-$49,"$5,000.00",$20-$49,$50-$99,$200-$499,$200-$499,Day trip,Hotel or motel,240
+217,20,3-4 days,2,Female,45-54,93111,No,A few hours,$50-$99,0,$21-$49,$21-$49,$1 - $20,0,$20-$49,$500-$999,NA,0,Resident,NA,125
+239,0,3,5,Female,35-44,93111,No,Home is here,$50-$99,0,$1 - $20,$1 - $20,0,0,$200-$499,0,$100-$199,$1 - $20,Local,Home,3
+24,1-2 times,0,0,Female,35-44,80303,No,1 day,0,0,0,0,0,0,$50-$99,$100-$199,$20-$49,$20-$49,Local,NA,N/A
+111,25,7-8 days,5,Female,35-44,93013,Yes,2 days,$100-$199,0,$50-$99,$50-$99,$50-$99,0,"$1,000-$1,999",$50-$99,$500-$999,0,One night,"Friends, family or no expense",125
+284,3-4 times,1-2 days,4,Female,25-34,80305,NA,Live in area,"$1,000.00",$500-$999,$21-$49,$100-$199,$100-$199,NA,$20-$49,$1 - $20,0,0,Two nights,"Friends, family or no expense",240
+192,5-6 times,3-4 days,3,Male,45-54,80306,Yes,Live in area,$21-$49,"$1,000-$1,499",$21-$49,$1 - $20,"$1,000-$1,499",$21-$49,NA,$200-$499,$500-$999,$20-$49,Local,Boulder Resident,175
+167,25,3-4 days,3,Female,65-74,80303,No,Live in area,$21-$49,0,0,0,0,$21-$49,$20-$49,0,0,$50-$99,One night,"Friends, family or no expense",NA
+262,20,5-6 days,5,Male,35-44,80305,NA,I live here,$200-$499,$50-$99,NA,"$2,000-$3,000",0,$1 - $20,$50-$99,$50-$99,$50-$99,$20-$49,I live here,Home,N/A
+188,5-6 times,1-2 days,3,Female,35-44,80309,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$21-$49,0,0,$1 - $20,0,0,$1 - $20,$100-$199,$200-$499,$20-$49,Day trip,"Friends, family or no expense",N/A
+18,20,1-2 days,2,Female,35-44,80303,NA,Live in area,0,0,$1 - $20,0,0,0,$1 - $20,$200-$499,NA,$20-$49,Multiple day trips,Home,500
+277,20,0,0,Female,55-64,80303,No,Home is here,0,$200-$499,"$1,000-$1,499","$2,000-$3,000",NA,0,$200-$499,$200-$499,$100-$199,$1 - $20,Day trip,NA,500
+192,5-6 times,3-4 days,3,Male,45-54,80306,Yes,Live in area,$21-$49,"$1,000-$1,499",$21-$49,$1 - $20,"$1,000-$1,499",$21-$49,NA,$200-$499,$500-$999,$20-$49,Local,Boulder Resident,175
+145,20,1-2 days,5,Female,35-44,80309,NA,2 days,$21-$49,0,0,0,0,$100-$199,$20-$49,$100-$199,$500-$999,$200-$499,Local resident,Boulder Resident,280
+40,40,0,0,Male,45-54,80306,No,2 days,0,0,0,0,0,0,"$1,000-$1,999",NA,$100-$199,$1 - $20,Live in Boulder,Home,280
+129,20,7-8 days,3,Female,35-44,80309,Yes,I live here,$200-$499,0,$21-$49,$21-$49,0,$100-$199,NA,$500-$999,$500-$999,$1 - $20,Three nights,Home,240
+244,5-6 times,3-4 days,8,Male,45-54,80302,NA,I live here,$500-$999,0,$200-$499,"$2,000-$3,000",$500-$999,0,$1 - $20,$20-$49,$200-$499,NA,Day trip,"Friends, family or no expense",500
+38,3-4 times,0,0,Male,65-74,93108,No,2 days,0,0,0,0,0,0,$1 - $20,$100-$199,NA,$20-$49,Resident,Boulder Resident,3
+51,5-6 times,0,2.5,Female,55-64,80303,Yes,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",0,$21-$49,$200-$499,$21-$49,"$1,000-$1,499","$3,000-$4,000",$50-$99,$100-$199,$500-$999,$200-$499,I live here,Boulder Resident,0
+143,12,2,2,Male,55-64,80303,NA,2 days,$21-$49,0,0,$1 - $20,0,"$5,000.00",0,$200-$499,$1 - $20,$500-$999,Day trip,Boulder Resident,175
+141,10,3-4 days,3,Female,35-44,80305,NA,2 days,$21-$49,0,$1 - $20,$1 - $20,$1 - $20,0,$20-$49,$200-$499,$50-$99,$200-$499,I live here,Hotel or motel,240
+137,NA,4,8,Female,55-64,80305,No,Didn't extend stay,$200-$499,$200-$499,$100-$199,$100-$199,$200-$499,0,0,$500-$999,$50-$99,0,I live here,Home,0
+287,5-6 times,1-2 days,4,Female,45-54,91320,NA,Home is here,0,$200-$499,$100-$199,$500-$999,$21-$49,"$5,000.00",$20-$49,$50-$99,$200-$499,$200-$499,Day trip,Hotel or motel,240
+44,5-6 times,0,0,Male,35-44,80303,No,1 day,0,0,0,0,0,0,$100-$199,$50-$99,$50-$99,$50-$99,Day trip,Home,240
+245,1,1-2 days,2,Male,45-54,91320,Yes,A few hours,$200-$499,$1 - $20,$1 - $20,0,$1 - $20,$500-$999,$50-$99,$50-$99,$50-$99,$50-$99,One night,Hotel or motel,125
+293,29,0,2,Male,55-64,80303,Yes,Home is here,0,$500-$999,$500-$999,$50-$99,$500-$999,$500-$999,"$1,000-$1,999",$50-$99,$200-$499,$200-$499,Resident,Home,NA
+202,20,3-4 days,9,Male,35-44,80303,NA,2 days,$50-$99,0,0,0,0,0,"$1,000-$1,999",NA,$500-$999,$1 - $20,Two nights,"Friends, family or no expense",3
+193,5-6 times,5-6 days,1,Male,55-64,80306,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$21-$49,$1 - $20,$1 - $20,$21-$49,$1 - $20,$50-$99,$50-$99,0,$1 - $20,$500-$999,Resident,NA,280
+264,20,1-2 days,5,Female,35-44,80302,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$21-$49,"$1,000-$1,499",$100-$199,$50-$99,$50-$99,$21-$49,$50-$99,$50-$99,$200-$499,$20-$49,Live in Boulder,Home,200
+31,1-2 times,0,0,Female,65-74,80309,NA,0,0,0,0,0,0,0,$100-$199,$20-$49,$20-$49,$1 - $20,Multiple day trips,Home,200
+101,20,1-2 days,1,Female,45-54,80304,No,Didn't extend stay,$100-$199,$21-$49,0,$1 - $20,0,$1 - $20,$20-$49,0,$200-$499,$500-$999,Live in Boulder,NA,175
+111,25,7-8 days,5,Female,35-44,93013,Yes,2 days,$100-$199,0,$50-$99,$50-$99,$50-$99,0,"$1,000-$1,999",$50-$99,$500-$999,0,One night,"Friends, family or no expense",125
+192,5-6 times,3-4 days,3,Male,45-54,80306,Yes,Live in area,$21-$49,"$1,000-$1,499",$21-$49,$1 - $20,"$1,000-$1,499",$21-$49,NA,$200-$499,$500-$999,$20-$49,Local,Boulder Resident,175
+45,5-6 times,1-2 days,1,Female,35-44,80303,NA,0,0,0,0,0,0,0,"$1,000-$1,999",$50-$99,$1 - $20,NA,NA,"Friends, family or no expense",0
+264,20,1-2 days,5,Female,35-44,80302,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$21-$49,"$1,000-$1,499",$100-$199,$50-$99,$50-$99,$21-$49,$50-$99,$50-$99,$200-$499,$20-$49,Live in Boulder,Home,200
+109,20,5-6 days,8,Female,35-44,80306,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$100-$199,0,$50-$99,$21-$49,0,NA,NA,0,$50-$99,$200-$499,Day trip,Hotel or motel,0
+138,1,3-4 days,4,Female,45-54,80303,No,NA,$21-$49,$1 - $20,0,0,0,$1 - $20,"$2,000-$4,999",0,$100-$199,$500-$999,Multiple day trips,"Friends, family or no expense",240
+257,20,3-4 days,5,Female,18-24,93013,No,0,$200-$499,$200-$499,$200-$499,$100-$199,$100-$199,"$5,000.00",$20-$49,$200-$499,$100-$199,$50-$99,Day trip,Boulder Resident,125
+188,5-6 times,1-2 days,3,Female,35-44,80309,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$21-$49,0,0,$1 - $20,0,0,$1 - $20,$100-$199,$200-$499,$20-$49,Day trip,"Friends, family or no expense",N/A
+4,1,1-2 days,3,Female,35-44,80306,NA,Live in area,0,$500-$999,0,0,NA,$100-$199,"$2,000-$4,999",NA,$200-$499,$50-$99,Three nights,Boulder Resident,240
+12,20,0,0,Female,55-64,80309,Yes,2 days,0,0,0,0,0,0,NA,0,$1 - $20,$200-$499,Live in Boulder,NA,175
+122,20,5-6 days,3,Male,65-74,80309,Yes,A few hours,$200-$499,$21-$49,$1 - $20,0,$50-$99,$21-$49,"$2,000-$4,999",$50-$99,$1 - $20,0,Two nights,"Friends, family or no expense",280
+7,20,0,3,Male,45-54,80302,No,Zero,0,0,0,0,0,0,"$2,000-$4,999",$1 - $20,$100-$199,$20-$49,Three nights,Boulder Resident,NA
+76,1-2 times,1-2 days,1,Female,18-24,91104,Yes,A few hours,$1 - $20,0,0,0,0,0,$200-$499,$20-$49,NA,$20-$49,Day trip,Home,280
+139,1,1-2 days,1,Female,25-34,80306,No,2 days,$21-$49,0,0,$1 - $20,0,0,$50-$99,$20-$49,$20-$49,$500-$999,Three nights,Boulder Resident,280
+119,25,5-6 days,4,Female,45-54,93035,No,NA,$100-$199,0,$100-$199,$50-$99,0,$21-$49,"$1,000-$1,999",$100-$199,$500-$999,$20-$49,One night,"Friends, family or no expense",125
+130,20,7-8 days,3,Female,35-44,80309,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$200-$499,0,$21-$49,$21-$49,0,$1 - $20,NA,0,$100-$199,$50-$99,NA,Boulder Resident,N/A
+114,1-2 times,1-2 days,5,Female,25-34,80304,Yes,0,$100-$199,0,0,$21-$49,0,0,NA,NA,NA,NA,I live here,Home,175
+100,20,3-4 days,2,Female,45-54,80306,NA,0,$100-$199,0,0,$1 - $20,0,0,NA,$200-$499,$1 - $20,$200-$499,Day trip,NA,3
+167,25,3-4 days,3,Female,65-74,80303,No,Live in area,$21-$49,0,0,0,0,$21-$49,$20-$49,0,0,$50-$99,One night,"Friends, family or no expense",NA
+33,1-2 times,0,3,Female,65-74,80309,Yes,-,0,0,0,0,0,"$3,000-$4,000",$100-$199,$200-$499,NA,$1 - $20,Multiple day trips,"Friends, family or no expense",NA
+13,20,0,2,Female,55-64,80303,NA,1 day,0,0,0,0,0,0,"$1,000-$1,999",$200-$499,$100-$199,$20-$49,Day trip,"Friends, family or no expense",125
+40,40,0,0,Male,45-54,80306,No,2 days,0,0,0,0,0,0,"$1,000-$1,999",NA,$100-$199,$1 - $20,Live in Boulder,Home,280
+243,3-4 times,3-4 days,10,Male,55-64,80303,NA,-,$500-$999,0,0,$1 - $20,$100-$199,$21-$49,$20-$49,$20-$49,$1 - $20,$50-$99,Four nights,Boulder Resident,500
+263,20,1-2 days,2,Female,35-44,80305,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$100-$199,$1 - $20,$200-$499,"$2,000-$3,000","$1,000-$1,499",0,$20-$49,0,$50-$99,0,Live in Boulder,Home,0
+203,20,1-2 days,1,Female,55-64,80303,Yes,Home is here,$50-$99,0,0,0,0,0,$100-$199,NA,$1 - $20,$200-$499,Day trip,NA,NA
+164,20,1-2 days,3,Female,55-64,80306,NA,I live here,$21-$49,"$2,000-$3,000",$21-$49,"$2,000-$3,000",$1 - $20,"$5,000.00",$1 - $20,$1 - $20,$20-$49,$200-$499,NA,Home,240
+54,4,10,5,Female,45-54,80309,Yes,I live here,"$1,000.00",$100-$199,$500-$999,$50-$99,"$1,000-$1,499","$5,000.00",$1 - $20,$20-$49,$1 - $20,$50-$99,I live here,Hotel or motel,500
+283,1-2 times,1-2 days,6,Male,35-44,91792,Yes,Zero,$1 - $20,0,"$1,000-$1,499",0,"$1,000-$1,499","$5,000.00",$100-$199,NA,$1 - $20,$200-$499,Two nights,Home,175
+99,12,1-2 days,3,Female,55-64,80305,No,2 days,$1 - $20,$1 - $20,$1 - $20,$1 - $20,0,0,0,$100-$199,$1 - $20,$500-$999,Live in Boulder,"Friends, family or no expense",240
+99,12,1-2 days,3,Female,55-64,80305,No,2 days,$1 - $20,$1 - $20,$1 - $20,$1 - $20,0,0,0,$100-$199,$1 - $20,$500-$999,Live in Boulder,"Friends, family or no expense",240
+140,1,3-4 days,4,Female,55-64,93460,Yes,NA,$21-$49,$1 - $20,$21-$49,$50-$99,0,$21-$49,"$1,000-$1,999",$1 - $20,$200-$499,$1 - $20,Four nights,NA,280
+280,1-2 times,0,4,Female,55-64,91335,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",NA,0,$100-$199,$100-$199,$21-$49,"$5,000.00",$50-$99,$1 - $20,$1 - $20,$50-$99,Day trip,"Friends, family or no expense",280
+142,10,3-4 days,20,Female,45-54,80305,Yes,0,$21-$49,0,$21-$49,$1 - $20,0,0,$200-$499,$200-$499,$100-$199,$20-$49,Local,NA,175
+109,20,5-6 days,8,Female,35-44,80306,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$100-$199,0,$50-$99,$21-$49,0,NA,NA,0,$50-$99,$200-$499,Day trip,Hotel or motel,0
+38,3-4 times,0,0,Male,65-74,93108,No,2 days,0,0,0,0,0,0,$1 - $20,$100-$199,NA,$20-$49,Resident,Boulder Resident,3
+272,20,1-2 days,4,Female,65-74,80305,Yes,1 day,$200-$499,$21-$49,$1 - $20,$50-$99,$100-$199,$50-$99,$50-$99,$50-$99,$20-$49,$50-$99,Live in Boulder,Boulder Resident,125
+74,20,1-2 days,8,Female,35-44,80302,No,Zero,$1 - $20,$500-$999,$21-$49,$1 - $20,$1 - $20,$500-$999,"$2,000-$4,999",0,$500-$999,$200-$499,Two nights,Hotel or motel,240
+81,1-2 times,3-4 days,10,Female,35-44,80304,Yes,A few hours,$1 - $20,$1 - $20,$1 - $20,$100-$199,$21-$49,$200-$499,$50-$99,$500-$999,$200-$499,$50-$99,NA,Home,125
+206,20,5-6 days,2,Female,Prefer not to say,80309,NA,A few hours,$50-$99,NA,$1 - $20,$1 - $20,"$1,000-$1,499",$21-$49,$20-$49,$1 - $20,$500-$999,$50-$99,Day trip,"Friends, family or no expense",240
+14,20,0,8,Male,55-64,80309,Yes,A few hours,0,0,0,0,0,0,$50-$99,$500-$999,$20-$49,0,Resident,NA,0
+280,1-2 times,0,4,Female,55-64,91335,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",NA,0,$100-$199,$100-$199,$21-$49,"$5,000.00",$50-$99,$1 - $20,$1 - $20,$50-$99,Day trip,"Friends, family or no expense",280
+8,20,0,0,Female,25-34,80306,Yes,-,0,0,0,0,0,0,"$1,000-$1,999",$1 - $20,$1 - $20,$50-$99,Four nights,Home,125
+198,1,1-2 days,4,Male,35-44,93454,NA,2 days,$50-$99,0,$21-$49,$21-$49,0,0,$1 - $20,0,$100-$199,$200-$499,Live in Boulder,NA,240
+48,5-6 times,0,0,Male,55-64,80306,NA,Live in area,0,0,0,0,0,0,$20-$49,$50-$99,0,$200-$499,One night,Hotel or motel,240
+223,1-2 times,1-2 days,5,Female,65-74,93113,No,A few hours,$50-$99,0,$1 - $20,0,0,$21-$49,"$2,000-$4,999",$200-$499,0,$1 - $20,Local,Hotel or motel,200
+275,20,1-2 days,3,Female,65-74,80304,No,Live in area,"$1,000.00",$21-$49,$1 - $20,NA,$500-$999,NA,$50-$99,$500-$999,$20-$49,$20-$49,I live here,"Friends, family or no expense",NA
+9,20,1-2 days,2,Male,35-44,80309,No,1 day,0,0,0,0,0,0,$100-$199,$200-$499,$20-$49,$1 - $20,I live here,NA,3
+266,20,3-4 days,3,Male,35-44,93013,Yes,Home is here,$200-$499,"$1,000-$1,499",$500-$999,NA,$100-$199,$500-$999,$50-$99,$100-$199,$20-$49,0,Multiple day trips,Home,0
+88,3-4 times,3-4 days,3,Female,25-34,80303,Yes,I live here,$1 - $20,$500-$999,$21-$49,$1 - $20,$1 - $20,"$3,000-$4,000",NA,$200-$499,$1 - $20,$50-$99,Four nights,Home,280
+164,20,1-2 days,3,Female,55-64,80306,NA,I live here,$21-$49,"$2,000-$3,000",$21-$49,"$2,000-$3,000",$1 - $20,"$5,000.00",$1 - $20,$1 - $20,$20-$49,$200-$499,NA,Home,240
+41,5-6 times,1-2 days,2,Female,45-54,96161,No,A few hours,0,0,0,0,0,$1 - $20,"$2,000-$4,999",$20-$49,$100-$199,$200-$499,I live here,Hotel or motel,240
+253,20,1-2 days,2,Male,25-34,93107,NA,1 day,0,$1 - $20,"$1,000-$1,499",$1 - $20,0,$50-$99,$1 - $20,0,$1 - $20,0,Day trip,Boulder Resident,3
+202,20,3-4 days,9,Male,35-44,80303,NA,2 days,$50-$99,0,0,0,0,0,"$1,000-$1,999",NA,$500-$999,$1 - $20,Two nights,"Friends, family or no expense",3
+15,20,0,0,Male,65-74,80309,NA,Home is here,0,0,0,0,0,0,$50-$99,0,0,$20-$49,I live here,Boulder Resident,500
+22,20,1-2 days,3,Female,65-74,80309,No,A few hours,0,0,0,$1 - $20,0,$1 - $20,$1 - $20,NA,$1 - $20,$1 - $20,Local,"Friends, family or no expense",200
+191,5-6 times,1-2 days,4,Female,35-44,80309,Yes,Zero,$21-$49,$200-$499,$1 - $20,$1 - $20,$50-$99,$200-$499,"$2,000-$4,999",0,$500-$999,$200-$499,NA,Boulder Resident,0
+44,5-6 times,0,0,Male,35-44,80303,No,1 day,0,0,0,0,0,0,$100-$199,$50-$99,$50-$99,$50-$99,Day trip,Home,240
+242,20,5-6 days,6,Male,45-54,80303,NA,Live in area,$500-$999,$500-$999,$50-$99,$100-$199,0,0,NA,$1 - $20,NA,0,One night,NA,280
+232,40,3-4 days,8,Male,35-44,80306,Yes,Home is here,$50-$99,$1 - $20,$21-$49,0,$1 - $20,$1 - $20,"$2,000-$4,999",$500-$999,$100-$199,0,Local,NA,500
+79,1-2 times,1-2 days,0.5,Male,18-24,80306,No,Live in area,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$50-$99,$1 - $20,$100-$199,$50-$99,Multiple day trips,NA,200
+16,20,0,0,Female,65-74,80309,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",0,0,0,0,0,0,$50-$99,$20-$49,$500-$999,NA,Live in Boulder,Hotel or motel,0
+279,1-2 times,1-2 days,4,Female,45-54,93111,No,I live here,NA,$21-$49,$500-$999,$500-$999,$500-$999,$100-$199,NA,$1 - $20,$1 - $20,$20-$49,Four nights,Boulder Resident,125
+220,20,1-2 days,2,Female,45-54,80309,No,I live here,$50-$99,0,0,$50-$99,0,0,$20-$49,$1 - $20,$1 - $20,$1 - $20,Three nights,Home,240
+124,20,7-8 days,3,Female,35-44,80309,No,Zero,$200-$499,0,$21-$49,$21-$49,0,$1 - $20,"$1,000-$1,999",$500-$999,0,$1 - $20,One night,Boulder Resident,200
+208,20,1-2 days,3,Male,45-54,80303,No,1 day,$50-$99,"$2,000-$3,000",$200-$499,$1 - $20,$200-$499,$21-$49,0,$20-$49,$1 - $20,0,One night,NA,240
+228,3-4 times,7-8 days,6,Male,25-34,80303,NA,1 day,$50-$99,$100-$199,$1 - $20,$1 - $20,0,"$3,000-$4,000","$1,000-$1,999",$50-$99,$1 - $20,$1 - $20,Two nights,NA,200
+255,20,1-2 days,4,Male,55-64,93111,NA,I live here,0,$50-$99,$1 - $20,$21-$49,0,$1 - $20,$100-$199,$100-$199,$20-$49,$20-$49,Day trip,Home,280
+249,1,1-2 days,5,Female,25-34,93464,No,Home is here,"$1,000.00","$2,000-$3,000",$500-$999,$1 - $20,$1 - $20,$100-$199,$50-$99,$50-$99,$100-$199,$20-$49,Three nights,Home,3
+110,20,5-6 days,3,Female,55-64,80304,Yes,A few hours,$100-$199,$200-$499,$21-$49,NA,$50-$99,"$5,000.00",$1 - $20,$100-$199,$1 - $20,$500-$999,Local,NA,N/A
+51,5-6 times,0,2.5,Female,55-64,80303,Yes,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",0,$21-$49,$200-$499,$21-$49,"$1,000-$1,499","$3,000-$4,000",$50-$99,$100-$199,$500-$999,$200-$499,I live here,Boulder Resident,0
+268,20,3-4 days,4,Female,35-44,80305,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$21-$49,"$1,000-$1,499","$1,000-$1,499",$21-$49,$1 - $20,$1 - $20,$50-$99,$50-$99,$20-$49,$20-$49,Two nights,"Friends, family or no expense",240
+87,3-4 times,5-6 days,5,Female,55-64,80309,No,NA,$1 - $20,0,$100-$199,$1 - $20,$21-$49,0,$20-$49,$1 - $20,$500-$999,$500-$999,Four nights,"Friends, family or no expense",175
+190,5-6 times,3-4 days,3,Female,25-34,80303,No,Live in area,$21-$49,0,$1 - $20,$1 - $20,0,"$3,000-$4,000",$200-$499,$1 - $20,$20-$49,$200-$499,Live in Boulder,Home,175
+257,20,3-4 days,5,Female,18-24,93013,No,0,$200-$499,$200-$499,$200-$499,$100-$199,$100-$199,"$5,000.00",$20-$49,$200-$499,$100-$199,$50-$99,Day trip,Boulder Resident,125
+276,20,1-2 days,6,Male,55-64,80305,Yes,2 days,"$1,000.00",NA,$50-$99,0,"$1,000-$1,499",$500-$999,$100-$199,$20-$49,$50-$99,NA,Day trip,NA,500
+80,1-2 times,3-4 days,2,Male,65-74,80309,Yes,Zero,$1 - $20,$1 - $20,$50-$99,$1 - $20,$1 - $20,$500-$999,$200-$499,$200-$499,$1 - $20,$50-$99,Local resident,Hotel or motel,500
+241,20,7-8 days,10,Male,35-44,80309,Yes,I live here,$500-$999,"$2,000-$3,000",$1 - $20,$100-$199,"$1,000-$1,499","$3,000-$4,000",$1 - $20,$200-$499,$1 - $20,$1 - $20,Three nights,NA,N/A
+232,40,3-4 days,8,Male,35-44,80306,Yes,Home is here,$50-$99,$1 - $20,$21-$49,0,$1 - $20,$1 - $20,"$2,000-$4,999",$500-$999,$100-$199,0,Local,NA,500
+146,20,1-2 days,5,Female,45-54,80303,Yes,A few hours,$21-$49,0,0,0,0,0,$20-$49,$1 - $20,$1 - $20,$200-$499,Local,Hotel or motel,175
+220,20,1-2 days,2,Female,45-54,80309,No,I live here,$50-$99,0,0,$50-$99,0,0,$20-$49,$1 - $20,$1 - $20,$1 - $20,Three nights,Home,240
+83,3-4 times,1-2 days,3,Female,35-44,80303,Yes,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$1 - $20,0,0,0,0,$1 - $20,$20-$49,$500-$999,$100-$199,NA,Multiple day trips,"Friends, family or no expense",280
+275,20,1-2 days,3,Female,65-74,80304,No,Live in area,"$1,000.00",$21-$49,$1 - $20,NA,$500-$999,NA,$50-$99,$500-$999,$20-$49,$20-$49,I live here,"Friends, family or no expense",NA
+240,1,12,4,Female,18-24,12345,Yes,-,$500-$999,"$2,000-$3,000",$100-$199,$500-$999,0,$500-$999,$1 - $20,$100-$199,$200-$499,$1 - $20,Day trip,Hotel or motel,3
+88,3-4 times,3-4 days,3,Female,25-34,80303,Yes,I live here,$1 - $20,$500-$999,$21-$49,$1 - $20,$1 - $20,"$3,000-$4,000",NA,$200-$499,$1 - $20,$50-$99,Four nights,Home,280
+166,20,1-2 days,2,Female,55-64,80306,NA,Didn't extend stay,$21-$49,$100-$199,$100-$199,$100-$199,$500-$999,$200-$499,0,$1 - $20,$200-$499,$500-$999,Local,Home,175
+66,20,3-4 days,2,Male,55-64,80306,No,2 days,$1 - $20,0,$21-$49,0,0,0,NA,NA,$500-$999,$500-$999,Local,"Friends, family or no expense",0
+134,1-2 times,3-4 days,2,Male,45-54,89135,No,NA,$200-$499,$200-$499,$100-$199,$100-$199,NA,"$5,000.00",0,$500-$999,NA,$20-$49,Day trip,Home,N/A
+52,5-6 times,0,0,Male,65-74,80309,NA,2 days,0,0,0,0,0,0,NA,$50-$99,$1 - $20,$200-$499,NA,"Friends, family or no expense",NA
+263,20,1-2 days,2,Female,35-44,80305,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$100-$199,$1 - $20,$200-$499,"$2,000-$3,000","$1,000-$1,499",0,$20-$49,0,$50-$99,0,Live in Boulder,Home,0
+227,3-4 times,1-2 days,4,Male,25-34,80303,NA,Home is here,$50-$99,$50-$99,0,$1 - $20,0,$200-$499,$100-$199,$1 - $20,$100-$199,$50-$99,Day trip,Boulder Resident,125
+89,3-4 times,1-2 days,1,Female,25-34,80303,Yes,2 days,$1 - $20,$100-$199,"$1,000.00",$21-$49,$500-$999,0,$1 - $20,$200-$499,$1 - $20,$50-$99,Local,NA,200
+98,5-6 times,1-2 days,2,Male,25-34,80306,NA,2 days,$1 - $20,0,0,$21-$49,0,0,$1 - $20,$100-$199,0,$50-$99,One night,Boulder Resident,125
+246,1,12,5,Female,18-24,12345,NA,A few hours,$100-$199,0,$200-$499,0,$21-$49,$500-$999,NA,$500-$999,$100-$199,NA,One night,Hotel or motel,500
+144,20,1-2 days,6,Female,55-64,80305,No,0,$21-$49,0,0,$1 - $20,0,0,"$1,000-$1,999",$20-$49,0,$500-$999,Local resident,NA,NA
+149,20,1-2 days,2,Female,35-44,80303,Yes,NA,$21-$49,0,$21-$49,0,0,0,$1 - $20,$1 - $20,NA,$1 - $20,I live here,Boulder Resident,500
+238,5-6 times,7-8 days,4,Male,65-74,80306,No,NA,$50-$99,$50-$99,$50-$99,$50-$99,$50-$99,NA,$200-$499,$50-$99,$50-$99,$500-$999,I live here,Hotel or motel,NA
+263,20,1-2 days,2,Female,35-44,80305,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$100-$199,$1 - $20,$200-$499,"$2,000-$3,000","$1,000-$1,499",0,$20-$49,0,$50-$99,0,Live in Boulder,Home,0
+274,20,3-4 days,6,Female,55-64,80306,No,Home is here,NA,$1 - $20,$1 - $20,$100-$199,"$1,000-$1,499",$100-$199,$100-$199,NA,$200-$499,$1 - $20,One night,NA,0
+247,1,3-4 days,6,Female,25-34,12345,Yes,1 day,$500-$999,NA,$500-$999,$100-$199,$500-$999,0,$50-$99,$20-$49,$50-$99,$1 - $20,Three nights,Hotel or motel,240
+68,20,0,1,Male,55-64,80306,Yes,-,$1 - $20,0,0,$1 - $20,0,0,NA,$1 - $20,$1 - $20,$1 - $20,Resident,Boulder Resident,125
+255,20,1-2 days,4,Male,55-64,93111,NA,I live here,0,$50-$99,$1 - $20,$21-$49,0,$1 - $20,$100-$199,$100-$199,$20-$49,$20-$49,Day trip,Home,280
+177,3-4 times,0,2,Female,35-44,80303,Yes,I live here,$21-$49,0,0,0,0,0,$50-$99,$20-$49,$20-$49,$50-$99,Local,"Friends, family or no expense",NA
+241,20,7-8 days,10,Male,35-44,80309,Yes,I live here,$500-$999,"$2,000-$3,000",$1 - $20,$100-$199,"$1,000-$1,499","$3,000-$4,000",$1 - $20,$200-$499,$1 - $20,$1 - $20,Three nights,NA,N/A
+146,20,1-2 days,5,Female,45-54,80303,Yes,A few hours,$21-$49,0,0,0,0,0,$20-$49,$1 - $20,$1 - $20,$200-$499,Local,Hotel or motel,175
+134,1-2 times,3-4 days,2,Male,45-54,89135,No,NA,$200-$499,$200-$499,$100-$199,$100-$199,NA,"$5,000.00",0,$500-$999,NA,$20-$49,Day trip,Home,N/A
+95,5-6 times,1-2 days,3,Female,55-64,80303,No,2 days,$1 - $20,0,0,0,0,0,$200-$499,0,NA,$50-$99,Live in Boulder,"Friends, family or no expense",NA
+70,20,5-6 days,3,Female,18-24,80309,No,Zero,$1 - $20,0,$1 - $20,$1 - $20,0,0,$20-$49,$200-$499,$200-$499,$20-$49,Local resident,Boulder Resident,240
+11,20,0,0,Female,45-54,80309,NA,Home is here,0,0,0,0,0,0,0,$500-$999,NA,$1 - $20,Multiple day trips,NA,280
+252,20,5-6 days,10,Male,45-54,80305,NA,I live here,$50-$99,$500-$999,"$1,000-$1,499",$100-$199,$200-$499,NA,0,0,0,0,Day trip,Boulder Resident,N/A
+191,5-6 times,1-2 days,4,Female,35-44,80309,Yes,Zero,$21-$49,$200-$499,$1 - $20,$1 - $20,$50-$99,$200-$499,"$2,000-$4,999",0,$500-$999,$200-$499,NA,Boulder Resident,0
+124,20,7-8 days,3,Female,35-44,80309,No,Zero,$200-$499,0,$21-$49,$21-$49,0,$1 - $20,"$1,000-$1,999",$500-$999,0,$1 - $20,One night,Boulder Resident,200
+141,10,3-4 days,3,Female,35-44,80305,NA,2 days,$21-$49,0,$1 - $20,$1 - $20,$1 - $20,0,$20-$49,$200-$499,$50-$99,$200-$499,I live here,Hotel or motel,240
+102,20,3-4 days,8,Female,35-44,80303,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$100-$199,$100-$199,$1 - $20,$1 - $20,0,"$3,000-$4,000",$200-$499,$100-$199,$100-$199,$1 - $20,Three nights,NA,500
+37,3-4 times,0,1,Male,45-54,93003,No,A few hours,0,0,0,0,0,0,$20-$49,$50-$99,$500-$999,$20-$49,Two nights,NA,280
+221,29,3-4 days,4,Female,45-54,93013,Yes,-,$50-$99,$100-$199,$21-$49,$100-$199,0,$50-$99,0,NA,0,NA,Day trip,Home,280
+180,3-4 times,3-4 days,4,Female,25-34,80306,Yes,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$21-$49,$50-$99,0,$21-$49,$1 - $20,0,"$1,000-$1,999",0,NA,NA,Live in Boulder,Boulder Resident,N/A
+23,20,3-4 days,3,Male,25-34,80309,Yes,0,0,"$1,000-$1,499","$1,000.00",$50-$99,$1 - $20,0,$200-$499,NA,$50-$99,$50-$99,NA,NA,240
+242,20,5-6 days,6,Male,45-54,80303,NA,Live in area,$500-$999,$500-$999,$50-$99,$100-$199,0,0,NA,$1 - $20,NA,0,One night,NA,280
+228,3-4 times,7-8 days,6,Male,25-34,80303,NA,1 day,$50-$99,$100-$199,$1 - $20,$1 - $20,0,"$3,000-$4,000","$1,000-$1,999",$50-$99,$1 - $20,$1 - $20,Two nights,NA,200
+22,20,1-2 days,3,Female,65-74,80309,No,A few hours,0,0,0,$1 - $20,0,$1 - $20,$1 - $20,NA,$1 - $20,$1 - $20,Local,"Friends, family or no expense",200
+87,3-4 times,5-6 days,5,Female,55-64,80309,No,NA,$1 - $20,0,$100-$199,$1 - $20,$21-$49,0,$20-$49,$1 - $20,$500-$999,$500-$999,Four nights,"Friends, family or no expense",175
+128,20,7-8 days,3,Female,35-44,80309,No,Live in area,$200-$499,0,$21-$49,$21-$49,0,$200-$499,$20-$49,$200-$499,NA,$20-$49,Four nights,Boulder Resident,NA
+79,1-2 times,1-2 days,0.5,Male,18-24,80306,No,Live in area,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$50-$99,$1 - $20,$100-$199,$50-$99,Multiple day trips,NA,200
+25,1-2 times,0,0,Female,45-54,80303,Yes,Didn't extend stay,0,0,0,0,0,0,$1 - $20,0,$20-$49,NA,Four nights,NA,125
+211,20,3-4 days,4,Male,35-44,80303,No,Didn't extend stay,$50-$99,$50-$99,0,$21-$49,0,0,$20-$49,$200-$499,$20-$49,$50-$99,Four nights,"Friends, family or no expense",125
+43,5-6 times,1-2 days,1,Female,25-34,93108,No,Zero,0,0,0,0,0,0,$200-$499,NA,$200-$499,$20-$49,I live here,Boulder Resident,NA
+244,5-6 times,3-4 days,8,Male,45-54,80302,NA,I live here,$500-$999,0,$200-$499,"$2,000-$3,000",$500-$999,0,$1 - $20,$20-$49,$200-$499,NA,Day trip,"Friends, family or no expense",500
+199,20,1-2 days,2,Male,55-64,93013,No,2 days,$50-$99,$500-$999,$21-$49,$100-$199,$21-$49,$1 - $20,$100-$199,NA,0,0,NA,Home,500
+75,20,1-2 days,1,Female,65-74,80306,NA,I live here,$1 - $20,NA,NA,NA,$200-$499,"$3,000-$4,000",$200-$499,$20-$49,NA,$1 - $20,NA,Boulder Resident,175
+34,1-2 times,1-2 days,1,Male,75-84,80306,No,-,0,0,0,0,0,0,0,$100-$199,NA,0,Four nights,Home,240
+17,20,0,0,Female,65-74,80309,No,NA,0,0,0,0,0,0,$200-$499,$200-$499,$500-$999,0,Resident,Hotel or motel,175
+109,20,5-6 days,8,Female,35-44,80306,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$100-$199,0,$50-$99,$21-$49,0,NA,NA,0,$50-$99,$200-$499,Day trip,Hotel or motel,0
+55,1,1-2 days,2,Female,25-34,80305,No,-,$1 - $20,0,0,0,0,0,"$1,000-$1,999",$500-$999,NA,$500-$999,Local,"Friends, family or no expense",N/A
+164,20,1-2 days,3,Female,55-64,80306,NA,I live here,$21-$49,"$2,000-$3,000",$21-$49,"$2,000-$3,000",$1 - $20,"$5,000.00",$1 - $20,$1 - $20,$20-$49,$200-$499,NA,Home,240
+30,1-2 times,0,0,Male,65-74,80303,No,1 day,0,0,0,0,0,0,$100-$199,$20-$49,0,NA,Two nights,NA,200
+123,20,3-4 days,5,Female,25-34,80309,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$200-$499,$100-$199,$1 - $20,$21-$49,$1 - $20,0,$100-$199,NA,$100-$199,0,Live in Boulder,Hotel or motel,280
+143,12,2,2,Male,55-64,80303,NA,2 days,$21-$49,0,0,$1 - $20,0,"$5,000.00",0,$200-$499,$1 - $20,$500-$999,Day trip,Boulder Resident,175
+209,20,20,4,Female,45-54,80303,Yes,Live in area,$50-$99,$200-$499,$100-$199,$200-$499,0,0,"$1,000-$1,999",$500-$999,NA,$200-$499,Four nights,"Friends, family or no expense",3
+134,1-2 times,3-4 days,2,Male,45-54,89135,No,NA,$200-$499,$200-$499,$100-$199,$100-$199,NA,"$5,000.00",0,$500-$999,NA,$20-$49,Day trip,Home,N/A
+107,20,3-4 days,4,Female,55-64,80303,Yes,Live in area,$100-$199,$100-$199,$200-$499,$21-$49,$100-$199,$21-$49,$200-$499,$100-$199,$1 - $20,$1 - $20,Local resident,Home,500
+27,1-2 times,1-2 days,1,Female,45-54,80309,No,I live here,0,0,0,0,0,0,$20-$49,$1 - $20,$200-$499,$500-$999,Four nights,Hotel or motel,NA
+274,20,3-4 days,6,Female,55-64,80306,No,Home is here,NA,$1 - $20,$1 - $20,$100-$199,"$1,000-$1,499",$100-$199,$100-$199,NA,$200-$499,$1 - $20,One night,NA,0
+250,20,0,3,Female,55-64,92463,No,0,$1 - $20,$50-$99,$500-$999,NA,NA,"$5,000.00",$200-$499,$100-$199,$50-$99,NA,NA,"Friends, family or no expense",3
+276,20,1-2 days,6,Male,55-64,80305,Yes,2 days,"$1,000.00",NA,$50-$99,0,"$1,000-$1,499",$500-$999,$100-$199,$20-$49,$50-$99,NA,Day trip,NA,500
+14,20,0,8,Male,55-64,80309,Yes,A few hours,0,0,0,0,0,0,$50-$99,$500-$999,$20-$49,0,Resident,NA,0
+237,5-6 times,3-4 days,2.5,Female,25-34,80302,No,1 day,$50-$99,0,0,$21-$49,$1 - $20,0,$20-$49,$500-$999,$200-$499,NA,Resident,Hotel or motel,280
+248,1,3-4 days,4,Female,35-44,93611,NA,A few hours,$1 - $20,$21-$49,$100-$199,$1 - $20,NA,$21-$49,"$1,000-$1,999",0,$50-$99,$200-$499,Three nights,Hotel or motel,500
+268,20,3-4 days,4,Female,35-44,80305,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$21-$49,"$1,000-$1,499","$1,000-$1,499",$21-$49,$1 - $20,$1 - $20,$50-$99,$50-$99,$20-$49,$20-$49,Two nights,"Friends, family or no expense",240
+34,1-2 times,1-2 days,1,Male,75-84,80306,No,-,0,0,0,0,0,0,0,$100-$199,NA,0,Four nights,Home,240
+14,20,0,8,Male,55-64,80309,Yes,A few hours,0,0,0,0,0,0,$50-$99,$500-$999,$20-$49,0,Resident,NA,0
+198,1,1-2 days,4,Male,35-44,93454,NA,2 days,$50-$99,0,$21-$49,$21-$49,0,0,$1 - $20,0,$100-$199,$200-$499,Live in Boulder,NA,240
+212,20,3-4 days,4,Female,35-44,80304,Yes,A few hours,$50-$99,0,$1 - $20,$21-$49,0,0,$50-$99,$20-$49,0,$20-$49,I live here,Hotel or motel,NA
+224,1-2 times,1-2 days,6,Female,18-24,80304,Yes,Home is here,$50-$99,$50-$99,$1 - $20,$50-$99,$100-$199,0,"$1,000-$1,999",0,0,NA,Multiple day trips,Home,280
+163,20,1-2 days,3,Male,25-34,80303,NA,0,$21-$49,$21-$49,$21-$49,$21-$49,$21-$49,$21-$49,$50-$99,$1 - $20,$1 - $20,0,NA,Boulder Resident,175
+28,1-2 times,0,0,Female,55-64,80309,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",0,0,0,0,0,0,$200-$499,$100-$199,0,$20-$49,Two nights,Hotel or motel,240
+203,20,1-2 days,1,Female,55-64,80303,Yes,Home is here,$50-$99,0,0,0,0,0,$100-$199,NA,$1 - $20,$200-$499,Day trip,NA,NA
+126,20,7-8 days,3,Female,35-44,80309,No,0,$200-$499,0,$21-$49,$21-$49,0,$500-$999,0,0,$1 - $20,0,Two nights,Boulder Resident,125
+24,1-2 times,0,0,Female,35-44,80303,No,1 day,0,0,0,0,0,0,$50-$99,$100-$199,$20-$49,$20-$49,Local,NA,N/A
+221,29,3-4 days,4,Female,45-54,93013,Yes,-,$50-$99,$100-$199,$21-$49,$100-$199,0,$50-$99,0,NA,0,NA,Day trip,Home,280
+79,1-2 times,1-2 days,0.5,Male,18-24,80306,No,Live in area,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$50-$99,$1 - $20,$100-$199,$50-$99,Multiple day trips,NA,200
+155,20,3-4 days,2,Female,55-64,80306,No,1 day,$21-$49,0,$50-$99,$1 - $20,0,0,$100-$199,$100-$199,$50-$99,$50-$99,Two nights,Home,200
+189,5-6 times,1-2 days,0.5,Female,55-64,93108,Yes,Live in area,$21-$49,0,0,$1 - $20,0,$50-$99,$20-$49,$50-$99,$1 - $20,$50-$99,Local resident,Home,200
+93,5-6 times,1-2 days,4,Female,25-34,80306,NA,Zero,$1 - $20,0,0,0,0,0,$100-$199,$200-$499,$500-$999,$200-$499,NA,Hotel or motel,NA
+232,40,3-4 days,8,Male,35-44,80306,Yes,Home is here,$50-$99,$1 - $20,$21-$49,0,$1 - $20,$1 - $20,"$2,000-$4,999",$500-$999,$100-$199,0,Local,NA,500
+7,20,0,3,Male,45-54,80302,No,Zero,0,0,0,0,0,0,"$2,000-$4,999",$1 - $20,$100-$199,$20-$49,Three nights,Boulder Resident,NA
+235,5-6 times,1-2 days,8,Male,35-44,80309,Yes,Didn't extend stay,$50-$99,0,$50-$99,$1 - $20,$21-$49,0,"$1,000-$1,999",$50-$99,$50-$99,$1 - $20,Live in Boulder,Home,0
+69,20,1-2 days,3,Female,55-64,80306,NA,Live in area,$1 - $20,0,0,$1 - $20,$1 - $20,"$5,000.00",$200-$499,$500-$999,$500-$999,$500-$999,Local resident,"Friends, family or no expense",0
+188,5-6 times,1-2 days,3,Female,35-44,80309,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$21-$49,0,0,$1 - $20,0,0,$1 - $20,$100-$199,$200-$499,$20-$49,Day trip,"Friends, family or no expense",N/A
+74,20,1-2 days,8,Female,35-44,80302,No,Zero,$1 - $20,$500-$999,$21-$49,$1 - $20,$1 - $20,$500-$999,"$2,000-$4,999",0,$500-$999,$200-$499,Two nights,Hotel or motel,240
+76,1-2 times,1-2 days,1,Female,18-24,91104,Yes,A few hours,$1 - $20,0,0,0,0,0,$200-$499,$20-$49,NA,$20-$49,Day trip,Home,280
+121,20,7-8 days,6,Female,55-64,80305,No,I live here,$200-$499,$200-$499,$200-$499,$200-$499,$500-$999,$200-$499,0,$1 - $20,$20-$49,0,I live here,Home,N/A
+95,5-6 times,1-2 days,3,Female,55-64,80303,No,2 days,$1 - $20,0,0,0,0,0,$200-$499,0,NA,$50-$99,Live in Boulder,"Friends, family or no expense",NA
+199,20,1-2 days,2,Male,55-64,93013,No,2 days,$50-$99,$500-$999,$21-$49,$100-$199,$21-$49,$1 - $20,$100-$199,NA,0,0,NA,Home,500
+213,20,3-4 days,5,Female,55-64,93108,NA,NA,$50-$99,0,$1 - $20,$21-$49,$1 - $20,$1 - $20,0,$50-$99,$200-$499,$200-$499,Live in Boulder,"Friends, family or no expense",500
+51,5-6 times,0,2.5,Female,55-64,80303,Yes,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",0,$21-$49,$200-$499,$21-$49,"$1,000-$1,499","$3,000-$4,000",$50-$99,$100-$199,$500-$999,$200-$499,I live here,Boulder Resident,0
+176,1-2 times,1-2 days,2,Male,35-44,80304,No,I live here,$21-$49,$21-$49,$21-$49,"$2,000-$3,000",$200-$499,$500-$999,"$1,000-$1,999",$200-$499,$50-$99,$20-$49,Live in Boulder,NA,200
+271,20,7-8 days,2,Female,45-54,80305,Yes,Live in area,$1 - $20,"$1,000-$1,499","$1,000-$1,499",0,"$1,000-$1,499","$5,000.00",$100-$199,$20-$49,$200-$499,$1 - $20,Local,Boulder Resident,500
+125,20,7-8 days,3,Female,35-44,80309,No,NA,$200-$499,0,$21-$49,$21-$49,0,$200-$499,$20-$49,NA,$500-$999,$50-$99,One night,"Friends, family or no expense",NA
+11,20,0,0,Female,45-54,80309,NA,Home is here,0,0,0,0,0,0,0,$500-$999,NA,$1 - $20,Multiple day trips,NA,280
+241,20,7-8 days,10,Male,35-44,80309,Yes,I live here,$500-$999,"$2,000-$3,000",$1 - $20,$100-$199,"$1,000-$1,499","$3,000-$4,000",$1 - $20,$200-$499,$1 - $20,$1 - $20,Three nights,NA,N/A
+75,20,1-2 days,1,Female,65-74,80306,NA,I live here,$1 - $20,NA,NA,NA,$200-$499,"$3,000-$4,000",$200-$499,$20-$49,NA,$1 - $20,NA,Boulder Resident,175
+87,3-4 times,5-6 days,5,Female,55-64,80309,No,NA,$1 - $20,0,$100-$199,$1 - $20,$21-$49,0,$20-$49,$1 - $20,$500-$999,$500-$999,Four nights,"Friends, family or no expense",175
+248,1,3-4 days,4,Female,35-44,93611,NA,A few hours,$1 - $20,$21-$49,$100-$199,$1 - $20,NA,$21-$49,"$1,000-$1,999",0,$50-$99,$200-$499,Three nights,Hotel or motel,500
+179,3-4 times,3-4 days,4,Female,65-74,80309,NA,1 day,$21-$49,0,0,$21-$49,$200-$499,$21-$49,$50-$99,$500-$999,$20-$49,$20-$49,One night,Hotel or motel,240
+174,1-2 times,3-4 days,5,Female,25-34,80309,Yes,2 days,$21-$49,0,$21-$49,$21-$49,0,0,"$2,000-$4,999",0,$1 - $20,$50-$99,NA,"Friends, family or no expense",N/A
+214,20,3-4 days,6,Female,25-34,80306,Yes,I live here,$50-$99,$100-$199,$1 - $20,$21-$49,NA,"$3,000-$4,000",$20-$49,$50-$99,NA,$50-$99,NA,Home,N/A
+254,20,1-2 days,11,Female,55-64,93454,Yes,-,$200-$499,$500-$999,$100-$199,$21-$49,$500-$999,$21-$49,$50-$99,0,0,$20-$49,Day trip,"Friends, family or no expense",280
+229,3-4 times,3-4 days,4,Female,55-64,80306,Yes,0,$50-$99,$200-$499,$21-$49,$1 - $20,$21-$49,0,0,$50-$99,NA,$500-$999,I live here,Hotel or motel,240
+283,1-2 times,1-2 days,6,Male,35-44,91792,Yes,Zero,$1 - $20,0,"$1,000-$1,499",0,"$1,000-$1,499","$5,000.00",$100-$199,NA,$1 - $20,$200-$499,Two nights,Home,175
+38,3-4 times,0,0,Male,65-74,93108,No,2 days,0,0,0,0,0,0,$1 - $20,$100-$199,NA,$20-$49,Resident,Boulder Resident,3
+209,20,20,4,Female,45-54,80303,Yes,Live in area,$50-$99,$200-$499,$100-$199,$200-$499,0,0,"$1,000-$1,999",$500-$999,NA,$200-$499,Four nights,"Friends, family or no expense",3
+51,5-6 times,0,2.5,Female,55-64,80303,Yes,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",0,$21-$49,$200-$499,$21-$49,"$1,000-$1,499","$3,000-$4,000",$50-$99,$100-$199,$500-$999,$200-$499,I live here,Boulder Resident,0
+291,5-6 times,7-8 days,3,Female,45-54,80306,NA,Didn't extend stay,$21-$49,$50-$99,$1 - $20,$1 - $20,$21-$49,$1 - $20,0,NA,$50-$99,$50-$99,Resident,NA,500
+18,20,1-2 days,2,Female,35-44,80303,NA,Live in area,0,0,$1 - $20,0,0,0,$1 - $20,$200-$499,NA,$20-$49,Multiple day trips,Home,500
+211,20,3-4 days,4,Male,35-44,80303,No,Didn't extend stay,$50-$99,$50-$99,0,$21-$49,0,0,$20-$49,$200-$499,$20-$49,$50-$99,Four nights,"Friends, family or no expense",125
+31,1-2 times,0,0,Female,65-74,80309,NA,0,0,0,0,0,0,0,$100-$199,$20-$49,$20-$49,$1 - $20,Multiple day trips,Home,200
+83,3-4 times,1-2 days,3,Female,35-44,80303,Yes,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$1 - $20,0,0,0,0,$1 - $20,$20-$49,$500-$999,$100-$199,NA,Multiple day trips,"Friends, family or no expense",280
+272,20,1-2 days,4,Female,65-74,80305,Yes,1 day,$200-$499,$21-$49,$1 - $20,$50-$99,$100-$199,$50-$99,$50-$99,$50-$99,$20-$49,$50-$99,Live in Boulder,Boulder Resident,125
+20,20,0,0,Female,25-34,80303,Yes,Zero,0,0,0,$1 - $20,0,0,"$1,000-$1,999",0,$50-$99,$20-$49,Three nights,"Friends, family or no expense",0
+133,35,3-4 days,5,Female,35-44,80303,No,NA,$200-$499,"$2,000-$3,000",$50-$99,$1 - $20,$500-$999,$500-$999,$20-$49,0,$1 - $20,$500-$999,Live in Boulder,NA,280
+128,20,7-8 days,3,Female,35-44,80309,No,Live in area,$200-$499,0,$21-$49,$21-$49,0,$200-$499,$20-$49,$200-$499,NA,$20-$49,Four nights,Boulder Resident,NA
+171,1-2 times,1-2 days,4,Male,18-24,80304,No,Zero,$21-$49,0,0,$1 - $20,$100-$199,$21-$49,"$2,000-$4,999",$500-$999,$500-$999,$500-$999,Live in Boulder,NA,500
+10,20,0,0,Male,45-54,80306,Yes,Zero,0,0,0,0,0,0,"$2,000-$4,999",$200-$499,NA,$1 - $20,I live here,"Friends, family or no expense",125
+180,3-4 times,3-4 days,4,Female,25-34,80306,Yes,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$21-$49,$50-$99,0,$21-$49,$1 - $20,0,"$1,000-$1,999",0,NA,NA,Live in Boulder,Boulder Resident,N/A
+11,20,0,0,Female,45-54,80309,NA,Home is here,0,0,0,0,0,0,0,$500-$999,NA,$1 - $20,Multiple day trips,NA,280
+71,20,3-4 days,3,Female,55-64,80304,No,Didn't extend stay,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$100-$199,$100-$199,$1 - $20,$50-$99,$500-$999,Four nights,"Friends, family or no expense",175
+282,1-2 times,1-2 days,3,Female,55-64,80302,Yes,NA,"$1,000.00",$500-$999,"$1,000-$1,499",$50-$99,$21-$49,0,$1 - $20,0,0,0,Two nights,Hotel or motel,175
+243,3-4 times,3-4 days,10,Male,55-64,80303,NA,-,$500-$999,0,0,$1 - $20,$100-$199,$21-$49,$20-$49,$20-$49,$1 - $20,$50-$99,Four nights,Boulder Resident,500
+221,29,3-4 days,4,Female,45-54,93013,Yes,-,$50-$99,$100-$199,$21-$49,$100-$199,0,$50-$99,0,NA,0,NA,Day trip,Home,280
+25,1-2 times,0,0,Female,45-54,80303,Yes,Didn't extend stay,0,0,0,0,0,0,$1 - $20,0,$20-$49,NA,Four nights,NA,125
+74,20,1-2 days,8,Female,35-44,80302,No,Zero,$1 - $20,$500-$999,$21-$49,$1 - $20,$1 - $20,$500-$999,"$2,000-$4,999",0,$500-$999,$200-$499,Two nights,Hotel or motel,240
+29,1-2 times,0,2,Female,55-64,80303,Yes,NA,0,0,0,0,0,0,$50-$99,0,$500-$999,$1 - $20,Four nights,NA,240
+197,NA,6,4,Female,45-54,80303,NA,NA,$21-$49,$50-$99,$21-$49,$21-$49,$100-$199,$1 - $20,$100-$199,$20-$49,$500-$999,$50-$99,NA,Hotel or motel,125
+165,20,1-2 days,2,Female,35-44,80304,NA,Zero,$21-$49,$200-$499,$1 - $20,0,NA,$50-$99,$50-$99,$200-$499,$200-$499,0,Day trip,"Friends, family or no expense",125
+190,5-6 times,3-4 days,3,Female,25-34,80303,No,Live in area,$21-$49,0,$1 - $20,$1 - $20,0,"$3,000-$4,000",$200-$499,$1 - $20,$20-$49,$200-$499,Live in Boulder,Home,175
+156,20,1-2 days,4,Female,35-44,80309,Yes,1 day,$21-$49,$200-$499,NA,$1 - $20,$200-$499,$200-$499,$20-$49,$50-$99,$500-$999,$50-$99,Three nights,Boulder Resident,125
+226,3-4 times,3-4 days,2,Male,45-54,80309,No,1 day,$50-$99,0,0,$1 - $20,$1 - $20,0,$100-$199,0,$200-$499,NA,Day trip,Home,175
+163,20,1-2 days,3,Male,25-34,80303,NA,0,$21-$49,$21-$49,$21-$49,$21-$49,$21-$49,$21-$49,$50-$99,$1 - $20,$1 - $20,0,NA,Boulder Resident,175
+186,5-6 times,1-2 days,3,Male,25-34,80303,No,1 day,$21-$49,0,0,0,0,NA,$100-$199,NA,$20-$49,$20-$49,Day trip,Boulder Resident,175
+86,3-4 times,1-2 days,4,Female,35-44,80305,NA,Didn't extend stay,$1 - $20,"$2,000-$3,000",$1 - $20,$1 - $20,$50-$99,$1 - $20,$1 - $20,$100-$199,$20-$49,NA,Multiple day trips,Boulder Resident,3
+17,20,0,0,Female,65-74,80309,No,NA,0,0,0,0,0,0,$200-$499,$200-$499,$500-$999,0,Resident,Hotel or motel,175
+156,20,1-2 days,4,Female,35-44,80309,Yes,1 day,$21-$49,$200-$499,NA,$1 - $20,$200-$499,$200-$499,$20-$49,$50-$99,$500-$999,$50-$99,Three nights,Boulder Resident,125
+160,20,1-2 days,5,Female,25-34,93113,No,I live here,$21-$49,$1 - $20,$1 - $20,$21-$49,$50-$99,0,"$1,000-$1,999",$50-$99,$200-$499,0,Local resident,Boulder Resident,280
+108,20,1-2 days,2,Male,45-54,80303,Yes,Home is here,$100-$199,"$2,000-$3,000",$200-$499,$21-$49,NA,$100-$199,0,0,$1 - $20,0,NA,Hotel or motel,280
+292,5-6 times,0,1,Prefer not to say,18-24,91335,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$1 - $20,$50-$99,$100-$199,"$2,000-$3,000",$500-$999,NA,$100-$199,$100-$199,$20-$49,0,Two nights,Boulder Resident,280
+277,20,0,0,Female,55-64,80303,No,Home is here,0,$200-$499,"$1,000-$1,499","$2,000-$3,000",NA,0,$200-$499,$200-$499,$100-$199,$1 - $20,Day trip,NA,500
+287,5-6 times,1-2 days,4,Female,45-54,91320,NA,Home is here,0,$200-$499,$100-$199,$500-$999,$21-$49,"$5,000.00",$20-$49,$50-$99,$200-$499,$200-$499,Day trip,Hotel or motel,240
+233,5-6 times,7-8 days,5,Female,35-44,80303,NA,NA,$50-$99,$1 - $20,$500-$999,$21-$49,$1 - $20,$1 - $20,"$2,000-$4,999",$500-$999,$500-$999,$500-$999,Resident,"Friends, family or no expense",0
+268,20,3-4 days,4,Female,35-44,80305,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$21-$49,"$1,000-$1,499","$1,000-$1,499",$21-$49,$1 - $20,$1 - $20,$50-$99,$50-$99,$20-$49,$20-$49,Two nights,"Friends, family or no expense",240
+197,NA,6,4,Female,45-54,80303,NA,NA,$21-$49,$50-$99,$21-$49,$21-$49,$100-$199,$1 - $20,$100-$199,$20-$49,$500-$999,$50-$99,NA,Hotel or motel,125
+292,5-6 times,0,1,Prefer not to say,18-24,91335,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$1 - $20,$50-$99,$100-$199,"$2,000-$3,000",$500-$999,NA,$100-$199,$100-$199,$20-$49,0,Two nights,Boulder Resident,280
+258,20,1-2 days,1,Female,55-64,93440,No,Didn't extend stay,NA,0,NA,$500-$999,$100-$199,$21-$49,$50-$99,$50-$99,$50-$99,$50-$99,Day trip,Hotel or motel,125
+119,25,5-6 days,4,Female,45-54,93035,No,NA,$100-$199,0,$100-$199,$50-$99,0,$21-$49,"$1,000-$1,999",$100-$199,$500-$999,$20-$49,One night,"Friends, family or no expense",125
+86,3-4 times,1-2 days,4,Female,35-44,80305,NA,Didn't extend stay,$1 - $20,"$2,000-$3,000",$1 - $20,$1 - $20,$50-$99,$1 - $20,$1 - $20,$100-$199,$20-$49,NA,Multiple day trips,Boulder Resident,3
+178,3-4 times,3-4 days,2,Female,25-34,80304,Yes,NA,$21-$49,0,0,$1 - $20,$200-$499,$21-$49,NA,0,$500-$999,$500-$999,Local,Home,NA
+100,20,3-4 days,2,Female,45-54,80306,NA,0,$100-$199,0,0,$1 - $20,0,0,NA,$200-$499,$1 - $20,$200-$499,Day trip,NA,3
+12,20,0,0,Female,55-64,80309,Yes,2 days,0,0,0,0,0,0,NA,0,$1 - $20,$200-$499,Live in Boulder,NA,175
+21,20,1-2 days,3,Female,55-64,80309,No,I live here,0,0,0,$1 - $20,0,0,$20-$49,NA,0,NA,Three nights,"Friends, family or no expense",200
+260,20,3-4 days,20,Male,35-44,93111,No,1 day,$200-$499,NA,NA,0,$200-$499,$21-$49,$200-$499,$100-$199,$50-$99,$50-$99,Four nights,"Friends, family or no expense",NA
+56,20,1-2 days,2,Female,55-64,93111,No,Live in area,$1 - $20,0,0,0,0,$50-$99,$100-$199,NA,0,$50-$99,Local,Boulder Resident,125
+138,1,3-4 days,4,Female,45-54,80303,No,NA,$21-$49,$1 - $20,0,0,0,$1 - $20,"$2,000-$4,999",0,$100-$199,$500-$999,Multiple day trips,"Friends, family or no expense",240
+129,20,7-8 days,3,Female,35-44,80309,Yes,I live here,$200-$499,0,$21-$49,$21-$49,0,$100-$199,NA,$500-$999,$500-$999,$1 - $20,Three nights,Home,240
+267,20,1-2 days,2.5,Male,35-44,93111,No,Live in area,$1 - $20,$1 - $20,$100-$199,$1 - $20,$200-$499,$50-$99,$100-$199,$50-$99,$50-$99,$50-$99,Resident,Boulder Resident,NA
+275,20,1-2 days,3,Female,65-74,80304,No,Live in area,"$1,000.00",$21-$49,$1 - $20,NA,$500-$999,NA,$50-$99,$500-$999,$20-$49,$20-$49,I live here,"Friends, family or no expense",NA
+59,20,3-4 days,7,Male,45-54,80303,No,I live here,$1 - $20,0,0,0,0,$1 - $20,"$1,000-$1,999",$200-$499,0,$50-$99,NA,"Friends, family or no expense",200
+94,5-6 times,1-2 days,2,Female,35-44,80309,Yes,1 day,$1 - $20,0,0,0,0,$21-$49,"$2,000-$4,999",NA,$100-$199,$500-$999,Local,Hotel or motel,240
+227,3-4 times,1-2 days,4,Male,25-34,80303,NA,Home is here,$50-$99,$50-$99,0,$1 - $20,0,$200-$499,$100-$199,$1 - $20,$100-$199,$50-$99,Day trip,Boulder Resident,125
+247,1,3-4 days,6,Female,25-34,12345,Yes,1 day,$500-$999,NA,$500-$999,$100-$199,$500-$999,0,$50-$99,$20-$49,$50-$99,$1 - $20,Three nights,Hotel or motel,240
+231,3-4 times,3-4 days,3,Female,65-74,80304,NA,0,$50-$99,$100-$199,$1 - $20,NA,$50-$99,$50-$99,$50-$99,$1 - $20,$50-$99,$20-$49,I live here,Boulder Resident,NA
+120,7,5-6 days,2,Male,45-54,80304,NA,Didn't extend stay,$100-$199,0,$21-$49,0,$21-$49,0,0,$200-$499,NA,$200-$499,Live in Boulder,Boulder Resident,175
+277,20,0,0,Female,55-64,80303,No,Home is here,0,$200-$499,"$1,000-$1,499","$2,000-$3,000",NA,0,$200-$499,$200-$499,$100-$199,$1 - $20,Day trip,NA,500
+177,3-4 times,0,2,Female,35-44,80303,Yes,I live here,$21-$49,0,0,0,0,0,$50-$99,$20-$49,$20-$49,$50-$99,Local,"Friends, family or no expense",NA
+229,3-4 times,3-4 days,4,Female,55-64,80306,Yes,0,$50-$99,$200-$499,$21-$49,$1 - $20,$21-$49,0,0,$50-$99,NA,$500-$999,I live here,Hotel or motel,240
+163,20,1-2 days,3,Male,25-34,80303,NA,0,$21-$49,$21-$49,$21-$49,$21-$49,$21-$49,$21-$49,$50-$99,$1 - $20,$1 - $20,0,NA,Boulder Resident,175
+293,29,0,2,Male,55-64,80303,Yes,Home is here,0,$500-$999,$500-$999,$50-$99,$500-$999,$500-$999,"$1,000-$1,999",$50-$99,$200-$499,$200-$499,Resident,Home,NA
+186,5-6 times,1-2 days,3,Male,25-34,80303,No,1 day,$21-$49,0,0,0,0,NA,$100-$199,NA,$20-$49,$20-$49,Day trip,Boulder Resident,175
+72,20,5-6 days,6,Male,65-74,80304,NA,2 days,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$200-$499,$500-$999,$50-$99,$50-$99,$1 - $20,$20-$49,I live here,Boulder Resident,0
+185,5-6 times,1-2 days,1,Female,25-34,93013,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$21-$49,0,0,0,0,0,"$2,000-$4,999",$500-$999,$500-$999,$20-$49,One night,Hotel or motel,N/A
+171,1-2 times,1-2 days,4,Male,18-24,80304,No,Zero,$21-$49,0,0,$1 - $20,$100-$199,$21-$49,"$2,000-$4,999",$500-$999,$500-$999,$500-$999,Live in Boulder,NA,500
+274,20,3-4 days,6,Female,55-64,80306,No,Home is here,NA,$1 - $20,$1 - $20,$100-$199,"$1,000-$1,499",$100-$199,$100-$199,NA,$200-$499,$1 - $20,One night,NA,0
+27,1-2 times,1-2 days,1,Female,45-54,80309,No,I live here,0,0,0,0,0,0,$20-$49,$1 - $20,$200-$499,$500-$999,Four nights,Hotel or motel,NA
+71,20,3-4 days,3,Female,55-64,80304,No,Didn't extend stay,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$100-$199,$100-$199,$1 - $20,$50-$99,$500-$999,Four nights,"Friends, family or no expense",175
+123,20,3-4 days,5,Female,25-34,80309,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$200-$499,$100-$199,$1 - $20,$21-$49,$1 - $20,0,$100-$199,NA,$100-$199,0,Live in Boulder,Hotel or motel,280
+155,20,3-4 days,2,Female,55-64,80306,No,1 day,$21-$49,0,$50-$99,$1 - $20,0,0,$100-$199,$100-$199,$50-$99,$50-$99,Two nights,Home,200
+115,3-4 times,1-2 days,3,Female,25-34,80303,Yes,2 days,$100-$199,0,0,$1 - $20,0,0,$100-$199,$500-$999,$200-$499,$200-$499,Four nights,"Friends, family or no expense",0
+51,5-6 times,0,2.5,Female,55-64,80303,Yes,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",0,$21-$49,$200-$499,$21-$49,"$1,000-$1,499","$3,000-$4,000",$50-$99,$100-$199,$500-$999,$200-$499,I live here,Boulder Resident,0
+166,20,1-2 days,2,Female,55-64,80306,NA,Didn't extend stay,$21-$49,$100-$199,$100-$199,$100-$199,$500-$999,$200-$499,0,$1 - $20,$200-$499,$500-$999,Local,Home,175
+16,20,0,0,Female,65-74,80309,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",0,0,0,0,0,0,$50-$99,$20-$49,$500-$999,NA,Live in Boulder,Hotel or motel,0
+194,5-6 times,5-6 days,1,Female,45-54,93067,Yes,Home is here,$21-$49,0,$21-$49,$21-$49,0,0,$20-$49,$500-$999,0,$50-$99,Day trip,"Friends, family or no expense",240
+182,3-4 times,1-2 days,4,Female,45-54,80304,No,A few hours,$21-$49,$50-$99,"$1,000.00",$50-$99,$1 - $20,"$5,000.00",$200-$499,$50-$99,$50-$99,$500-$999,Multiple day trips,Boulder Resident,0
+106,20,1-2 days,6,Female,55-64,80304,No,Zero,$100-$199,0,0,$21-$49,$1 - $20,NA,"$1,000-$1,999",$20-$49,0,$200-$499,Multiple day trips,NA,200
+146,20,1-2 days,5,Female,45-54,80303,Yes,A few hours,$21-$49,0,0,0,0,0,$20-$49,$1 - $20,$1 - $20,$200-$499,Local,Hotel or motel,175
+94,5-6 times,1-2 days,2,Female,35-44,80309,Yes,1 day,$1 - $20,0,0,0,0,$21-$49,"$2,000-$4,999",NA,$100-$199,$500-$999,Local,Hotel or motel,240
+54,4,10,5,Female,45-54,80309,Yes,I live here,"$1,000.00",$100-$199,$500-$999,$50-$99,"$1,000-$1,499","$5,000.00",$1 - $20,$20-$49,$1 - $20,$50-$99,I live here,Hotel or motel,500
+112,56,20,4,Female,55-64,93111,No,Didn't extend stay,$100-$199,$200-$499,$200-$499,$100-$199,$200-$499,"$5,000.00",$1 - $20,$20-$49,NA,$50-$99,Local resident,Hotel or motel,175
+140,1,3-4 days,4,Female,55-64,93460,Yes,NA,$21-$49,$1 - $20,$21-$49,$50-$99,0,$21-$49,"$1,000-$1,999",$1 - $20,$200-$499,$1 - $20,Four nights,NA,280
+148,20,3-4 days,3,Female,35-44,80306,Yes,2 days,$21-$49,0,$1 - $20,0,$1 - $20,$100-$199,NA,$50-$99,$100-$199,$1 - $20,Three nights,Hotel or motel,500
+39,3-4 times,1-2 days,2,Female,75-84,80306,Yes,1 day,0,0,0,0,0,0,0,$50-$99,$20-$49,$200-$499,NA,Home,280
+22,20,1-2 days,3,Female,65-74,80309,No,A few hours,0,0,0,$1 - $20,0,$1 - $20,$1 - $20,NA,$1 - $20,$1 - $20,Local,"Friends, family or no expense",200
+206,20,5-6 days,2,Female,Prefer not to say,80309,NA,A few hours,$50-$99,NA,$1 - $20,$1 - $20,"$1,000-$1,499",$21-$49,$20-$49,$1 - $20,$500-$999,$50-$99,Day trip,"Friends, family or no expense",240
+209,20,20,4,Female,45-54,80303,Yes,Live in area,$50-$99,$200-$499,$100-$199,$200-$499,0,0,"$1,000-$1,999",$500-$999,NA,$200-$499,Four nights,"Friends, family or no expense",3
+238,5-6 times,7-8 days,4,Male,65-74,80306,No,NA,$50-$99,$50-$99,$50-$99,$50-$99,$50-$99,NA,$200-$499,$50-$99,$50-$99,$500-$999,I live here,Hotel or motel,NA
+148,20,3-4 days,3,Female,35-44,80306,Yes,2 days,$21-$49,0,$1 - $20,0,$1 - $20,$100-$199,NA,$50-$99,$100-$199,$1 - $20,Three nights,Hotel or motel,500
+204,20,1-2 days,5,Female,18-24,80303,No,2 days,$50-$99,0,0,$1 - $20,0,$200-$499,$200-$499,$200-$499,$1 - $20,$500-$999,Three nights,Boulder Resident,500
+111,25,7-8 days,5,Female,35-44,93013,Yes,2 days,$100-$199,0,$50-$99,$50-$99,$50-$99,0,"$1,000-$1,999",$50-$99,$500-$999,0,One night,"Friends, family or no expense",125
+272,20,1-2 days,4,Female,65-74,80305,Yes,1 day,$200-$499,$21-$49,$1 - $20,$50-$99,$100-$199,$50-$99,$50-$99,$50-$99,$20-$49,$50-$99,Live in Boulder,Boulder Resident,125
+148,20,3-4 days,3,Female,35-44,80306,Yes,2 days,$21-$49,0,$1 - $20,0,$1 - $20,$100-$199,NA,$50-$99,$100-$199,$1 - $20,Three nights,Hotel or motel,500
+141,10,3-4 days,3,Female,35-44,80305,NA,2 days,$21-$49,0,$1 - $20,$1 - $20,$1 - $20,0,$20-$49,$200-$499,$50-$99,$200-$499,I live here,Hotel or motel,240
+24,1-2 times,0,0,Female,35-44,80303,No,1 day,0,0,0,0,0,0,$50-$99,$100-$199,$20-$49,$20-$49,Local,NA,N/A
+142,10,3-4 days,20,Female,45-54,80305,Yes,0,$21-$49,0,$21-$49,$1 - $20,0,0,$200-$499,$200-$499,$100-$199,$20-$49,Local,NA,175
+172,1-2 times,1-2 days,3,Female,25-34,80309,NA,A few hours,$21-$49,0,0,$1 - $20,0,0,"$2,000-$4,999",0,0,NA,Local resident,Home,240
+175,1-2 times,7-8 days,3,Male,35-44,93437,NA,0,$21-$49,0,$50-$99,$21-$49,0,0,0,$1 - $20,$500-$999,NA,NA,"Friends, family or no expense",500
+272,20,1-2 days,4,Female,65-74,80305,Yes,1 day,$200-$499,$21-$49,$1 - $20,$50-$99,$100-$199,$50-$99,$50-$99,$50-$99,$20-$49,$50-$99,Live in Boulder,Boulder Resident,125
+205,20,3-4 days,3,Female,35-44,80309,Yes,NA,$50-$99,0,$1 - $20,$1 - $20,0,$1 - $20,"$2,000-$4,999",$200-$499,0,$1 - $20,Live in Boulder,Home,3
+204,20,1-2 days,5,Female,18-24,80303,No,2 days,$50-$99,0,0,$1 - $20,0,$200-$499,$200-$499,$200-$499,$1 - $20,$500-$999,Three nights,Boulder Resident,500
+240,1,12,4,Female,18-24,12345,Yes,-,$500-$999,"$2,000-$3,000",$100-$199,$500-$999,0,$500-$999,$1 - $20,$100-$199,$200-$499,$1 - $20,Day trip,Hotel or motel,3
+205,20,3-4 days,3,Female,35-44,80309,Yes,NA,$50-$99,0,$1 - $20,$1 - $20,0,$1 - $20,"$2,000-$4,999",$200-$499,0,$1 - $20,Live in Boulder,Home,3
+13,20,0,2,Female,55-64,80303,NA,1 day,0,0,0,0,0,0,"$1,000-$1,999",$200-$499,$100-$199,$20-$49,Day trip,"Friends, family or no expense",125
+111,25,7-8 days,5,Female,35-44,93013,Yes,2 days,$100-$199,0,$50-$99,$50-$99,$50-$99,0,"$1,000-$1,999",$50-$99,$500-$999,0,One night,"Friends, family or no expense",125
+96,5-6 times,1-2 days,2,Female,45-54,80306,Yes,Didn't extend stay,$1 - $20,"$1,000-$1,499",0,0,0,0,$200-$499,$1 - $20,$20-$49,$500-$999,Day trip,NA,240
+45,5-6 times,1-2 days,1,Female,35-44,80303,NA,0,0,0,0,0,0,0,"$1,000-$1,999",$50-$99,$1 - $20,NA,NA,"Friends, family or no expense",0
+210,20,3-4 days,3,Female,25-34,80306,NA,Zero,$50-$99,$1 - $20,0,$21-$49,$1 - $20,0,0,NA,NA,0,Four nights,Hotel or motel,240
+154,20,3-4 days,2,Female,75-84,80304,Yes,2 days,$21-$49,0,$100-$199,$1 - $20,0,0,NA,0,0,NA,Day trip,"Friends, family or no expense",125
+201,20,5-6 days,6,Female,25-34,80305,No,Live in area,$50-$99,$50-$99,$1 - $20,$21-$49,$500-$999,$500-$999,$1 - $20,$1 - $20,$20-$49,$1 - $20,Live in Boulder,Hotel or motel,500
+283,1-2 times,1-2 days,6,Male,35-44,91792,Yes,Zero,$1 - $20,0,"$1,000-$1,499",0,"$1,000-$1,499","$5,000.00",$100-$199,NA,$1 - $20,$200-$499,Two nights,Home,175
+94,5-6 times,1-2 days,2,Female,35-44,80309,Yes,1 day,$1 - $20,0,0,0,0,$21-$49,"$2,000-$4,999",NA,$100-$199,$500-$999,Local,Hotel or motel,240
+218,20,5-6 days,5,Female,25-34,80303,Yes,2 days,$50-$99,$50-$99,$21-$49,$21-$49,0,$21-$49,"$2,000-$4,999",$50-$99,$200-$499,$20-$49,Local resident,Boulder Resident,0
+17,20,0,0,Female,65-74,80309,No,NA,0,0,0,0,0,0,$200-$499,$200-$499,$500-$999,0,Resident,Hotel or motel,175
+183,3-4 times,1-2 days,4,Female,25-34,80306,NA,A few hours,$21-$49,$100-$199,"$1,000-$1,499",NA,$100-$199,$1 - $20,$1 - $20,0,$500-$999,$500-$999,Live in Boulder,NA,125
+34,1-2 times,1-2 days,1,Male,75-84,80306,No,-,0,0,0,0,0,0,0,$100-$199,NA,0,Four nights,Home,240
+39,3-4 times,1-2 days,2,Female,75-84,80306,Yes,1 day,0,0,0,0,0,0,0,$50-$99,$20-$49,$200-$499,NA,Home,280
+98,5-6 times,1-2 days,2,Male,25-34,80306,NA,2 days,$1 - $20,0,0,$21-$49,0,0,$1 - $20,$100-$199,0,$50-$99,One night,Boulder Resident,125
+251,20,3-4 days,2,Male,55-64,93111,No,Home is here,$1 - $20,$1 - $20,$1 - $20,$21-$49,$200-$499,0,$100-$199,$100-$199,$100-$199,$50-$99,Multiple day trips,Boulder Resident,125
+242,20,5-6 days,6,Male,45-54,80303,NA,Live in area,$500-$999,$500-$999,$50-$99,$100-$199,0,0,NA,$1 - $20,NA,0,One night,NA,280
+65,20,3-4 days,3,Female,45-54,80309,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$1 - $20,$1 - $20,$1 - $20,0,$1 - $20,$1 - $20,$1 - $20,NA,$50-$99,$50-$99,Resident,Home,200
+174,1-2 times,3-4 days,5,Female,25-34,80309,Yes,2 days,$21-$49,0,$21-$49,$21-$49,0,0,"$2,000-$4,999",0,$1 - $20,$50-$99,NA,"Friends, family or no expense",N/A
+249,1,1-2 days,5,Female,25-34,93464,No,Home is here,"$1,000.00","$2,000-$3,000",$500-$999,$1 - $20,$1 - $20,$100-$199,$50-$99,$50-$99,$100-$199,$20-$49,Three nights,Home,3
+5,7,3-4 days,2,Female,45-54,80304,Yes,Didn't extend stay,0,0,0,$1 - $20,0,0,$100-$199,0,$500-$999,$50-$99,Multiple day trips,Hotel or motel,0
+102,20,3-4 days,8,Female,35-44,80303,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$100-$199,$100-$199,$1 - $20,$1 - $20,0,"$3,000-$4,000",$200-$499,$100-$199,$100-$199,$1 - $20,Three nights,NA,500
+192,5-6 times,3-4 days,3,Male,45-54,80306,Yes,Live in area,$21-$49,"$1,000-$1,499",$21-$49,$1 - $20,"$1,000-$1,499",$21-$49,NA,$200-$499,$500-$999,$20-$49,Local,Boulder Resident,175
+109,20,5-6 days,8,Female,35-44,80306,NA,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$100-$199,0,$50-$99,$21-$49,0,NA,NA,0,$50-$99,$200-$499,Day trip,Hotel or motel,0
+12,20,0,0,Female,55-64,80309,Yes,2 days,0,0,0,0,0,0,NA,0,$1 - $20,$200-$499,Live in Boulder,NA,175
+283,1-2 times,1-2 days,6,Male,35-44,91792,Yes,Zero,$1 - $20,0,"$1,000-$1,499",0,"$1,000-$1,499","$5,000.00",$100-$199,NA,$1 - $20,$200-$499,Two nights,Home,175
+189,5-6 times,1-2 days,0.5,Female,55-64,93108,Yes,Live in area,$21-$49,0,0,$1 - $20,0,$50-$99,$20-$49,$50-$99,$1 - $20,$50-$99,Local resident,Home,200
+255,20,1-2 days,4,Male,55-64,93111,NA,I live here,0,$50-$99,$1 - $20,$21-$49,0,$1 - $20,$100-$199,$100-$199,$20-$49,$20-$49,Day trip,Home,280
+180,3-4 times,3-4 days,4,Female,25-34,80306,Yes,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$21-$49,$50-$99,0,$21-$49,$1 - $20,0,"$1,000-$1,999",0,NA,NA,Live in Boulder,Boulder Resident,N/A
+254,20,1-2 days,11,Female,55-64,93454,Yes,-,$200-$499,$500-$999,$100-$199,$21-$49,$500-$999,$21-$49,$50-$99,0,0,$20-$49,Day trip,"Friends, family or no expense",280
+65,20,3-4 days,3,Female,45-54,80309,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$1 - $20,$1 - $20,$1 - $20,0,$1 - $20,$1 - $20,$1 - $20,NA,$50-$99,$50-$99,Resident,Home,200
+68,20,0,1,Male,55-64,80306,Yes,-,$1 - $20,0,0,$1 - $20,0,0,NA,$1 - $20,$1 - $20,$1 - $20,Resident,Boulder Resident,125
+114,1-2 times,1-2 days,5,Female,25-34,80304,Yes,0,$100-$199,0,0,$21-$49,0,0,NA,NA,NA,NA,I live here,Home,175
+22,20,1-2 days,3,Female,65-74,80309,No,A few hours,0,0,0,$1 - $20,0,$1 - $20,$1 - $20,NA,$1 - $20,$1 - $20,Local,"Friends, family or no expense",200
+7,20,0,3,Male,45-54,80302,No,Zero,0,0,0,0,0,0,"$2,000-$4,999",$1 - $20,$100-$199,$20-$49,Three nights,Boulder Resident,NA
+76,1-2 times,1-2 days,1,Female,18-24,91104,Yes,A few hours,$1 - $20,0,0,0,0,0,$200-$499,$20-$49,NA,$20-$49,Day trip,Home,280
+128,20,7-8 days,3,Female,35-44,80309,No,Live in area,$200-$499,0,$21-$49,$21-$49,0,$200-$499,$20-$49,$200-$499,NA,$20-$49,Four nights,Boulder Resident,NA
+254,20,1-2 days,11,Female,55-64,93454,Yes,-,$200-$499,$500-$999,$100-$199,$21-$49,$500-$999,$21-$49,$50-$99,0,0,$20-$49,Day trip,"Friends, family or no expense",280
+287,5-6 times,1-2 days,4,Female,45-54,91320,NA,Home is here,0,$200-$499,$100-$199,$500-$999,$21-$49,"$5,000.00",$20-$49,$50-$99,$200-$499,$200-$499,Day trip,Hotel or motel,240
+155,20,3-4 days,2,Female,55-64,80306,No,1 day,$21-$49,0,$50-$99,$1 - $20,0,0,$100-$199,$100-$199,$50-$99,$50-$99,Two nights,Home,200
+94,5-6 times,1-2 days,2,Female,35-44,80309,Yes,1 day,$1 - $20,0,0,0,0,$21-$49,"$2,000-$4,999",NA,$100-$199,$500-$999,Local,Hotel or motel,240
+285,3-4 times,1-2 days,3,Female,85,80309,No,1 day,$500-$999,$21-$49,0,$50-$99,"$1,000-$1,499",$500-$999,$20-$49,$500-$999,$1 - $20,0,I live here,Hotel or motel,125
+106,20,1-2 days,6,Female,55-64,80304,No,Zero,$100-$199,0,0,$21-$49,$1 - $20,NA,"$1,000-$1,999",$20-$49,0,$200-$499,Multiple day trips,NA,200
+239,0,3,5,Female,35-44,93111,No,Home is here,$50-$99,0,$1 - $20,$1 - $20,0,0,$200-$499,0,$100-$199,$1 - $20,Local,Home,3
+291,5-6 times,7-8 days,3,Female,45-54,80306,NA,Didn't extend stay,$21-$49,$50-$99,$1 - $20,$1 - $20,$21-$49,$1 - $20,0,NA,$50-$99,$50-$99,Resident,NA,500
+225,3-4 times,1-2 days,4,Male,25-34,80303,NA,I live here,$50-$99,0,0,0,0,$1 - $20,"$1,000-$1,999",$200-$499,0,$50-$99,Four nights,Boulder Resident,280
+234,5-6 times,1-2 days,2,Female,45-54,80303,Yes,I live here,$50-$99,0,0,0,0,0,$1 - $20,$200-$499,$200-$499,$500-$999,Local,Boulder Resident,N/A
+82,1-2 times,3-4 days,10,Female,55-64,80306,No,1 day,$1 - $20,$21-$49,$1 - $20,$21-$49,$500-$999,"$5,000.00",$20-$49,$100-$199,0,$20-$49,Multiple day trips,Home,3
+281,1-2 times,3-4 days,4,Male,18-24,93107,Yes,-,$200-$499,$100-$199,"$1,000-$1,499",$1 - $20,$100-$199,$21-$49,$1 - $20,0,0,0,Resident,Home,0
+87,3-4 times,5-6 days,5,Female,55-64,80309,No,NA,$1 - $20,0,$100-$199,$1 - $20,$21-$49,0,$20-$49,$1 - $20,$500-$999,$500-$999,Four nights,"Friends, family or no expense",175
+49,5-6 times,0,10,Female,55-64,80306,NA,Live in area,0,0,0,0,0,0,$100-$199,NA,$1 - $20,$1 - $20,I live here,NA,NA
+13,20,0,2,Female,55-64,80303,NA,1 day,0,0,0,0,0,0,"$1,000-$1,999",$200-$499,$100-$199,$20-$49,Day trip,"Friends, family or no expense",125
+131,20,3-4 days,3,Male,45-54,80303,NA,2 days,$200-$499,"$1,000-$1,499",$21-$49,$50-$99,$1 - $20,$200-$499,"$1,000-$1,999",$50-$99,$20-$49,$1 - $20,Three nights,"Friends, family or no expense",500
+69,20,1-2 days,3,Female,55-64,80306,NA,Live in area,$1 - $20,0,0,$1 - $20,$1 - $20,"$5,000.00",$200-$499,$500-$999,$500-$999,$500-$999,Local resident,"Friends, family or no expense",0
+236,5-6 times,3-4 days,5,Male,45-54,80303,NA,NA,$50-$99,$500-$999,$100-$199,$200-$499,$500-$999,$50-$99,"$2,000-$4,999",$20-$49,$1 - $20,$200-$499,Local,Home,240
+202,20,3-4 days,9,Male,35-44,80303,NA,2 days,$50-$99,0,0,0,0,0,"$1,000-$1,999",NA,$500-$999,$1 - $20,Two nights,"Friends, family or no expense",3
+27,1-2 times,1-2 days,1,Female,45-54,80309,No,I live here,0,0,0,0,0,0,$20-$49,$1 - $20,$200-$499,$500-$999,Four nights,Hotel or motel,NA
+162,20,3-4 days,9,Male,35-44,80305,No,NA,$21-$49,$21-$49,$21-$49,$21-$49,$21-$49,$21-$49,$200-$499,0,$1 - $20,$500-$999,Local,Home,0
+248,1,3-4 days,4,Female,35-44,93611,NA,A few hours,$1 - $20,$21-$49,$100-$199,$1 - $20,NA,$21-$49,"$1,000-$1,999",0,$50-$99,$200-$499,Three nights,Hotel or motel,500
+274,20,3-4 days,6,Female,55-64,80306,No,Home is here,NA,$1 - $20,$1 - $20,$100-$199,"$1,000-$1,499",$100-$199,$100-$199,NA,$200-$499,$1 - $20,One night,NA,0
+68,20,0,1,Male,55-64,80306,Yes,-,$1 - $20,0,0,$1 - $20,0,0,NA,$1 - $20,$1 - $20,$1 - $20,Resident,Boulder Resident,125
+185,5-6 times,1-2 days,1,Female,25-34,93013,No,"Well, we try not to extend our stay, but the traffic blockage caused by the Festival slow us down.",$21-$49,0,0,0,0,0,"$2,000-$4,999",$500-$999,$500-$999,$20-$49,One night,Hotel or motel,N/A
+165,20,1-2 days,2,Female,35-44,80304,NA,Zero,$21-$49,$200-$499,$1 - $20,0,NA,$50-$99,$50-$99,$200-$499,$200-$499,0,Day trip,"Friends, family or no expense",125
+58,20,1-2 days,1,Male,45-54,80309,No,2 days,$1 - $20,0,0,0,0,0,"$1,000-$1,999",$1 - $20,$200-$499,$200-$499,Four nights,Home,200
+164,20,1-2 days,3,Female,55-64,80306,NA,I live here,$21-$49,"$2,000-$3,000",$21-$49,"$2,000-$3,000",$1 - $20,"$5,000.00",$1 - $20,$1 - $20,$20-$49,$200-$499,NA,Home,240
+39,3-4 times,1-2 days,2,Female,75-84,80306,Yes,1 day,0,0,0,0,0,0,0,$50-$99,$20-$49,$200-$499,NA,Home,280
+208,20,1-2 days,3,Male,45-54,80303,No,1 day,$50-$99,"$2,000-$3,000",$200-$499,$1 - $20,$200-$499,$21-$49,0,$20-$49,$1 - $20,0,One night,NA,240
+189,5-6 times,1-2 days,0.5,Female,55-64,93108,Yes,Live in area,$21-$49,0,0,$1 - $20,0,$50-$99,$20-$49,$50-$99,$1 - $20,$50-$99,Local resident,Home,200
+79,1-2 times,1-2 days,0.5,Male,18-24,80306,No,Live in area,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$1 - $20,$50-$99,$1 - $20,$100-$199,$50-$99,Multiple day trips,NA,200
+289,5-6 times,0,8,Female,35-44,95833,NA,I live here,$1 - $20,$200-$499,$1 - $20,0,"$1,000-$1,499",$200-$499,$20-$49,$1 - $20,$1 - $20,$1 - $20,Two nights,"Friends, family or no expense",175
+179,3-4 times,3-4 days,4,Female,65-74,80309,NA,1 day,$21-$49,0,0,$21-$49,$200-$499,$21-$49,$50-$99,$500-$999,$20-$49,$20-$49,One night,Hotel or motel,240
+200,20,1-2 days,4,Female,55-64,93003,Yes,A few hours,$50-$99,0,$1 - $20,$21-$49,0,0,$100-$199,$50-$99,$50-$99,$500-$999,Day trip,Boulder Resident,175
+152,20,1-2 days,2.5,Female,25-34,80304,No,2 days,$21-$49,0,$1 - $20,$1 - $20,0,$21-$49,"$2,000-$4,999",0,$20-$49,$200-$499,Live in Boulder,"Friends, family or no expense",280
+153,20,5-6 days,4,Female,35-44,80306,No,Didn't extend stay,$21-$49,$21-$49,$1 - $20,$1 - $20,"$1,000-$1,499",$1 - $20,"$2,000-$4,999",0,$200-$499,$50-$99,Resident,Home,125
+145,20,1-2 days,5,Female,35-44,80309,NA,2 days,$21-$49,0,0,0,0,$100-$199,$20-$49,$100-$199,$500-$999,$200-$499,Local resident,Boulder Resident,280
+216,20,5-6 days,5,Female,45-54,80303,No,Home is here,$50-$99,$100-$199,$100-$199,$21-$49,0,$500-$999,$100-$199,$500-$999,$50-$99,NA,One night,Home,3
